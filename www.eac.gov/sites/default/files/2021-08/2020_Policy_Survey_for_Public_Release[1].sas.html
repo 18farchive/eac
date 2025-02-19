@@ -1,0 +1,1600 @@
+
+
+libname library '' ;
+
+proc format library = library ;
+   value Q1A_1F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q1A_2F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q1A_3F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q1A_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q2_2_1F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2_2_2F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2_2_3F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2_2_4F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2_2_5F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2_2_6F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2_2_7F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2_2_8F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2_2_9F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2_2_10F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2A_3_1F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2A_3_2F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2A_3_3F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2A_3_4F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2A_3_5F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2A_3_6F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2A_3_7F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2A_3_8F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2A_3_9F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2A_3_10F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2A_4_1F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2A_4_2F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2A_4_3F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2A_4_4F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2A_4_5F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2A_4_6F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2A_4_7F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2A_4_8F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2A_4_9F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2A_4_10F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q2B
+      -100 = 'Refused'  
+      1 = 'Yes, consolidation of local jurisdictions'  
+      2 = 'Yes, creation of new local jurisdictions'  
+      3 = 'Yes, both consolidation and creation'  
+      4 = 'No' ;
+   value Q2C_SCREEN
+      1 = 'No, my state has 200 or fewer offices to report contact information for'  
+      2 = 'Yes, my state has 201 or more offices to report contact information for' ;
+   value Q3_1F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Entirely by state election office'  
+      2 = 'Entirely by local election offices'  
+      3 = 'In part by the state and in part by local election offices' ;
+   value Q3_2F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Entirely by state election office'  
+      2 = 'Entirely by local election offices'  
+      3 = 'In part by the state and in part by local election offices' ;
+   value Q3_3F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Entirely by state election office'  
+      2 = 'Entirely by local election offices'  
+      3 = 'In part by the state and in part by local election offices' ;
+   value Q3_4F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Entirely by state election office'  
+      2 = 'Entirely by local election offices'  
+      3 = 'In part by the state and in part by local election offices' ;
+   value Q3_5F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Entirely by state election office'  
+      2 = 'Entirely by local election offices'  
+      3 = 'In part by the state and in part by local election offices' ;
+   value Q3_6F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Entirely by state election office'  
+      2 = 'Entirely by local election offices'  
+      3 = 'In part by the state and in part by local election offices' ;
+   value Q4F
+      -100 = 'Refused'  
+      -77 = 'Valid Skip'  
+      1 = 'Top-down'  
+      2 = 'Bottom-up'  
+      3 = 'Hybrid' ;
+   value Q4A
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'In real-time'  
+      2 = 'Daily'  
+      3 = 'Other (please describe): [TEXTBOX]' ;
+   value Q5A_1F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q5B_1F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q5C_1F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q5D_1F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q5E_1F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q5F_1F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q5G_1F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q5H_1F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q5I_1F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q5A_2F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Real-time'  
+      2 = 'Daily'  
+      3 = 'Weekly'  
+      4 = 'Monthly'  
+      5 = 'Other (please describe): [TEXTBOX]' ;
+   value Q5B_2F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Real-time'  
+      2 = 'Daily'  
+      3 = 'Weekly'  
+      4 = 'Monthly'  
+      5 = 'Other (please describe): [TEXTBOX]' ;
+   value Q5C_2F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Real-time'  
+      2 = 'Daily'  
+      3 = 'Weekly'  
+      4 = 'Monthly'  
+      5 = 'Other (please describe): [TEXTBOX]' ;
+   value Q5D_2F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Real-time'  
+      2 = 'Daily'  
+      3 = 'Weekly'  
+      4 = 'Monthly'  
+      5 = 'Other (please describe): [TEXTBOX]' ;
+   value Q5E_2F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Real-time'  
+      2 = 'Daily'  
+      3 = 'Weekly'  
+      4 = 'Monthly'  
+      5 = 'Other (please describe): [TEXTBOX]' ;
+   value Q5F_2F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Real-time'  
+      2 = 'Daily'  
+      3 = 'Weekly'  
+      4 = 'Monthly'  
+      5 = 'Other (please describe): [TEXTBOX]' ;
+   value Q5G_2F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Real-time'  
+      2 = 'Daily'  
+      3 = 'Weekly'  
+      4 = 'Monthly'  
+      5 = 'Other (please describe): [TEXTBOX]' ;
+   value Q5H_2F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Real-time'  
+      2 = 'Daily'  
+      3 = 'Weekly'  
+      4 = 'Monthly'  
+      5 = 'Other (please describe): [TEXTBOX]' ;
+   value Q5I_2F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Real-time'  
+      2 = 'Daily'  
+      3 = 'Weekly'  
+      4 = 'Monthly'  
+      5 = 'Other (please describe): [TEXTBOX]' ;
+   value Q6F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q6A_1F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q6A_2F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q6A_3F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q6A_4F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q6A_5F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q6A_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q6B_1F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q6B_2F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q6B_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q7F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes, individuals can both register to vote and update their registration via the'  
+      2 = 'Yes, individuals can update their registration via the system'  
+      3 = 'No' ;
+   value Q7A
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q7B_1F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q7B_2F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q7B_3F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q7B_4F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q7B_5F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q7B_6F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q7B_7F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q7B_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q8_1F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q8_2F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q8_3F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q8_4F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q8_5F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q8_6F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q8_7F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q8_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q9F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q9A_1F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q9A_2F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q9A_3F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q9A_4F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q9A_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q10F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes, persons who are at least [TEXTBOX] years of age may pre-register'  
+      2 = 'No, our state does not allow for pre-registration' ;
+   value Q11F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q11A_1F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q11A_2F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q11A_3F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q11A_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q11B_1F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q11B_2F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q11B_3F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q11B_4F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q11B_5F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q11B_6F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q11B_7F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q11B_8F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q11B_9F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q11B_10F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q11B_11F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q11B_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q12F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Only state officials'  
+      2 = 'Only local officials'  
+      3 = 'Both state and local officials'  
+      4 = 'Does not apply; state does not have voter registration' ;
+   value Q13_1F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q13_2F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q13_3F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q13_4F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q13_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q13A_1F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q13A_2F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q13A_3F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q13A_4F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q13A_5F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q13A_6F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q13A_7F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q13A_8F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q13A_9F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q13A_10F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q13A_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q13A_8OE
+      -77 = 'Valid skip' ;
+   value Q13A_9OE
+      -77 = 'Valid skip' ;
+   value Q14_1F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q14_2F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q14_3F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q14_4F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q14_5F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q14_6F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q14_7F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q14_8F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q14_9F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q14_10F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q14_11F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q14_12F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q14_13F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q14_14F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q14_15F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q14_16F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q14_17F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q14_18F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q14_19F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q14_20F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q14_21F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q14_22F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q14_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q15F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Voting system testing and certification are required by statute'  
+      2 = 'Voting system testing and certification are required by formal administrative ru'  
+      3 = 'Our state does not require any type of voting system testing and certification p' ;
+   value Q15A_1F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q15A_2F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q15A_3F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q15A_4F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q15A_5F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q15A_6F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q15A_7F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q15A_8F
+      -77 = 'Valid skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q15A_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q16F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q16A
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Electronic poll book testing and certification are required by statute'  
+      2 = 'Electronic poll book testing and certification are required by formal administra'  
+      3 = 'Our state does not require any type of electronic poll book testing and certific' ;
+   value Q17F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes, an excuse is required'  
+      2 = 'No excuse required' ;
+   value Q18F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q18A
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Statewide'  
+      2 = 'Only in certain jurisdictions' ;
+   value Q19F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'No'  
+      2 = 'Yes, any registrant can request to be a permanent absentee voter'  
+      3 = 'Yes, individuals who meet specific criteria can request to be permanent absentee' ;
+   value Q19A_1F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q19A_2F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q19A_3F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q19A_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q20_1_1F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q20_1_2F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q20_1_3F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q20_2_1F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q20_2_2F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q20_2_3F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q20_2_4F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q20_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q20_1_1OE
+      -77 = 'Valid skip' ;
+   value Q20_2_1OE
+      -77 = 'Valid skip' ;
+   value Q20_2_3OE
+      -77 = 'Valid skip' ;
+   value Q21F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Until canvass is complete'  
+      2 = 'Until a specified date'  
+      3 = 'Indefinitely' ;
+   value Q22_1F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q22_2F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q22_3F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q22_4F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q22_5F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q22_6F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q22_7F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q22_8F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q22_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q23_1F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q23_2F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q23_3F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q23_4F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q23_5F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q23_6F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q23_7F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q23_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q24_1F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q24_2F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q24_3F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q24_4F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q24_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q24A
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q25F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q25A
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Our state requires the use of vote centers statewide.'  
+      2 = 'Our state has vote centers, but only in jurisdictions that meet specific require'  
+      3 = 'Our state has vote centers, but jurisdictions have the option not to implement v' ;
+   value Q26_1F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q26_2F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q26_3F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q26_4F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q26_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q27F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Permanent'  
+      2 = 'Temporary' ;
+   value Q28F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = '[TEXTBOX] months'  
+      2 = '[TEXTBOX] calendar years'  
+      3 = '[TEXTBOX] general elections'  
+      4 = 'Until the voter moves (notified via postal service or voter)'  
+      5 = 'Other (please specify): [TEXTBOX]' ;
+   value Q28_1OE
+      -77 = 'Valid skip' ;
+   value Q28_2OE
+      -77 = 'Valid skip' ;
+   value Q28_3OE
+      -77 = 'Valid skip' ;
+   value Q29_1_1F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q29_1_2F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q29_1_3F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q29_2_1F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q29_2_2F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q29_2_3F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q29_2_4F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q29_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q29_1_1OE
+      -77 = 'Valid skip' ;
+   value Q29_2_1OE
+      -77 = 'Valid skip' ;
+   value Q29_2_3OE
+      -77 = 'Valid skip' ;
+   value Q30_1_1F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q30_1_2F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q30_1_3F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q30_2_1F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q30_2_2F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q30_2_3F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q30_2_4F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q30_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q30_1_1OE
+      -77 = 'Valid skip' ;
+   value Q30_2_1OE
+      -77 = 'Valid skip' ;
+   value Q30_2_3OE
+      -77 = 'Valid skip' ;
+   value Q31F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'No'  
+      2 = 'Yes (please explain): [TEXTBOX]' ;
+   value Q32F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes'  
+      2 = 'No' ;
+   value Q32A_1F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q32A_2F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q32A_3F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q32A_4F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q32A_5F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q32A_6F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q32A_7F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q32A_8F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q32A_9F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q32A_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q32B
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Specific date: [TEXTBOX]'  
+      2 = '[TEXTBOX] days after Election Day'  
+      3 = 'Other (please describe)' ;
+   value Q32B_2OE
+      -77 = 'Valid skip' ;
+   value Q32C
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Fully count the entire ballot'  
+      2 = 'Partially count the ballot (e.g., only count the items on the ballot for which t'  
+      3 = 'Reject the entire ballot' ;
+   value Q34_1F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q34_2F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q34_3F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q34_4F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q34_5F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q34_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q35F
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Yes, post-election tabulation audits are required by statute'  
+      2 = 'Yes, post-election tabulation audits are required by formal administrative rule'  
+      3 = 'No, our state does not require any type of post-election tabulation audit'  
+      4 = 'Other (please describe): [TEXTBOX]' ;
+   value Q35A_1F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q35A_2F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q35A_3F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q35A_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q36_1F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q36_2F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q36_3F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q36_4F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q36_5F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q36_6F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q36_7F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q36_8F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q36_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q36A
+      -100 = 'Refused'  
+      -77 = 'Valid skip'  
+      1 = 'Specific date: [TEXTBOX]'  
+      2 = '[TEXTBOX] days after Election Day' ;
+   value Q36A_2OE
+      -77 = 'Valid skip' ;
+   value Q37_1F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q37_2F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q37_3F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q37_4F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q37_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q37A_1F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q37A_2F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q37A_3F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q37A_4F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q37A_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+   value Q37B_1F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q37B_2F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q37B_3F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q37B_4F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q37B_5F
+      -77 = 'Valid Skip'  
+      0 = 'Not selected'  
+      1 = 'Selected' ;
+   value Q37B_REF
+      -77 = 'Valid skip'  
+      0 = '0: Answered'  
+      1 = '1: Refused' ;
+
+proc datasets library = library ;
+modify 2020_policy_survey_for_public_release;
+   format     Q1a_1 Q1A_1F.;
+   format     Q1a_2 Q1A_2F.;
+   format     Q1a_3 Q1A_3F.;
+   format   Q1a_REF Q1A_REF.;
+   format    Q2_2_1 Q2_2_1F.;
+   format    Q2_2_2 Q2_2_2F.;
+   format    Q2_2_3 Q2_2_3F.;
+   format    Q2_2_4 Q2_2_4F.;
+   format    Q2_2_5 Q2_2_5F.;
+   format    Q2_2_6 Q2_2_6F.;
+   format    Q2_2_7 Q2_2_7F.;
+   format    Q2_2_8 Q2_2_8F.;
+   format    Q2_2_9 Q2_2_9F.;
+   format   Q2_2_10 Q2_2_10F.;
+   format   Q2a_3_1 Q2A_3_1F.;
+   format   Q2a_3_2 Q2A_3_2F.;
+   format   Q2a_3_3 Q2A_3_3F.;
+   format   Q2a_3_4 Q2A_3_4F.;
+   format   Q2a_3_5 Q2A_3_5F.;
+   format   Q2a_3_6 Q2A_3_6F.;
+   format   Q2a_3_7 Q2A_3_7F.;
+   format   Q2a_3_8 Q2A_3_8F.;
+   format   Q2a_3_9 Q2A_3_9F.;
+   format  Q2a_3_10 Q2A_3_10F.;
+   format   Q2a_4_1 Q2A_4_1F.;
+   format   Q2a_4_2 Q2A_4_2F.;
+   format   Q2a_4_3 Q2A_4_3F.;
+   format   Q2a_4_4 Q2A_4_4F.;
+   format   Q2a_4_5 Q2A_4_5F.;
+   format   Q2a_4_6 Q2A_4_6F.;
+   format   Q2a_4_7 Q2A_4_7F.;
+   format   Q2a_4_8 Q2A_4_8F.;
+   format   Q2a_4_9 Q2A_4_9F.;
+   format  Q2a_4_10 Q2A_4_10F.;
+   format       Q2b Q2B.;
+   format Q2c_Screen Q2C_SCREEN.;
+   format      Q3_1 Q3_1F.;
+   format      Q3_2 Q3_2F.;
+   format      Q3_3 Q3_3F.;
+   format      Q3_4 Q3_4F.;
+   format      Q3_5 Q3_5F.;
+   format      Q3_6 Q3_6F.;
+   format        Q4 Q4F.;
+   format       Q4a Q4A.;
+   format     Q5a_1 Q5A_1F.;
+   format     Q5b_1 Q5B_1F.;
+   format     Q5c_1 Q5C_1F.;
+   format     Q5d_1 Q5D_1F.;
+   format     Q5e_1 Q5E_1F.;
+   format     Q5f_1 Q5F_1F.;
+   format     Q5g_1 Q5G_1F.;
+   format     Q5h_1 Q5H_1F.;
+   format     Q5i_1 Q5I_1F.;
+   format     Q5a_2 Q5A_2F.;
+   format     Q5b_2 Q5B_2F.;
+   format     Q5c_2 Q5C_2F.;
+   format     Q5d_2 Q5D_2F.;
+   format     Q5e_2 Q5E_2F.;
+   format     Q5f_2 Q5F_2F.;
+   format     Q5g_2 Q5G_2F.;
+   format     Q5h_2 Q5H_2F.;
+   format     Q5i_2 Q5I_2F.;
+   format        Q6 Q6F.;
+   format     Q6a_1 Q6A_1F.;
+   format     Q6a_2 Q6A_2F.;
+   format     Q6a_3 Q6A_3F.;
+   format     Q6a_4 Q6A_4F.;
+   format     Q6a_5 Q6A_5F.;
+   format   Q6a_REF Q6A_REF.;
+   format     Q6b_1 Q6B_1F.;
+   format     Q6b_2 Q6B_2F.;
+   format   Q6b_REF Q6B_REF.;
+   format        Q7 Q7F.;
+   format       Q7a Q7A.;
+   format     Q7b_1 Q7B_1F.;
+   format     Q7b_2 Q7B_2F.;
+   format     Q7b_3 Q7B_3F.;
+   format     Q7b_4 Q7B_4F.;
+   format     Q7b_5 Q7B_5F.;
+   format     Q7b_6 Q7B_6F.;
+   format     Q7b_7 Q7B_7F.;
+   format   Q7b_REF Q7B_REF.;
+   format      Q8_1 Q8_1F.;
+   format      Q8_2 Q8_2F.;
+   format      Q8_3 Q8_3F.;
+   format      Q8_4 Q8_4F.;
+   format      Q8_5 Q8_5F.;
+   format      Q8_6 Q8_6F.;
+   format      Q8_7 Q8_7F.;
+   format    Q8_REF Q8_REF.;
+   format        Q9 Q9F.;
+   format     Q9a_1 Q9A_1F.;
+   format     Q9a_2 Q9A_2F.;
+   format     Q9a_3 Q9A_3F.;
+   format     Q9a_4 Q9A_4F.;
+   format   Q9a_REF Q9A_REF.;
+   format       Q10 Q10F.;
+   format       Q11 Q11F.;
+   format    Q11a_1 Q11A_1F.;
+   format    Q11a_2 Q11A_2F.;
+   format    Q11a_3 Q11A_3F.;
+   format  Q11a_REF Q11A_REF.;
+   format    Q11b_1 Q11B_1F.;
+   format    Q11b_2 Q11B_2F.;
+   format    Q11b_3 Q11B_3F.;
+   format    Q11b_4 Q11B_4F.;
+   format    Q11b_5 Q11B_5F.;
+   format    Q11b_6 Q11B_6F.;
+   format    Q11b_7 Q11B_7F.;
+   format    Q11b_8 Q11B_8F.;
+   format    Q11b_9 Q11B_9F.;
+   format   Q11b_10 Q11B_10F.;
+   format   Q11b_11 Q11B_11F.;
+   format  Q11b_REF Q11B_REF.;
+   format       Q12 Q12F.;
+   format     Q13_1 Q13_1F.;
+   format     Q13_2 Q13_2F.;
+   format     Q13_3 Q13_3F.;
+   format     Q13_4 Q13_4F.;
+   format   Q13_REF Q13_REF.;
+   format    Q13a_1 Q13A_1F.;
+   format    Q13a_2 Q13A_2F.;
+   format    Q13a_3 Q13A_3F.;
+   format    Q13a_4 Q13A_4F.;
+   format    Q13a_5 Q13A_5F.;
+   format    Q13a_6 Q13A_6F.;
+   format    Q13a_7 Q13A_7F.;
+   format    Q13a_8 Q13A_8F.;
+   format    Q13a_9 Q13A_9F.;
+   format   Q13a_10 Q13A_10F.;
+   format  Q13a_REF Q13A_REF.;
+   format  Q13a_8OE Q13A_8OE.;
+   format  Q13a_9OE Q13A_9OE.;
+   format     Q14_1 Q14_1F.;
+   format     Q14_2 Q14_2F.;
+   format     Q14_3 Q14_3F.;
+   format     Q14_4 Q14_4F.;
+   format     Q14_5 Q14_5F.;
+   format     Q14_6 Q14_6F.;
+   format     Q14_7 Q14_7F.;
+   format     Q14_8 Q14_8F.;
+   format     Q14_9 Q14_9F.;
+   format    Q14_10 Q14_10F.;
+   format    Q14_11 Q14_11F.;
+   format    Q14_12 Q14_12F.;
+   format    Q14_13 Q14_13F.;
+   format    Q14_14 Q14_14F.;
+   format    Q14_15 Q14_15F.;
+   format    Q14_16 Q14_16F.;
+   format    Q14_17 Q14_17F.;
+   format    Q14_18 Q14_18F.;
+   format    Q14_19 Q14_19F.;
+   format    Q14_20 Q14_20F.;
+   format    Q14_21 Q14_21F.;
+   format    Q14_22 Q14_22F.;
+   format   Q14_REF Q14_REF.;
+   format       Q15 Q15F.;
+   format    Q15a_1 Q15A_1F.;
+   format    Q15a_2 Q15A_2F.;
+   format    Q15a_3 Q15A_3F.;
+   format    Q15a_4 Q15A_4F.;
+   format    Q15a_5 Q15A_5F.;
+   format    Q15a_6 Q15A_6F.;
+   format    Q15a_7 Q15A_7F.;
+   format    Q15a_8 Q15A_8F.;
+   format  Q15a_REF Q15A_REF.;
+   format       Q16 Q16F.;
+   format      Q16a Q16A.;
+   format       Q17 Q17F.;
+   format       Q18 Q18F.;
+   format      Q18a Q18A.;
+   format       Q19 Q19F.;
+   format    Q19a_1 Q19A_1F.;
+   format    Q19a_2 Q19A_2F.;
+   format    Q19a_3 Q19A_3F.;
+   format  Q19a_REF Q19A_REF.;
+   format   Q20_1_1 Q20_1_1F.;
+   format   Q20_1_2 Q20_1_2F.;
+   format   Q20_1_3 Q20_1_3F.;
+   format   Q20_2_1 Q20_2_1F.;
+   format   Q20_2_2 Q20_2_2F.;
+   format   Q20_2_3 Q20_2_3F.;
+   format   Q20_2_4 Q20_2_4F.;
+   format   Q20_REF Q20_REF.;
+   format Q20_1_1OE Q20_1_1OE.;
+   format Q20_2_1OE Q20_2_1OE.;
+   format Q20_2_3OE Q20_2_3OE.;
+   format       Q21 Q21F.;
+   format     Q22_1 Q22_1F.;
+   format     Q22_2 Q22_2F.;
+   format     Q22_3 Q22_3F.;
+   format     Q22_4 Q22_4F.;
+   format     Q22_5 Q22_5F.;
+   format     Q22_6 Q22_6F.;
+   format     Q22_7 Q22_7F.;
+   format     Q22_8 Q22_8F.;
+   format   Q22_REF Q22_REF.;
+   format     Q23_1 Q23_1F.;
+   format     Q23_2 Q23_2F.;
+   format     Q23_3 Q23_3F.;
+   format     Q23_4 Q23_4F.;
+   format     Q23_5 Q23_5F.;
+   format     Q23_6 Q23_6F.;
+   format     Q23_7 Q23_7F.;
+   format   Q23_REF Q23_REF.;
+   format     Q24_1 Q24_1F.;
+   format     Q24_2 Q24_2F.;
+   format     Q24_3 Q24_3F.;
+   format     Q24_4 Q24_4F.;
+   format   Q24_REF Q24_REF.;
+   format      Q24a Q24A.;
+   format       Q25 Q25F.;
+   format      Q25a Q25A.;
+   format     Q26_1 Q26_1F.;
+   format     Q26_2 Q26_2F.;
+   format     Q26_3 Q26_3F.;
+   format     Q26_4 Q26_4F.;
+   format   Q26_REF Q26_REF.;
+   format       Q27 Q27F.;
+   format       Q28 Q28F.;
+   format   Q28_1OE Q28_1OE.;
+   format   Q28_2OE Q28_2OE.;
+   format   Q28_3OE Q28_3OE.;
+   format   Q29_1_1 Q29_1_1F.;
+   format   Q29_1_2 Q29_1_2F.;
+   format   Q29_1_3 Q29_1_3F.;
+   format   Q29_2_1 Q29_2_1F.;
+   format   Q29_2_2 Q29_2_2F.;
+   format   Q29_2_3 Q29_2_3F.;
+   format   Q29_2_4 Q29_2_4F.;
+   format   Q29_REF Q29_REF.;
+   format Q29_1_1OE Q29_1_1OE.;
+   format Q29_2_1OE Q29_2_1OE.;
+   format Q29_2_3OE Q29_2_3OE.;
+   format   Q30_1_1 Q30_1_1F.;
+   format   Q30_1_2 Q30_1_2F.;
+   format   Q30_1_3 Q30_1_3F.;
+   format   Q30_2_1 Q30_2_1F.;
+   format   Q30_2_2 Q30_2_2F.;
+   format   Q30_2_3 Q30_2_3F.;
+   format   Q30_2_4 Q30_2_4F.;
+   format   Q30_REF Q30_REF.;
+   format Q30_1_1OE Q30_1_1OE.;
+   format Q30_2_1OE Q30_2_1OE.;
+   format Q30_2_3OE Q30_2_3OE.;
+   format       Q31 Q31F.;
+   format       Q32 Q32F.;
+   format    Q32a_1 Q32A_1F.;
+   format    Q32a_2 Q32A_2F.;
+   format    Q32a_3 Q32A_3F.;
+   format    Q32a_4 Q32A_4F.;
+   format    Q32a_5 Q32A_5F.;
+   format    Q32a_6 Q32A_6F.;
+   format    Q32a_7 Q32A_7F.;
+   format    Q32a_8 Q32A_8F.;
+   format    Q32a_9 Q32A_9F.;
+   format  Q32a_REF Q32A_REF.;
+   format      Q32b Q32B.;
+   format  Q32b_2OE Q32B_2OE.;
+   format      Q32c Q32C.;
+   format     Q34_1 Q34_1F.;
+   format     Q34_2 Q34_2F.;
+   format     Q34_3 Q34_3F.;
+   format     Q34_4 Q34_4F.;
+   format     Q34_5 Q34_5F.;
+   format   Q34_REF Q34_REF.;
+   format       Q35 Q35F.;
+   format    Q35a_1 Q35A_1F.;
+   format    Q35a_2 Q35A_2F.;
+   format    Q35a_3 Q35A_3F.;
+   format  Q35a_REF Q35A_REF.;
+   format     Q36_1 Q36_1F.;
+   format     Q36_2 Q36_2F.;
+   format     Q36_3 Q36_3F.;
+   format     Q36_4 Q36_4F.;
+   format     Q36_5 Q36_5F.;
+   format     Q36_6 Q36_6F.;
+   format     Q36_7 Q36_7F.;
+   format     Q36_8 Q36_8F.;
+   format   Q36_REF Q36_REF.;
+   format      Q36a Q36A.;
+   format  Q36a_2OE Q36A_2OE.;
+   format     Q37_1 Q37_1F.;
+   format     Q37_2 Q37_2F.;
+   format     Q37_3 Q37_3F.;
+   format     Q37_4 Q37_4F.;
+   format   Q37_REF Q37_REF.;
+   format    Q37a_1 Q37A_1F.;
+   format    Q37a_2 Q37A_2F.;
+   format    Q37a_3 Q37A_3F.;
+   format    Q37a_4 Q37A_4F.;
+   format  Q37a_REF Q37A_REF.;
+   format    Q37b_1 Q37B_1F.;
+   format    Q37b_2 Q37B_2F.;
+   format    Q37b_3 Q37B_3F.;
+   format    Q37b_4 Q37B_4F.;
+   format    Q37b_5 Q37B_5F.;
+   format  Q37b_REF Q37B_REF.;
+quit;

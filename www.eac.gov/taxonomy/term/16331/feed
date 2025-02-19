@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.eac.gov/">
+  <channel>
+    <title>CI Scoop</title>
+    <link>https://www.eac.gov/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>EAC is the Starting Point for Those Seeking a Critical Infrastructure Primer</title>
+  <link>https://www.eac.gov/blogs/eac-starting-point-those-seeking-critical-infrastructure-primer</link>
+  <description><![CDATA[
+<span property="schema:name" class="taxonomyterm16331feed">EAC is the Starting Point for Those Seeking a Critical Infrastructure Primer</span>
+
+<span class="taxonomyterm16331feed" rel="schema:author"><a title="View user profile." href="https://www.eac.gov/user/1" lang about="https://www.eac.gov/user/1" typeof="Person" property="schema:name" datatype class="taxonomyterm16331feed">bluewater</a></span>
+
+<span property="schema:dateCreated" content="00" class="taxonomyterm16331feed">Wednesday, December 31, 1969
+</span>
+]]></description>
+  <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    <dc:creator>bluewater</dc:creator>
+    <guid isPermaLink="false">56966 at https://www.eac.gov</guid>
+    <comments>https://www.eac.gov/blogs/eac-starting-point-those-seeking-critical-infrastructure-primer#comments</comments>
+    </item>
+<item>
+  <title>CI Scoop: History of Critical Infrastructure Designation</title>
+  <link>https://www.eac.gov/blogs/ci-scoop-history-critical-infrastructure-designation</link>
+  <description><![CDATA[
+<span property="schema:name" class="taxonomyterm16331feed">CI Scoop: History of Critical Infrastructure Designation</span>
+
+<span class="taxonomyterm16331feed" rel="schema:author"><a title="View user profile." href="https://www.eac.gov/user/1" lang about="https://www.eac.gov/user/1" typeof="Person" property="schema:name" datatype class="taxonomyterm16331feed">bluewater</a></span>
+
+<span property="schema:dateCreated" content="00" class="taxonomyterm16331feed">Wednesday, December 31, 1969
+</span>
+]]></description>
+  <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    <dc:creator>bluewater</dc:creator>
+    <guid isPermaLink="false">56946 at https://www.eac.gov</guid>
+    <comments>https://www.eac.gov/blogs/ci-scoop-history-critical-infrastructure-designation#comments</comments>
+    </item>
+<item>
+  <title>A New Home Base for Critical Infrastructure Information</title>
+  <link>https://www.eac.gov/blogs/new-home-base-critical-infrastructure-information</link>
+  <description><![CDATA[
+<span property="schema:name" class="taxonomyterm16331feed">A New Home Base for Critical Infrastructure Information</span>
+
+<span class="taxonomyterm16331feed" rel="schema:author"><a title="View user profile." href="https://www.eac.gov/user/1" lang about="https://www.eac.gov/user/1" typeof="Person" property="schema:name" datatype class="taxonomyterm16331feed">bluewater</a></span>
+
+<span property="schema:dateCreated" content="00" class="taxonomyterm16331feed">Wednesday, December 31, 1969
+</span>
+]]></description>
+  <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    <dc:creator>bluewater</dc:creator>
+    <guid isPermaLink="false">56936 at https://www.eac.gov</guid>
+    <comments>https://www.eac.gov/blogs/new-home-base-critical-infrastructure-information#comments</comments>
+    </item>
+
+  </channel>
+</rss>

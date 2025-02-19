@@ -1,0 +1,1577 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head>
+  <meta charset="utf-8" />
+<link rel="canonical" href="index.html" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="../../../../../themes/custom/eac_uswds/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="index.html" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_config.exclude_services = ["amazon_wish_list", "aol_mail", "balatarin", "bibsonomy", "bitty_browser", "blinklist", "blogger", "blogmarks", "bookmarks_fr", "box_net", "buffer", "care2_news", "citeulike", "copy_link", "design_float", "diary_ru", "diaspora", "digg", "diigo", "douban", "draugiem", "dzone", "evernote", "facebook_messenger", "fark", "flipboard", "folkd", "google_bookmarks", "google_classroom", "google_gmail", "hacker_news", "hatena", "houzz", "instapaper", "kakao", "kik", "kindle_it", "known", "line", "livejournal", "mail_ru", "mastodon", "mendeley", "meneame", "mix", "mixi", "myspace", "netvouz", "odnoklassniki", "outlook_com", "papaly", "pinboard", "pinterest", "plurk", "pocket", "print", "printfriendly", "protopage_bookmarks", "pusha", "qzone", "reddit", "rediff", "refind", "renren", "sina_weibo", "sitejot", "skype", "slashdot", "sms", "stocktwits", "stumbleupon", "svejo", "symbaloo_bookmarks", "telegram", "threema", "trello", "tuenti", "tumblr", "twiddla", "typepad_post", "viadeo", "viber", "vk", "wanelo", "wechat", "wordpress", "wykop", "xing", "yahoo_mail", "yoolink", "yummly", 'whatsapp', 'email', 'mewe'];</script>
+
+  <title>EAVS Deep Dive: Election Technology | U.S. Election Assistance Commission</title>
+  <link rel="stylesheet" media="all" href="../../../../../sites/default/files/css/css_RS9dGW1qzZ11mZKSBE4XSaLmj6dmvvH4MUmxjD0CmK0.css%3Fdelta=0&amp;language=en&amp;theme=eac_uswds&amp;include=eJxNjFEKwzAMxS5k6iMFN34DN1kybJe2t-8-OtifBEKimlPGxfLA8vI5kmqDWk4vNhQj1z5r4z-mOh2svn-kL7LJSZBa9jg0WCKQQTiz22i_6FEKSxymKNLh-X1aUlyRePMqgRtDLDjw.css" />
+<link rel="stylesheet" media="all" href="../../../../../sites/default/files/css/css_r0Wr8LHt0kLd6AYLD4h6E5Mv7DqTp8UQvn61OybDrxQ.css%3Fdelta=1&amp;language=en&amp;theme=eac_uswds&amp;include=eJxNjFEKwzAMxS5k6iMFN34DN1kybJe2t-8-OtifBEKimlPGxfLA8vI5kmqDWk4vNhQj1z5r4z-mOh2svn-kL7LJSZBa9jg0WCKQQTiz22i_6FEKSxymKNLh-X1aUlyRePMqgRtDLDjw.css" />
+
+  <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"media\/251321","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtag":{"tagId":"G-NK7B1BKVVD","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"eJxdjlEKw0AIRC8k8UiLiWaxu1nLaprk9k3bUEp_nPdgBiTmMGoH0gXD3K0FTEVYw3rSxtJirDYV_GEQmtLqGzuSu4SD7FG1FeS-3qkOl8Ks8dCzdeXXtWlANstVUlDGfJ5_H-hGO7iGbMqSqEqPz9APD1lwJBd4f5FeiHOnRTbr5QmpHFQ-","theme":"eac_uswds","theme_token":null},"ajaxTrustedUrl":[],"fitvids":{"selectors":".media-oembed-content\r,.node\r,.html5-video-container\r,.player\r,.field--name-field-media-oembed-video","custom_vendors":"iframe[src^=\u0022https:\/\/youtu.be\u0022],iframe[src^=\u0022https:\/\/youtu.be\u0022],iframe[src^=\u0022\/media\/oembed?url=https:\/\/youtu.be\u0022],iframe[src^=\u0022\/media\/oembed?url=https%3A\/\/youtu.be\u0022],iframe[src^=\u0022\/media\/oembed?url=https:\/\/youtube.com\u0022],iframe[src^=\u0022\/media\/oembed?url=https%3A\/\/youtube.com\u0022]","ignore_selectors":""},"data":{"extlink":{"extTarget":false,"extTargetAppendNewWindowLabel":"(opens in a new window)","extTargetNoOverride":false,"extNofollow":false,"extTitleNoOverride":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":".no-external-link","extCssInclude":"","extCssExplicit":"","extAlert":true,"extAlertText":"You are now leaving the Election Assistance Commission website. Links from these pages\/this page to non-Election Assistance Commission sites do not represent any implicit or explicit endorsement by the Election Assistance Commission of any commercial or private issues or products presented here.","extHideIcons":false,"mailtoClass":"0","telClass":"","mailtoLabel":"(link sends email)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"append","extPreventOrphan":false,"extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","whitelistedDomains":[],"extExcludeNoreferrer":""}},"sitewideAlert":{"refreshInterval":15000,"automaticRefresh":false},"user":{"uid":0,"permissionsHash":"f46290a5d36e352d4a8dd2cb4fee1dafa53b90aa66ec820830d5a3a823f24239"}}</script>
+<script src="../../../../../sites/default/files/js/js_toXob7UUPkVDnE1yp9V6PkKd9I3NXL3sD2IhdIUeO-k.js%3Fscope=header&amp;delta=0&amp;language=en&amp;theme=eac_uswds&amp;include=eJxdi1EKwzAMQy9kkiMFMbvBW0hGrK7d7VdG2Md-9PRAgioH-jtjlbTN0SmGW9nj0MiIMIbYyeb9kXXuT7S0VDbny6_V4s-9O6WOUZsVouZ6xb8n3HFKOO1wtYJmk9_jB"></script>
+<script src="../../../../../modules/contrib/google_tag/js/gtag.js%3Fsr4cbz"></script>
+
+</head>
+<body class="documents20180501eavs-deep-dive-election-technology">
+<a href="index.html#main-content" class="usa-sr-only focusable">
+  Skip to main content
+</a>
+
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+          <section class="usa-banner">
+      
+<div class="usa-banner">
+  <div class="usa-accordion">
+    <header class="usa-banner__header">
+      <div class="usa-banner__inner">
+        <div class="grid-col-auto">
+          <img class="usa-banner__header-flag" aria-hidden="true" src="../../../../../themes/custom/eac_uswds/assets/uswds/img/us_flag_small.png" alt="">
+        </div>
+        <div class="grid-col-fill tablet:grid-col-auto" aria-hidden="true">
+          <p class="usa-banner__header-text">An official website of the United States government</p>
+          <p class="usa-banner__header-action" aria-hidden="true">Here's how you know</p>
+        </div>
+        <button type="button" class="usa-accordion__button usa-banner__button" aria-expanded="false" aria-controls="gov-banner">
+          <span class="usa-banner__button-text">Here's how you know</span>
+        </button>
+      </div>
+    </header>
+    <div class="usa-banner__content usa-accordion__content" id="gov-banner" hidden="">
+      <div class="grid-row grid-gap-lg">
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <img class="usa-banner__icon usa-media-block__img" src="../../../../../themes/custom/eac_uswds/assets/uswds/img/icon-dot-gov.svg" alt="Dot gov">
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Official websites use .gov</strong>
+              <br>
+              A <strong>.gov</strong> website belongs to an official government organization in the United States.
+            </p>
+          </div>
+        </div>
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <img class="usa-banner__icon usa-media-block__img" src="../../../../../themes/custom/eac_uswds/assets/uswds/img/icon-https.svg" alt="Https">
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Secure .gov websites use HTTPS</strong>
+              <br>
+              A <strong>lock</strong> (   <span class="icon-lock">
+    <svg xmlns="http://www.w3.org/2000/svg" width="52" height="64" viewBox="0 0 52 64" class="usa-banner__lock-image" role="img" aria-labelledby="banner-lock-description" focusable="false">
+      <title id="banner-lock-title">Lock</title>
+      <desc id="banner-lock-description">Locked padlock</desc>
+      <path fill="#000000" fill-rule="evenodd" d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z"/>
+    </svg>
+  </span>
+ ) or <strong>https://</strong> means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    </section>
+  
+<div class="usa-overlay"></div>
+
+<div class="search block block-sitewide-alert-block">
+  
+    
+      <div data-sitewide-alert></div>
+  </div>
+
+
+  <header class="usa-header usa-header--extended usa-header--extended-megamenu" id="header" role="banner">
+
+  
+  
+    <div class="documents20180501eavs-deep-dive-election-technology region region-header usa-navbar">
+    <div class="usa-logo site-logo display-flex flex-row" id="logo">
+
+  <div class="eac-site-logo">
+
+      <a class="logo-img" href="../../../../../home.html" accesskey="1" title="Home" aria-label="Home">
+      <img src="../../../../../themes/custom/eac_uswds/logo.png" alt="Home" />
+    </a>
+  
+  </div>
+
+  <div class="eac-logo-text">
+    <a href="../../../../../home.html" accesskey="2" title="Home" aria-label="Home">
+          <span class="display-block text-no-wrap">United States</span>
+          <span class="display-block text-no-wrap">Election Assistance</span>
+          <span class="display-block">Commission</span>
+    </a>
+  </div>
+
+
+</div>
+<button class="usa-menu-btn">
+  <img class="usa-icon usa-menu-icon eac-menu-btn" aria-hidden="true" focusable="false" src="../../../../../themes/custom/eac_uswds/images/eac-icon-hamburger.svg">
+  Menu
+</button>
+
+</div>
+
+
+    <nav class="usa-nav" role="navigation">
+            <div class="usa-nav__inner">
+        
+        <div id="mobile-menu-header">           <div class="usa-logo site-logo display-flex flex-row" id="logo-mobile-menu">
+            <div class="eac-site-logo">
+                <a class="logo-img" href="../../../../../home.html" accesskey="1" title="Home" aria-label="Home">
+                  <img src="../../../../../themes/custom/eac_uswds/logo.png" alt="Home" />
+                </a>
+            </div>
+
+            <div class="eac-logo-text">
+              <a href="../../../../../home.html" accesskey="2" title="Home" aria-label="Home">
+                <div>United States</div>
+                <div>Election Assistance</div>
+                <div>Commission</div>
+              </a>
+            </div>
+
+            <button class="usa-nav__close">
+              <img src="../../../../../themes/custom/eac_uswds/images/mobile-menu-close.svg" alt="close"/>Close
+            </button>
+          </div>
+        </div>
+
+
+                    
+        
+        
+  
+  
+          <ul class="usa-nav__primary usa-accordion">
+                                 
+                    
+                          <li class="usa-nav__primary-item">
+      
+              <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="extended-mega-nav-section-1">
+          <span>Election Admin</span>
+        </button>
+      
+                
+        
+        
+  
+  
+          <div id="extended-mega-nav-section-1" class="usa-nav__submenu usa-megamenu" hidden="">
+
+      
+      <div class="grid-row grid-gap-4">
+                                 
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../election-officials/election-management-guidelines.html" class="link" data-drupal-link-system-path="node/64626">          <span>Election Management Guidelines</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../toolkits.html" class="link">          <span>Election Official Toolkits</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../election-officials/quick-start-guides/index.html" class="link" data-drupal-link-system-path="node/62656">          <span>Quick Start Guides</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../clearinghouse-resources-election-officials.html" class="link" data-drupal-link-system-path="node/70011">          <span>Election Official Resources</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../language-access-resources.html" class="link" data-drupal-link-system-path="node/64301">          <span>Language Access Resources</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../uocava.html" class="link" data-drupal-link-system-path="node/69151">          <span>UOCAVA Resources</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../election-officials/election-security-preparedness/index.html" class="link" data-drupal-link-system-path="node/62576">          <span>Secure Elections</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../election-officials/voting-accessibility.html" class="link" data-drupal-link-system-path="node/63726">          <span>Accessibility</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../election-officials/voluntary-voting-system-guidelines-vvsg-deprecation.html" class="link">          <span>VVSG Communication Resources</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../election-officials/poll-worker-resources.html" class="link" data-drupal-link-system-path="node/63981">          <span>Poll Worker Resources for Election Officials</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../election-officials/eac-clearinghouse-awards-information.html" class="link" data-drupal-link-system-path="node/64071">          <span>Clearinghouse Awards</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                        
+      
+                                
+        
+                                                                          
+                    
+    
+          </div>
+              <div class="grid-row grid-col-12 menu-view-all-divider"></div>
+        <div class="grid-row grid-col-12 usa-nav__submenu-item menu-view-all">
+          <a href="../../../../../election-admin.html" class="menu-view-all link" data-drupal-link-system-path="node/53731">          <span>All Election Admin Resources</span>
+        </a>
+        </div>
+              </div>
+    
+  
+
+      
+              </li>
+      
+                        
+                    
+                          <li class="usa-nav__primary-item">
+      
+              <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="extended-mega-nav-section-2">
+          <span>Voting</span>
+        </button>
+      
+                
+        
+        
+  
+  
+          <div id="extended-mega-nav-section-2" class="usa-nav__submenu usa-megamenu" hidden="">
+
+      
+      <div class="grid-row grid-gap-4">
+                                 
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../voters/register-and-vote-in-your-state-old/index.html" class="link" data-drupal-link-system-path="node/63796">          <span>Voting in Your State</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../voters/national-mail-voter-registration-form/index.html" class="link" data-drupal-link-system-path="node/62321">          <span>National Mail Voter Registration Form</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../help-america-vote.html" class="link" data-drupal-link-system-path="node/66421">          <span>Become A Poll Worker</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../voters/voter-faqs.html" class="link" data-drupal-link-system-path="taxonomy/term/19821">          <span>Voter FAQs</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../voters/voters-guide-to-federal-elections/index.html" title="Voting 101 – Election Information for Voters" class="link">          <span>Voting 101</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../uocava.html" class="link" data-drupal-link-system-path="node/69151">          <span>Overseas &amp; Military</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../electionsecurity/index.html" class="link" data-drupal-link-system-path="node/63731">          <span>Secure Voting</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../election-officials/voting-accessibility.html" class="link" data-drupal-link-system-path="node/63726">          <span>Voter Accessibility</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../voters/voter-registration-cancellations.html" class="link">          <span>Voter Registration Cancellations</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                        
+      
+                                
+        
+                                                                          
+                    
+    
+          </div>
+              <div class="grid-row grid-col-12 menu-view-all-divider"></div>
+        <div class="grid-row grid-col-12 usa-nav__submenu-item menu-view-all">
+          <a href="../../../../../voters.html" class="menu-view-all link" data-drupal-link-system-path="node/67851">          <span>All Voting Resources</span>
+        </a>
+        </div>
+              </div>
+    
+  
+
+      
+              </li>
+      
+                        
+                    
+                          <li class="usa-nav__primary-item">
+      
+              <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="extended-mega-nav-section-3">
+          <span>Election Technology</span>
+        </button>
+      
+                
+        
+        
+  
+  
+          <div id="extended-mega-nav-section-3" class="usa-nav__submenu usa-megamenu" hidden="">
+
+      
+      <div class="grid-row grid-gap-4">
+                                 
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../testing-certification-program-tc.html" class="link" data-drupal-link-system-path="node/70601">          <span>Voting System Testing &amp; Certification Program (T&amp;C)</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../estep.html" class="link" data-drupal-link-system-path="node/64666">          <span>Election Supporting Technology Evaluation Program (ESTEP)</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../election-technology/field-services-program.html" class="link" data-drupal-link-system-path="node/70596">          <span>Field Services Program (FSP)</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                        
+      
+                                
+        
+                                                                          
+                    
+    
+          </div>
+              <div class="grid-row grid-col-12 menu-view-all-divider"></div>
+        <div class="grid-row grid-col-12 usa-nav__submenu-item menu-view-all">
+          <a href="../../../../../voting-equipment/testing-and-certification-program.html" class="menu-view-all link" data-drupal-link-system-path="node/70581">          <span>View All Election Technology Resources</span>
+        </a>
+        </div>
+              </div>
+    
+  
+
+      
+              </li>
+      
+                        
+                    
+                          <li class="usa-nav__primary-item">
+      
+              <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="extended-mega-nav-section-4">
+          <span>Research</span>
+        </button>
+      
+                
+        
+        
+  
+  
+          <div id="extended-mega-nav-section-4" class="usa-nav__submenu usa-megamenu" hidden="">
+
+      
+      <div class="grid-row grid-gap-4">
+                                 
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../research-and-data/datasets-codebooks-and-surveys/index.html" class="link" data-drupal-link-system-path="node/63781">          <span>Election Administration and Voting Survey (EAVS) Reports</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../election-officials/voting-accessibility.html" class="link" data-drupal-link-system-path="node/63726">          <span>Accessibility</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../election-officials/pcea/index.html" class="link" title="Presidential Commission on Election Administration Report and Supplemental Material" data-drupal-link-system-path="node/62941">          <span>PCEA</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                        
+      
+                                
+        
+                                                                          
+                    
+    
+          </div>
+              <div class="grid-row grid-col-12 menu-view-all-divider"></div>
+        <div class="grid-row grid-col-12 usa-nav__submenu-item menu-view-all">
+          <a href="../../../../../research-and-data.html" class="menu-view-all link" data-drupal-link-system-path="node/67856">          <span>All Research Resources</span>
+        </a>
+        </div>
+              </div>
+    
+  
+
+      
+              </li>
+      
+                        
+                    
+                          <li class="usa-nav__primary-item">
+      
+              <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="extended-mega-nav-section-5">
+          <span>Grants</span>
+        </button>
+      
+                
+        
+        
+  
+  
+          <div id="extended-mega-nav-section-5" class="usa-nav__submenu usa-megamenu" hidden="">
+
+      
+      <div class="grid-row grid-gap-4">
+                                 
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../payments-and-grants/grants-management-and-oversight.html" class="link" data-drupal-link-system-path="node/64016">          <span>Grants Management &amp; Oversight</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../payments-and-grants/grants-guidance.html" class="link">          <span>Grants Guidance</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../payments-and-grants/hava-grant-programs.html" class="link">          <span>HAVA Grant Programs</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../payments-and-grants/annual-grants-expenditure-report.html" class="link">          <span>Annual Grants Expenditure Report</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../payments-and-grants/audits-resolutions.html" class="link">          <span>HAVA Audits and Resolutions</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../payments-and-grants/reporting-oversight.html" class="link">          <span>Reporting Requirements</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../payments-and-grants/2020-hava-funds.html" class="link" data-drupal-link-system-path="node/64011">          <span>Election Security Funds</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../payments-and-grants/state-administrative-complaints.html" class="link">          <span>State Administrative Complaints</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../funding-levels-by-state.html" class="link" data-drupal-link-system-path="node/64706">          <span>Funding Levels By State</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../payments-and-grants/grants-faqs.html" class="link" data-drupal-link-system-path="taxonomy/term/19906">          <span>Grants FAQS</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../grants/havcp.html" class="link" data-drupal-link-system-path="node/69491">          <span>Help America Vote College Program</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                        
+      
+                                
+        
+                                                                          
+                    
+    
+          </div>
+              <div class="grid-row grid-col-12 menu-view-all-divider"></div>
+        <div class="grid-row grid-col-12 usa-nav__submenu-item menu-view-all">
+          <a href="../../../../../payments-and-grants.html" class="menu-view-all link">          <span>All Grants Resources</span>
+        </a>
+        </div>
+              </div>
+    
+  
+
+      
+              </li>
+      
+                        
+                    
+                          <li class="usa-nav__primary-item">
+      
+              <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="extended-mega-nav-section-6">
+          <span>News &amp; Events</span>
+        </button>
+      
+                
+        
+        
+  
+  
+          <div id="extended-mega-nav-section-6" class="usa-nav__submenu usa-megamenu" hidden="">
+
+      
+      <div class="grid-row grid-gap-4">
+                                 
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../blogs/index.html" class="link" data-drupal-link-system-path="blogs">          <span>Blogs</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../events/index.html" class="link" data-drupal-link-system-path="events">          <span>Events</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../news.html" class="link" data-drupal-link-system-path="news">          <span>News</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../newsletter.html" class="link">          <span>EAC Newsletters</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="https://www.youtube.com/@u.s.electionassistancecomm2110" class="link">          <span>EAC&#039;s YouTube Channel</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                        
+      
+                                
+        
+                                                                          
+                    
+    
+          </div>
+              <div class="grid-row grid-col-12 menu-view-all-divider"></div>
+        <div class="grid-row grid-col-12 usa-nav__submenu-item menu-view-all">
+          <a href="../../../../../news-and-events.html" class="menu-view-all link" data-drupal-link-system-path="node/69501">          <span>All News &amp; Events</span>
+        </a>
+        </div>
+              </div>
+    
+  
+
+      
+              </li>
+      
+                        
+                    
+                          <li class="usa-nav__primary-item">
+      
+              <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="extended-mega-nav-section-7">
+          <span>About</span>
+        </button>
+      
+                
+        
+        
+  
+  
+          <div id="extended-mega-nav-section-7" class="usa-nav__submenu usa-megamenu" hidden="">
+
+      
+      <div class="grid-row grid-gap-4">
+                                 
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../about/advisory-boards.html" class="link" data-drupal-link-system-path="node/63816">          <span>Advisory Boards</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../about_the_eac/commissioners.aspx.html" class="link">          <span>EAC Commissioners</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../about-eac/budget-and-finance.html" class="link" title="Agency budgets and justifications, agency financial reports, and other reporting. ">          <span>Budget and Finance</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../about-eac/congressional-affairs.html" class="link">          <span>Congressional Affairs</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../about_the_eac/help_america_vote_act.aspx.html" class="link">          <span>Help America Vote Act</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../about-eac/careers.html" class="link" title="Learn how to become a part of our EAC staff.">          <span>Careers</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../inspector-general/index.html" class="link" data-drupal-link-system-path="node/62706">          <span>Office of Inspector General</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../../contact/index.html" class="link" data-drupal-link-system-path="node/62351">          <span>Contact U.S. EAC</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                        
+      
+                                
+        
+                                                                          
+                    
+    
+          </div>
+              <div class="grid-row grid-col-12 menu-view-all-divider"></div>
+        <div class="grid-row grid-col-12 usa-nav__submenu-item menu-view-all">
+          <a href="../../../../../about-the-useac/index.html" class="menu-view-all link" data-drupal-link-system-path="node/69161">          <span>About the EAC</span>
+        </a>
+        </div>
+              </div>
+    
+  
+
+      
+              </li>
+      
+    
+          </ul>
+    
+  
+
+
+
+
+
+        
+                  <div class="documents20180501eavs-deep-dive-election-technology usa-nav__secondary">
+<form class="usa-search usa-search--small" data-drupal-selector="google-cse-search-box-form" action="https://www.eac.gov/search?cx=27c3637cb836240d4&amp;keys=test&amp;op=Search&amp;form_build_id=form-ResWBaskJl0M8r4j7flFK9eU_gQJ1UWu3pjd0XNGQRo&amp;form_id=google_cse_search_box_form"  method="get" id="search-block-form" accept-charset="UTF-8">
+  <div role="search">
+    
+    <input class="usa-input" id="extended-search-field-small" type="search" placeholder="Search EAC" name="keys" />
+    <button class="usa-button" type="submit">
+      <img src="../../../../../themes/custom/eac_uswds/assets/uswds/img/usa-icons-bg/search--white.svg" class="usa-search__submit-icon" alt="Search">
+    </button>
+  </div>
+</form>
+
+</div>
+
+        
+                <div class="secondary-nav-mobile">
+                                        
+        </div>
+
+
+              </div>
+          </nav>
+
+    
+</header>
+
+
+
+
+  <main class="main-content usa-layout-docs usa-section  " role="main"
+        id="main-content">
+
+    <div class="grid-container">
+
+                        <div class="grid-row">
+              <div class="documents20180501eavs-deep-dive-election-technology">
+    <div id="block-eac-uswds-breadcrumbs" class="documents20180501eavs-deep-dive-election-technology block block-system block-system-breadcrumb-block">
+  
+    
+          <nav class="usa-breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+        <h2 id="system-breadcrumb" class="usa-sr-only">Breadcrumb</h2>
+        <ol class="usa-breadcrumb__list">
+                            <li class="usa-breadcrumb__list-item">
+                                            <a href="../../../../../home.html" class="usa-breadcrumb__link"><span>EAC Home</span></a>
+                                    </li>
+                            <li class="usa-breadcrumb__list-item">
+                                            <span>EAVS Deep Dive: Election Technology</span>
+                                    </li>
+                    </ol>
+    </nav>
+
+  </div>
+
+  </div>
+
+          </div>
+        
+        
+                <div class="node-category"></div>
+
+                  <div class="">
+            <div data-drupal-messages-fallback class="hidden"></div>
+
+
+          </div>
+        
+                                      <div class="grid-row ">
+              
+            </div>
+                        
+      <div class="grid-row grid-gap">
+        
+                  <div class="usa-layout-docs__main desktop:grid-col-fill">
+                  
+  <h1 class="margin-0 page-title">EAVS Deep Dive: Election Technology</h1>
+
+
+<div id="block-eac-uswds-content" class="documents20180501eavs-deep-dive-election-technology block block-system block-system-main-block">
+  
+    
+      
+
+
+
+<div class="documents20180501eavs-deep-dive-election-technology view-mode- media-oembed-content">
+  
+    <div class="media-category">White Paper</div>
+        <div class="node-date">
+      Posted: Tuesday, May 1, 2018
+    </div>
+    <div class="addtoany no-external-link">
+    <div class="documents20180501eavs-deep-dive-election-technology block block-addtoany block-addtoany-block">
+  
+    
+      <span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/documents/2018/05/01/eavs-deep-dive-election-technology" data-a2a-title="EAVS Deep Dive: Election Technology"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fdocuments%2F2018%2F05%2F01%2Feavs-deep-dive-election-technology&amp;title=EAVS%20Deep%20Dive%3A%20Election%20Technology"></a></span>
+
+  </div>
+
+  </div>`
+      
+
+            <div class="documents20180501eavs-deep-dive-election-technology field field--name-field-body field--type-text-with-summary field--label-hidden field__item"><p><em>The Election Assistance Commission (EAC) administers the biennial Election Administration and Voting Survey (EAVS) to collect state-by-state data on the administration of federal elections. In June of 2017, the EAC released the most recent survey with data from the 2016 election.</em></p>
+
+<p><em>This survey contains the most comprehensive data about trends in election administration in the United States and provides these numbers at the national, state&nbsp;and local level. This brief is part of a series of “deep dives” into the EAVS data that will provide an in-depth look at a variety of issues related to administering elections &nbsp;and use data to help better understand these issues.</em></p>
+
+<h2>Overview</h2>
+
+<ul>
+	<li>From 2012 to 2016, there was a significant increase in the use of electronic poll books (e-poll books) nationwide. The number of in-person voters checked in with e-poll books more than doubled, increasing 110 percent from 19.7 million to 41.4 million voters.</li>
+	<li>Nearly 48 percent of voters who cast ballots in person in 2016 were signed in at the polls by election workers using e-poll books, compared to only 27 percent in 2012.</li>
+	<li>Thirty-two states, the District of Columbia and U.S. Virgin Islands reported using e-poll books in at least one jurisdiction in the 2016 elections. Five states used e-poll books statewide.</li>
+	<li>Optical scan machines remain the most popular type of voting equipment in the country and were used by approximately 61 percent of jurisdictions in 2016. Jurisdictions using hybrid voting machines increased by 4 percent between 2008 and 2016, while those using direct recording electronic (DRE) voting machines without a voter-verified paper audit trail (VVPAT) decreased by 3 percent over the same period.</li>
+	<li>Online voter registration (OVR) accounted for nearly 18 percent of all voter registration applications for the 2016 elections, more than triple the rate from 2012.</li>
+	<li>Six additional states have implemented OVR since 2016. Today, 37 states, the District of Columbia and Guam offer OVR.</li>
+</ul>
+
+<p>Since the EAC was established in 2002, digital technology has significantly changed the way elections are administered in the United States. Computerized statewide voter registration databases have been adopted in all states with voter registration. Online voter registration has spread to nearly three-fourths of the states. The use of e-poll books is on the rise. Lever and punch-card machines have been phased out and electronic voting equipment that allows voters to cast, and election officials to count, ballots has spread to every corner of the country. More recently, there appears to be a gradual decrease in the use of paperless voting systems.</p>
+
+<p>These technological changes have considerable implications for election efficiency and integrity, voter experience and confidence, accessibility, and the roles of election officials at all levels. This rings especially true today as election officials across the country seek to modernize and better secure their election systems in the aftermath of the 2016 elections. The following EAVS Deep Dive examines data on election technology from across the country to support and inform these efforts.</p>
+
+<p>&nbsp;</p>
+
+<h2>Voter Registration Databases</h2>
+
+<p>The <a href="../../../../../sites/default/files/eac_assets/1/6/HAVA41.PDF" target="_blank">Help America Vote Act (HAVA)</a> of 2002 required states with voter registration to adopt a computerized statewide voter registration list. According to information collected by the EAC through the Statutory Overview, a component of the EAVS since 2008, all states now meet this requirement.<a href="index.html#Foot note 1 Election Technology"><sup>1</sup></a>&nbsp;The adoption of centralized voter registration databases has enabled states to improve their voter registration list maintenance practices through greater and more effective sharing of voter information within each state and across state lines. Statewide computerized voter registration lists have also enabled states to better compare and verify records with other government-operated databases.<a href="index.html#Footnote 2 Election Technology"><sup>2</sup></a></p>
+
+<p>&nbsp;</p>
+
+<h3>Interstate Data Sharing</h3>
+
+<p>Most states engage in interstate sharing of voter registration data to support their voter registration and list maintenance efforts, including participation in two prominent interstate data sharing initiatives: the <a href="http://www.ericstates.org/" target="_blank">Electronic Registration Information Center (ERIC)</a> and the Interstate Voter Registration Crosscheck (known as Crosscheck). ERIC, a non- profit corporation governed by a board of directors drawn from its member states, seeks to assist states in identifying inaccurate &nbsp;or out-of-date voter registration records, and reaching out to eligible but unregistered residents. Twenty-two states and the District of Columbia participate in ERIC. Crosscheck is managed by the Secretary of State’s office in Kansas and seeks to identify possible double registrations and double votes. Twenty-six states reportedly participate in the Crosscheck initiative.<sup><a href="index.html#Foot note 3 Election Technology">3</a></sup>&nbsp;&nbsp;Ten states participate in both efforts. In &nbsp;2014, the <a href="../../../../../election-officials/pcea/index.html" target="_blank">Presidential Commission on Election Administration</a>&nbsp;recommended that interstate exchanges of voter registration information such as these be expanded.</p>
+
+<p>&nbsp;</p>
+
+<h2>Online Voter Registration</h2>
+
+<p>Enabled by the centralization and computerization of voter registration lists, states began to offer online voter registration (OVR) in 2002. OVR allows those eligible to complete and submit a voter registration application or update their information entirely online.</p>
+
+<p>For the 2016 elections, OVR was offered in 31 states, the District of Columbia and Guam. Since that time, six additional states — Florida, Idaho, Ohio, Rhode Island, Tennessee and Wisconsin — have implemented OVR. Oklahoma enacted OVR in 2015, but has not yet implemented it. This leaves 11 states and three territories that have neither enacted nor implemented OVR, including the heavily populated states of Michigan, New Jersey, North Carolina and Texas.</p>
+
+<h3>Number of states and territories with OVR</h3>
+
+<p><a href="../../../../../sites/default/files/eac_assets/1/6/MainFCKEditorDimension/Chart-of-Number-of-states-and-territories-with-OVR-from-2003-2018.jpg" target="_blank"><img alt="Chart of Number of states and territories with OVR from 2003-2018." src="../../../../../sites/default/files/eac_assets/1/6/MainFCKEditorDimension/Chart-of-Number-of-states-and-territories-with-OVR-from-2003-2018.jpg" style="width: 300px; height: 366px;"></a></p>
+
+<p>&nbsp;</p>
+
+<p>According to EAVS data, 17.4 percent of all voter registration applications were processed online for the 2016 elections.<a href="index.html#Foot note 4 Election Technology"><sup>4</sup></a>&nbsp;This was more than triple the rate from 2012, when only 5.2 percent of applications took place via OVR.</p>
+
+<p>For 2016, nearly 13.5 million registration applications were submitted online, inclusive of both new applications and updates to existing registrations. OVR applications accounted for more than 10 percent of all applications in 25 states. California experienced the highest OVR rate in the country in 2016, processing nearly half, or 48.2 percent, of its registration applications online. Arizona, the first state to adopt OVR in 2002, processed 40.6 percent of its applications online for 2016.</p>
+
+<p>&nbsp;</p>
+
+<h2>Electronic Poll Books</h2>
+
+<p>The greater computerization of voter registration lists described above is also changing how voters are checked in at the polls.</p>
+
+<p>While a large percentage of jurisdictions continue to use preprinted paper registration lists to check in voters at the polls (81.8 percent in 2016), an increasing number of jurisdictions are now using e-poll books for this task. In addition to signing in voters, some jurisdictions use e-poll books to update voter history and/or to help voters locate polling places (e.g. those who arrive at the incorrect polling place).</p>
+
+<p>Among responding jurisdictions, the number of in-person voters checked in using e-poll books more than doubled from 2012 to 2016, increasing 110 percent from 19.7 million to 41.4 million voters. Approximately&nbsp;47.7 percent of all voters who cast ballots in person in 2016 were signed in at the polls by election workers using e-poll books.<a href="index.html#Foot note 5 Election Technology"><sup>5</sup></a>&nbsp; &nbsp;In 2012, only 27.3 percent of in-person voters were checked in using e-poll books.<a href="index.html#Foot note 6 Election Technology"><sup>6</sup></a>&nbsp; &nbsp;The number of jurisdictions using e-poll books to check in voters also rose significantly, increasing 71.9 percent from 645 jurisdictions in 2012 to 1,109 jurisdictions in 2016.</p>
+
+<h3>Percentage of in-person voters checked in by e-poll books in 2016</h3>
+
+<p><a href="../../../../../sites/default/files/eac_assets/1/6/MainFCKEditorDimension/Percentage-of-inperson-voters-checked-in-epoll-in-2016.jpg" target="_blank"><img alt="A Chart that depicts the percentage of in-person voters checked-in by e poll books in-2016. The number is 47.7%" src="../../../../../sites/default/files/eac_assets/1/6/MainFCKEditorDimension/Percentage-of-inperson-voters-checked-in-epoll-in-2016.jpg" style="width: 400px; height: 329px;"></a></p>
+
+<p>At least 32 states, the District of Columbia and the U.S. Virgin Islands reported using e-poll books in at least one jurisdiction in the 2016 elections.<a href="index.html#Foot note 7 Election Technology"><sup>7</sup></a>&nbsp;&nbsp;Five states — Colorado, Georgia, Maryland, North Carolina and South Carolina — utilized e-poll books in all jurisdictions statewide. A handful of additional states had e-poll book usage to sign in voters in at least two-thirds of their jurisdictions in 2016, including Michigan (97.6 percent), Florida (83.3 percent), Iowa (74.4 percent), Arizona (73.3 percent) and New Mexico (69.7 percent).</p>
+
+<p>E-poll book usage is more prevalent in jurisdictions that serve higher numbers of in- person voters. Among the 336 jurisdictions that reported processing more that 50,000 in-person voters in 2016, nearly 56&nbsp;percent of them used e-poll books to sign in voters at the polls. When looking at all responding jurisdictions, only 17.7 percent of jurisdictions used e-poll books for this purpose.<a href="index.html#Foot note 8 Election Technology"><sup>8</sup></a></p>
+
+<p>&nbsp;</p>
+
+<h2>Voting Technology</h2>
+
+<p>The methods by which voters cast their ballots, and election administrators count them, have also undergone considerable changes in recent years. To help the nation better understand these changes, the EAC has been collecting information on voting technology since the first EAVS on the 2004 elections.</p>
+
+<p>Building on questions in use since the 2008 survey, the 2016 EAVS asked about the eight categories of voting systems listed below. Definitions for these systems are provided in <a href="index.html#Appendix I Election Technology">Appendix I</a>. While the terminology used for voting technology continues to evolve, this categorization allows for some level of comparisons and trend analysis over time.</p>
+
+<ol>
+	<li>Optical scan</li>
+	<li>Direct recording electronic (DRE) voting machines without a voter-verified paper audit trail (VVPAT)</li>
+	<li>DREs with a VVPAT</li>
+	<li>Hybrid voting machines<a href="index.html#Foot note 9 Election Technology"><sup>9</sup></a></li>
+	<li>Hand-counted paper ballots</li>
+	<li>Punch cards</li>
+	<li>Lever machines</li>
+	<li>Other systems</li>
+</ol>
+
+<p>&nbsp;</p>
+
+<p>The EAVS helped document the nation’s shift away from lever machines and punch-card ballots as states replaced voting equipment and began to adopt new technologies. In the 2004 elections, roughly 6 percent of jurisdictions (394 jurisdictions) reported using lever systems and 4 percent (260 jurisdictions) reported using punch-card&nbsp;systems. Lever systems appear to have been last used during the 2008 elections.<a href="index.html#Foot note 10 Election Technology"><sup>10</sup></a>&nbsp;Similarly, punch-card systems appear to have been last used during the 2014 elections.<a href="index.html#Foot note 11 Election Technology"><sup>11</sup></a></p>
+
+<p>In 2016, election offices used a range of voting systems, which primarily included optical scan machines, hybrid machines and DREs, both with and without a VVPAT.<a href="index.html#Foot note 12 Election Technology"><sup>12</sup></a>&nbsp;Voting systems that include a paper component were most prevalent in 2016, and the use of paperless systems appears to be gradually decreasing over time.</p>
+
+<p>Used by roughly 61 percent of jurisdictions in 2016, EAVS data shows that optical scan machines (which scan paper ballots or paper records) are the most popular type of voting equipment in the country.</p>
+
+<p>EAVS data also shows a gradual increase over time in the use of hybrid voting machines (which create paper ballots or paper records that are then scanned). In 2008, approximately 29.8 percent of jurisdictions reported using hybrid machines.<a href="index.html#Foot note 13 Election Technology"><sup>13</sup></a>&nbsp;&nbsp;This grew to 33.2 percent in 2012 and further to 34.1 percent in 2016.</p>
+
+<p>In addition, EAVS data appears to show a gradual decrease over time in the use of DREs without a VVPAT.<a href="index.html#Foot note 14 Election Technology"><sup>14</sup></a>&nbsp;&nbsp;In 2008, roughly 24.6 percent of jurisdictions reported using DREs without a VVPAT. This decreased to 19.6 percent in 2012 then grew slightly to 21.5 percent in 2016.</p>
+
+<p>The shift away from DREs without a VVPAT is more apparent at the state level. For example, Maryland last reported using DREs without a VVPAT in all jurisdictions in 2014. While not yet reflected in EAVS data, Virginia also decided to no longer use DREs&nbsp;following the 2016 elections, including those without a VVPAT.<a href="index.html#Foot note 15 Election Technology"><sup>15</sup></a></p>
+
+<p>Only five states reported using DREs without a VVPAT statewide exclusively for in-person voters during the 2016 elections: Delaware, Georgia, Louisiana, New Jersey and South Carolina.<a href="index.html#Foot note 16 Election Technology"><sup>16</sup></a>&nbsp; &nbsp;Fifteen states in total reported using these voting machines in some of their jurisdictions in 2016.<a href="index.html#Foot note 17 Election Technology"><sup>17</sup></a></p>
+
+<p>&nbsp;</p>
+
+<h2>Looking Ahead</h2>
+
+<p>EAVS data has helped illustrate the changing landscape of voting system usage across the country and the evolving terminology in this space. Recent surveys also helped reveal the rapid expansion of online voter registration and e-poll book usage across the country. Information collected through the EAVS Statutory Overview has further informed our understanding of how voter registration databases function across the states. Future surveys will continue to collect data on these issues as states grapple with balancing the efficiency and accessibility gains of these technologies against heightened security concerns.</p>
+
+<p>As paper-based and auditable systems have received renewed attention following the 2016 elections and the replacement of aging voting equipment remains a persistent challenge for election officials, the EAVS will continue to capture data on this important topic and provide a better understanding of changes in this area.</p>
+
+<p>On March 23, 2018, Congress appropriated <a href="https://www.eac.gov/2018-hava-election-security-funds/" target="_blank">$380 million in election security grants</a>, made available to all 50 states, the District of Columbia, Puerto Rico, Guam, American Samoa and the U.S. Virgin Islands, to improve administration of elections for federal office, including to enhance election&nbsp;technology and make election security improvements. Just as EAVS data helped us understand the impact of HAVA funds on the states’ use of election technology following the 2000 elections, future surveys will help tell the story of how these grants are implemented and their impact on election technology usage across the country.</p>
+
+<p>&nbsp;</p>
+
+<p>
+<style type="text/css">p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 15.0px; font: 12.8px Arial; color: #222222; -webkit-text-stroke: #222222; background-color: #ffffff}
+span.s1 {font-kerning: none}
+span.s2 {font: 10.0px Arial; font-kerning: none}
+</style>
+</p>
+
+<div style="background:#eee;border:1px solid #ccc;padding:5px 10px;">This report was updated&nbsp;from its original version&nbsp;on June 8, 2018 to correct an error. The earlier version stated that 1.97 million voters were checked in with e-poll books in 2012 and 4.14 million were in 2016. The corrected figures are 19.7 million and 41.4 million, respectively. The EAC research team regrets this error.</div>
+
+<hr>
+<p><a href="index.html#" id="Foot note 1 Election Technology" name="Foot note 1 Election Technology">1</a>&nbsp;North Dakota is exempt from this requirement because it does not conduct statewide voter registration. North Dakota does, however, maintain a computerized statewide list of those who have voted.</p>
+
+<p><a id="Footnote 2 Election Technology" name="Footnote 2 Election Technology">2</a>&nbsp; See this EAC <a href="https://www.eac.gov/statewide-voter-registration-systems/" target="_blank">blog post </a>and the states’ Statutory Overview responses for more information on how voter registration databases function in each state (e.g. as top-down, bottom-up or hybrid systems). The responses also have information on how states compare and verify records with other government-operated databases, such as vital statistic agencies, the Social Security Administration and departments of Motor Vehicles.</p>
+
+<p><a id="Foot note 3 Election Technology" name="Foot note 3 Election Technology">3</a> &nbsp;A 2017 Kansas Secretary of State’s office <a href="http://www.ncsl.org/Portals/1/Documents/Elections/Kansas_VR_Crosscheck_Program.pdf" target="_blank">presentation</a> showed 30 participating states in 2016. Since 2016, one state has reportedly joined the Crosscheck initiative, while four states have withdrawn their participation.</p>
+
+<p><a id="Foot note 4 Election Technology" name="Foot note 4 Election Technology">4</a> &nbsp;This is inclusive of all reported voter registration applications processed from the close of registration for the November 2014 elections to the close of registration for the 2016 elections.</p>
+
+<p><a id="Foot note 5 Election Technology" name="Foot note 5 Election Technology">5</a> In-person participation figures used for this analysis were calculated by adding those who voted at a physical polling place on Election Day, those who voted using a provisional ballot, and those who voted at an early vote center. The calculation excludes the 13.3 percent of jurisdictions (856 jurisdictions) that did not provide sufficient data on the relevant EAVS questions for 2016.</p>
+
+<p><a id="Foot note 6 Election Technology" name="Foot note 6 Election Technology">6</a> &nbsp;The calculation used here excludes the 17.6 percent &nbsp;of jurisdictions (1,432 jurisdictions) that did not provide sufficient data on the relevant EAVS questions for 2012.</p>
+
+<p><a id="Foot note 7 Election Technology" name="Foot note 7 Election Technology">7</a> &nbsp;A few states and territories did not respond to the e-poll book-related questions on the EAVS. The actual number of states and territories that used e-poll books in 2016 is likely slightly higher than 34. For example, American Samoa did not respond to the EAVS survey in 2016, but reported using e-poll books in the 2012 elections.</p>
+
+<p><a id="Foot note 8 Election Technology" name="Foot note 8 Election Technology">8</a> &nbsp;In total, 5,600 of 6,467 jurisdictions responded sufficiently to the relevant questions on in-person voting and e-poll book usage.</p>
+
+<p><a id="Foot note 9 Election Technology" name="Foot note 9 Election Technology">9</a> &nbsp;This is labeled an “electronic vote selection, printed and optically scanned ballot” system in the survey. See the full definition in Appendix I. It is a “hybrid” in the sense that it allows a voter to mark their ballot like a DRE, but produces a paper record to be tabulated through an optical scan or similar sensor.</p>
+
+<p><a id="Foot note 10 Election Technology" name="Foot note 10 Election Technology">10</a> &nbsp;A minute number of jurisdictions reported using lever systems through 2014, including two jurisdictions in 2008, one in 2010, one in 2012 and one in 2014. Responses beyond 2008 appear to be erroneous as they conflict with previous years’ reporting on the questions.</p>
+
+<p><a id="Foot note 11 Election Technology" name="Foot note 11 Election Technology">11</a>&nbsp;&nbsp;Two jurisdictions reported using punch-card systems in 2016, but these responses appear to be erroneous as they conflict with previous years’ reporting on the questions.</p>
+
+<p><a id="Foot note 12 Election Technology" name="Foot note 12 Election Technology">12</a> &nbsp;Note that many jurisdictions use multiple types of election equipment (e.g. DREs for in-person voting and optical scan machines for processing mail ballots, or optical scans for most in-person voting along with DREs for voters with disabilities, etc.).</p>
+
+<p><a id="Foot note 13 Election Technology" name="Foot note 13 Election Technology">13</a> &nbsp;These calculations exclude Wisconsin, which changed its level of reporting jurisdiction between surveys (from 72 counties in 2008 to 3,541 jurisdictions in 2012, and down to 1,854 jurisdictions in 2016). This created a large shift in the total number of responding jurisdictions, which can skew&nbsp; percentage-of-jurisdictions-based&nbsp; calculations &nbsp;of change over time when included.</p>
+
+<p><a id="Foot note 14 Election Technology" name="Foot note 14 Election Technology">14</a> &nbsp;These calculations again exclude Wisconsin. Response rate may also play a factor in these calculations. There was a 91.2 percent response rate to questions relevant to these calculations in 2008, rising to 94.2 percent in 2012, and rising further to 95.4 percent in 2016.</p>
+
+<p><a id="Foot note 15 Election Technology" name="Foot note 15 Election Technology">15</a> &nbsp;Virginia Board of Elections <a href="https://www.elections.virginia.gov/Files/Media/ELECTNewsRelease9-8-17.pdf" target="_blank">News Release</a>. September 8, 2017.</p>
+
+<p><a id="Foot note 16 Election Technology" name="Foot note 16 Election Technology">16</a> &nbsp;Four of these five states reported using a small number of optical scan machines in each of their jurisdictions, which were used to process absentee&nbsp; or provisional ballots.</p>
+
+<p><a id="Foot note 17 Election Technology" name="Foot note 17 Election Technology">17</a>&nbsp;&nbsp;Two additional states reported having jurisdictions with this voting equipment, but information from the chief election office in the states shows the EAVS responses to be erroneous.</p>
+
+<h2><a id="Appendix I Election Technology" name="Appendix I Election Technology"></a>Appendix I</h2>
+
+<p>The following definitions of voting system categories was included in the 2016 EAVS Supplemental Instruction Manual.</p>
+
+<p><strong>Direct recording electronic (DRE) voting machines without a voter-verified paper audit trail:</strong> A voting system (push-button or touch screen) that records votes by means of a ballot display provided with mechanical or electro-optical components activated by the voter, where voting data are stored in a removable memory component. DRE is also referred to as an “electronic” voting system.</p>
+
+<p><strong>Direct recording electronic (DRE) voting machines with a voter-verified paper audit trail:</strong> A voting system (push-button or touch screen) that records votes by means of a ballot display provided with mechanical or electro-optical components activated by the voter, where voting data are stored both in a removable memory component and on a paper document that the voter can review before officially casting his or her ballot.</p>
+
+<p><strong>Hybrid or Electronic vote selection— printed and optically scanned ballot:</strong> A vote selection system (push-button or touch screen) in which the voter selects candidate choices by means of a ballot display provided with mechanical or electro-optical components activated by the voter, but no voting data is stored in the system. Instead, a paper ballot is printed that contains marks in voting response fields that are read by an optical scanner or similar sensor.</p>
+
+<p><strong>Optical scan: </strong>A system of recording votes by marks in voting response fields on ballot cards that are read by an optical scanner or similar sensor. These are also referred to as “mark-sense” voting systems.</p>
+
+<p><strong>Punch cards:</strong> A system of voting by punching holes in a card with a supplied punch device to indicate candidate or ballot issue choice. The ballots are counted using a computer punch card reader.</p>
+
+<p><strong>Lever machine:</strong> A system where each candidate or ballot issue choice is assigned a particular lever in a rectangular array of levers on the front of the machine. The voter pulls down selected levers to indicate choices. Vote totals are kept on a counter wheel within the machine.</p>
+
+<p><strong>Hand-counted paper ballots:</strong> A system where voters mark a paper ballot by hand and then each race on each ballot is counted by hand, without the use of a scanner, tabulator, or sensor.</p>
+</div>
+      
+        <h5>Document assets</h5>
+    
+
+            <div class="documents20180501eavs-deep-dive-election-technology field field--name-field-media-document field--type-file field--label-hidden field__item"><span class="file file--mime-application-pdf file--application-pdf documents20180501eavs-deep-dive-election-technology"><a href="../../../../../sites/default/files/document_library/files/EAVSDeepDive_electiontech_0418.pdf" type="application/pdf">EAVSDeepDive_electiontech_0418.pdf</a></span>
+  <span>(323.62 KB)</span>
+</div>
+      
+        <h5>Tags</h5>
+    
+
+      <div class="documents20180501eavs-deep-dive-election-technology field field--name-field-keywords field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item">data</div>
+              <div class="field__item">election administration and voting survey  (EAVS)</div>
+          </div>
+  
+  </div>
+
+  </div>
+
+
+          </div>        
+              </div>
+    </div>
+  </main>
+
+  <footer class="usa-footer usa-footer--slim" role="contentinfo">
+    
+          <div class="grid-container eac-footer__logo-img">
+        <img class="usa-footer__logo-img"
+          src="../../../../../themes/custom/eac_uswds/images/eac-footer-logo.png"
+          alt="Agency logo">
+      </div>
+      <div class="usa-footer__secondary-section eac-footer-top">
+        <div class="grid-container">
+          <div class="grid-row grid-gap">
+                        <div class="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2">
+
+                              <div class="mobile-lg:grid-col-auto eac-footer-mailing">
+                  <h3 class="usa-footer__logo-heading">U.S. Election Assistance Commission</h3>
+                  <div class="eac-footer-logo-address grid-row"><span>633 3rd Street NW, Suite 200, </span><span>Washington, DC 20001</span></div>
+                </div>
+              
+              <div class="usa-footer__social-links grid-row grid-gap-1">
+                                  <div class="grid-col-auto">
+                    <a class="usa-social-link usa-social-link--facebook" href="https://www.facebook.com/eacgov1">
+                      <img class="usa-social-link__icon" src="../../../../../themes/custom/eac_uswds/images/social-media/facebook.svg" alt="Facebook">
+                    </a>
+                  </div>
+                
+                                  <div class="grid-col-auto">
+                    <a class="usa-social-link usa-social-link--instagram" href="https://www.instagram.com/us.eac/">
+                      <img class="usa-social-link__icon" src="../../../../../themes/custom/eac_uswds/images/social-media/instagram.svg" alt="Instagram">
+                    </a>
+                  </div>
+                
+                                  <div class="grid-col-auto">
+                    <a class="usa-social-link usa-social-link--youtube" href="https://www.youtube.com/channel/UCpN6i0g2rlF4ITWhwvBwwZw">
+                      <img class="usa-social-link__icon" src="../../../../../themes/custom/eac_uswds/images/social-media/youtube.svg" alt="YouTube">
+                    </a>
+                  </div>
+                
+                                  <div class="grid-col-auto">
+                    <a class="usa-social-link usa-social-link--twitter" href="https://twitter.com/EACgov">
+                      <img class="usa-social-link__icon" src="../../../../../themes/custom/eac_uswds/images/social-media/twitter-x.svg" alt="Twitter">
+                    </a>
+                  </div>
+                
+                <div class="grid-col-auto">
+                  <a class="usa-social-link usa-social-link--linkedin"
+                     href="https://www.linkedin.com/company/u-s-election-assistance-commission">
+                    <img class="usa-social-link__icon" src="../../../../../themes/custom/eac_uswds/images/social-media/linkedin.svg" alt="LinkedIn">
+                  </a>
+                </div>
+
+                                  <div class="grid-col-auto">
+                    <a class="usa-social-link usa-social-link--rss" href="../../../../../rss.xml">
+                      <img class="usa-social-link__icon" src="../../../../../themes/custom/eac_uswds/images/social-media/rss_feed.svg" alt="RSS">
+                    </a>
+                  </div>
+                              </div>
+
+            </div>
+
+            <div class="usa-footer__contact-links desktop:grid-col-6">
+
+                              <a href="../../../../../contact.html" class="usa-footer__contact-center"><h3
+                  class="usa-footer__contact-heading">Contact the EAC</h3></a>
+                                        </div>
+
+          </div>
+                  </div>       </div>               <div class="usa-footer__secondary-section eac-footer-bottom">
+          <div class="grid-container">
+            <div class="grid-row grid-gap">
+              <div class="grid-col-fill">
+                  <div class="documents20180501eavs-deep-dive-election-technology">
+    <div id="block-secondaryfooter" class="search block block-block-content block-block-content7b468b33-ff8a-4843-91de-bb0f5059c4ee">
+  
+    
+      
+
+            <div class="search field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="grid-row flex-row footer-menu-container">
+<div class="footer-menu-first">
+<div class="grid-col flex-1">
+<div class="grid-row flex-column">
+<div><a href="../../../../../about-the-useac.html">About EAC</a></div>
+
+<div><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b872902a-68b7-448c-8ff5-98216bd3f5c7" href="../../../../../accessibility-statement.html" title="Accessibility Statement">Accessibility Statement</a></div>
+</div>
+</div>
+
+<div class="grid-col flex-1">
+<div class="grid-row flex-column">
+<div><a href="../../../../../foia/freedomofinformationactfoia/index.html">FOIA Requests</a></div>
+
+<div><a href="../../../../../no-fear-act.html">No FEAR Act Data</a></div>
+
+<div><a href="../../../../../inspector-general/index.html">Office of the Inspector General</a></div>
+<div><a href="https://osc.gov/">U.S. Office of Special Counsel</a></div>
+</div>
+</div>
+</div>
+
+<div class="footer-menu-second">
+<div class="grid-col flex-1">
+<div class="grid-row flex-column">
+<div><a href="../../../../../privacy-statement.html">Privacy Policy</a></div>
+
+<div><a href="../../../../../sitemap.html">Site Map</a></div>
+</div>
+</div>
+
+<div class="grid-col flex-1">
+<div class="grid-row flex-column">
+<div class="eac-footer-info-block">For more U.S. government information</div>
+
+<div>visit: <a href="https://www.usa.gov/">USA.gov</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+      
+  </div>
+
+  </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+          
+  </footer>
+
+  </div>
+
+
+<script src="../../../../../sites/default/files/js/js_nMqFPrT5hdmvX-UOHQmWZajm2yNYDG7n3bgoU5djqdk.js%3Fscope=footer&amp;delta=0&amp;language=en&amp;theme=eac_uswds&amp;include=eJxdi1EKwzAMQy9kkiMFMbvBW0hGrK7d7VdG2Md-9PRAgioH-jtjlbTN0SmGW9nj0MiIMIbYyeb9kXXuT7S0VDbny6_V4s-9O6WOUZsVouZ6xb8n3HFKOO1wtYJmk9_jB"></script>
+<script src="https://static.addtoany.com/menu/page.js" defer></script>
+<script src="../../../../../sites/default/files/js/js_x_VZqpTZi9xFrTxIhA0r-0kXxobg-Bgg_VLBRRA9Io4.js%3Fscope=footer&amp;delta=2&amp;language=en&amp;theme=eac_uswds&amp;include=eJxdi1EKwzAMQy9kkiMFMbvBW0hGrK7d7VdG2Md-9PRAgioH-jtjlbTN0SmGW9nj0MiIMIbYyeb9kXXuT7S0VDbny6_V4s-9O6WOUZsVouZ6xb8n3HFKOO1wtYJmk9_jB"></script>
+
+</body>
+</html>

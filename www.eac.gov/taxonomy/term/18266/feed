@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.eac.gov/">
+  <channel>
+    <title>Michigan</title>
+    <link>https://www.eac.gov/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Michigan Online Voter Registration</title>
+  <link>https://www.eac.gov/node/61541</link>
+  <description><![CDATA[
+<span class="taxonomyterm18266feed">Michigan Online Voter Registration</span>
+
+<span class="taxonomyterm18266feed"><a title="View user profile." href="https://www.eac.gov/user/1" lang about="https://www.eac.gov/user/1" typeof="Person" property="schema:name" datatype class="taxonomyterm18266feed">bluewater</a></span>
+
+<span class="taxonomyterm18266feed">Monday, November 4, 2019
+</span>
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/node/61541" data-a2a-title="Michigan Online Voter Registration"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fnode%2F61541&amp;title=Michigan%20Online%20Voter%20Registration"></a></span>
+
+
+            <p>Michigan&nbsp;does&nbsp;offer online voter registration but for updates only&nbsp;<strong>NOT first time registration.</strong>&nbsp;</p>
+
+<p>For information on how to register to vote or update your registration, visit the state's voter registration information webpage:&nbsp;<a href="https://www.michigan.gov/sos/0,1607,7-127-1633_8716_8726_47669-175878--,00.html" target="_blank">https://www.michigan.gov/sos/0,1607,7-127-1633_8716_8726_47669-175878--,00.html​</a>.</p>
+
+<p>&nbsp;</p>
+
+      
+
+  
+    <h5>State</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/18266" hreflang="en">Michigan</a>
+              
+
+
+  
+    <h5>Information Option</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/19526" hreflang="en">Online Voter Registration</a>
+              
+
+
+  
+    <h5>OVR Status</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/19531" hreflang="en">Online Voter Registration</a>
+              
+]]></description>
+  <pubDate>Mon, 04 Nov 2019 10:28:38 +0000</pubDate>
+    <dc:creator>bluewater</dc:creator>
+    <guid isPermaLink="false">61541 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>Michigan Voter Info</title>
+  <link>https://www.eac.gov/michigan-voter-info</link>
+  <description><![CDATA[
+<span class="taxonomyterm18266feed">Michigan Voter Info</span>
+
+<span class="taxonomyterm18266feed"><a title="View user profile." href="https://www.eac.gov/user/1" lang about="https://www.eac.gov/user/1" typeof="Person" property="schema:name" datatype class="taxonomyterm18266feed">bluewater</a></span>
+
+<span class="taxonomyterm18266feed">Monday, November 4, 2019
+</span>
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/michigan-voter-info" data-a2a-title="Michigan Voter Info"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fmichigan-voter-info&amp;title=Michigan%20Voter%20Info"></a></span>
+
+
+            <h3>Michigan</h3>
+
+<p><a href="https://mvic.sos.state.mi.us/Voter/Index/#yourclerk" target="_blank" title="Local Election Office&nbsp;Directory">Local Election Office&nbsp;Directory</a></p>
+
+<p><a href="https://mvic.sos.state.mi.us/" target="_blank" title="State Election Office Website">State Election Office Website</a></p>
+
+<p><strong>State Election Office Phone Number:</strong></p>
+
+<p>888-767-6424</p>
+
+<table border="1" cellpadding="1" cellspacing="1">
+	<tbody>
+		<tr>
+			<td>
+			<h3>Voter Registration Information</h3>
+			</td>
+			<td>
+			<h3>Voting Information</h3>
+			</td>
+		</tr>
+		<tr>
+			<td><a href="https://mvic.sos.state.mi.us/RegisterVoter/Index" target="_blank" title="Register to Vote">Register to Vote</a></td>
+			<td><a href="https://www.michigan.gov/sos/elections/voting/absentee-voting" rel="noopener" target="_blank">Absentee/&nbsp;Mail</a> and/or <a href="https://www.michigan.gov/sos/elections/voting/early-in-person-voting" rel="noopener" target="_blank">Early Voting</a></td>
+		</tr>
+		<tr>
+			<td><a href="https://mvic.sos.state.mi.us/RegisterVoter/Index" rel="noopener" target="_blank">Update Your Registration</a></td>
+			<td><a href="https://mvic.sos.state.mi.us/Voter/Index" target="_blank">Track Your Ballot</a></td>
+		</tr>
+		<tr>
+			<td><a href="https://mvic.sos.state.mi.us/Voter/Index" rel="noopener" target="_blank">Check Your Registration</a></td>
+			<td><a href="https://mvic.sos.state.mi.us/Voter/Index" rel="noopener" target="_blank">In-Person Voting Location&nbsp;Lookup</a></td>
+		</tr>
+		<tr>
+			<td>Cancel Your Registration: Contact your local election office.</td>
+			<td><a href="https://www.fvap.gov/michigan" rel="noopener" target="_blank">Military Voters</a></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td><a href="https://www.fvap.gov/michigan" rel="noopener" target="_blank">Overseas Citizen Voters</a></td>
+		</tr>
+		<tr>
+			<td><strong>Update Political Party:</strong>&nbsp;Michigan voters do not register by party affiliation.&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+
+<table>
+	<tbody>
+		<tr>
+			<th>Registration Deadline</th>
+		</tr>
+		<tr>
+			<td>15 days before Election Day by mail and online*</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>*In Michigan, you can also register in-person at any time up to 8 p.m. on Election Day at your city or township clerk’s office.</p>
+
+<p><em>Updated on November 12, 2024.</em></p>
+
+<hr>
+<p>&nbsp;</p>
+
+
+      
+
+  
+    <h5>State</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/18266" hreflang="en">Michigan</a>
+              
+
+
+  
+    <h5>Information Option</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/19521" hreflang="en">Voter Info</a>
+              
+]]></description>
+  <pubDate>Mon, 04 Nov 2019 10:24:41 +0000</pubDate>
+    <dc:creator>bluewater</dc:creator>
+    <guid isPermaLink="false">61261 at https://www.eac.gov</guid>
+    </item>
+
+  </channel>
+</rss>

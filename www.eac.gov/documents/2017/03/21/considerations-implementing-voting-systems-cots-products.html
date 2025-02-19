@@ -1,0 +1,1577 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head>
+  <meta charset="utf-8" />
+<link rel="canonical" href="considerations-implementing-voting-systems-cots-products.html" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="../../../../themes/custom/eac_uswds/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="considerations-implementing-voting-systems-cots-products.html" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_config.exclude_services = ["amazon_wish_list", "aol_mail", "balatarin", "bibsonomy", "bitty_browser", "blinklist", "blogger", "blogmarks", "bookmarks_fr", "box_net", "buffer", "care2_news", "citeulike", "copy_link", "design_float", "diary_ru", "diaspora", "digg", "diigo", "douban", "draugiem", "dzone", "evernote", "facebook_messenger", "fark", "flipboard", "folkd", "google_bookmarks", "google_classroom", "google_gmail", "hacker_news", "hatena", "houzz", "instapaper", "kakao", "kik", "kindle_it", "known", "line", "livejournal", "mail_ru", "mastodon", "mendeley", "meneame", "mix", "mixi", "myspace", "netvouz", "odnoklassniki", "outlook_com", "papaly", "pinboard", "pinterest", "plurk", "pocket", "print", "printfriendly", "protopage_bookmarks", "pusha", "qzone", "reddit", "rediff", "refind", "renren", "sina_weibo", "sitejot", "skype", "slashdot", "sms", "stocktwits", "stumbleupon", "svejo", "symbaloo_bookmarks", "telegram", "threema", "trello", "tuenti", "tumblr", "twiddla", "typepad_post", "viadeo", "viber", "vk", "wanelo", "wechat", "wordpress", "wykop", "xing", "yahoo_mail", "yoolink", "yummly", 'whatsapp', 'email', 'mewe'];</script>
+
+  <title>Considerations for Implementing Voting Systems with COTS products | U.S. Election Assistance Commission</title>
+  <link rel="stylesheet" media="all" href="../../../../sites/default/files/css/css_RS9dGW1qzZ11mZKSBE4XSaLmj6dmvvH4MUmxjD0CmK0.css%3Fdelta=0&amp;language=en&amp;theme=eac_uswds&amp;include=eJxNjFEKwzAMxS5k6iMFN34DN1kybJe2t-8-OtifBEKimlPGxfLA8vI5kmqDWk4vNhQj1z5r4z-mOh2svn-kL7LJSZBa9jg0WCKQQTiz22i_6FEKSxymKNLh-X1aUlyRePMqgRtDLDjw.css" />
+<link rel="stylesheet" media="all" href="../../../../sites/default/files/css/css_r0Wr8LHt0kLd6AYLD4h6E5Mv7DqTp8UQvn61OybDrxQ.css%3Fdelta=1&amp;language=en&amp;theme=eac_uswds&amp;include=eJxNjFEKwzAMxS5k6iMFN34DN1kybJe2t-8-OtifBEKimlPGxfLA8vI5kmqDWk4vNhQj1z5r4z-mOh2svn-kL7LJSZBa9jg0WCKQQTiz22i_6FEKSxymKNLh-X1aUlyRePMqgRtDLDjw.css" />
+
+  <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"media\/248476","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtag":{"tagId":"G-NK7B1BKVVD","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"eJxdjlEKw0AIRC8k8UiLiWaxu1nLaprk9k3bUEp_nPdgBiTmMGoH0gXD3K0FTEVYw3rSxtJirDYV_GEQmtLqGzuSu4SD7FG1FeS-3qkOl8Ks8dCzdeXXtWlANstVUlDGfJ5_H-hGO7iGbMqSqEqPz9APD1lwJBd4f5FeiHOnRTbr5QmpHFQ-","theme":"eac_uswds","theme_token":null},"ajaxTrustedUrl":[],"fitvids":{"selectors":".media-oembed-content\r,.node\r,.html5-video-container\r,.player\r,.field--name-field-media-oembed-video","custom_vendors":"iframe[src^=\u0022https:\/\/youtu.be\u0022],iframe[src^=\u0022https:\/\/youtu.be\u0022],iframe[src^=\u0022\/media\/oembed?url=https:\/\/youtu.be\u0022],iframe[src^=\u0022\/media\/oembed?url=https%3A\/\/youtu.be\u0022],iframe[src^=\u0022\/media\/oembed?url=https:\/\/youtube.com\u0022],iframe[src^=\u0022\/media\/oembed?url=https%3A\/\/youtube.com\u0022]","ignore_selectors":""},"data":{"extlink":{"extTarget":false,"extTargetAppendNewWindowLabel":"(opens in a new window)","extTargetNoOverride":false,"extNofollow":false,"extTitleNoOverride":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":".no-external-link","extCssInclude":"","extCssExplicit":"","extAlert":true,"extAlertText":"You are now leaving the Election Assistance Commission website. Links from these pages\/this page to non-Election Assistance Commission sites do not represent any implicit or explicit endorsement by the Election Assistance Commission of any commercial or private issues or products presented here.","extHideIcons":false,"mailtoClass":"0","telClass":"","mailtoLabel":"(link sends email)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"append","extPreventOrphan":false,"extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","whitelistedDomains":[],"extExcludeNoreferrer":""}},"sitewideAlert":{"refreshInterval":15000,"automaticRefresh":false},"user":{"uid":0,"permissionsHash":"f46290a5d36e352d4a8dd2cb4fee1dafa53b90aa66ec820830d5a3a823f24239"}}</script>
+<script src="../../../../sites/default/files/js/js_toXob7UUPkVDnE1yp9V6PkKd9I3NXL3sD2IhdIUeO-k.js%3Fscope=header&amp;delta=0&amp;language=en&amp;theme=eac_uswds&amp;include=eJxdi1EKwzAMQy9kkiMFMbvBW0hGrK7d7VdG2Md-9PRAgioH-jtjlbTN0SmGW9nj0MiIMIbYyeb9kXXuT7S0VDbny6_V4s-9O6WOUZsVouZ6xb8n3HFKOO1wtYJmk9_jB"></script>
+<script src="../../../../modules/contrib/google_tag/js/gtag.js%3Fsr4cbz"></script>
+
+</head>
+<body class="documents20170321considerations-implementing-voting-systems-cots-products">
+<a href="considerations-implementing-voting-systems-cots-products.html#main-content" class="usa-sr-only focusable">
+  Skip to main content
+</a>
+
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+          <section class="usa-banner">
+      
+<div class="usa-banner">
+  <div class="usa-accordion">
+    <header class="usa-banner__header">
+      <div class="usa-banner__inner">
+        <div class="grid-col-auto">
+          <img class="usa-banner__header-flag" aria-hidden="true" src="../../../../themes/custom/eac_uswds/assets/uswds/img/us_flag_small.png" alt="">
+        </div>
+        <div class="grid-col-fill tablet:grid-col-auto" aria-hidden="true">
+          <p class="usa-banner__header-text">An official website of the United States government</p>
+          <p class="usa-banner__header-action" aria-hidden="true">Here's how you know</p>
+        </div>
+        <button type="button" class="usa-accordion__button usa-banner__button" aria-expanded="false" aria-controls="gov-banner">
+          <span class="usa-banner__button-text">Here's how you know</span>
+        </button>
+      </div>
+    </header>
+    <div class="usa-banner__content usa-accordion__content" id="gov-banner" hidden="">
+      <div class="grid-row grid-gap-lg">
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <img class="usa-banner__icon usa-media-block__img" src="../../../../themes/custom/eac_uswds/assets/uswds/img/icon-dot-gov.svg" alt="Dot gov">
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Official websites use .gov</strong>
+              <br>
+              A <strong>.gov</strong> website belongs to an official government organization in the United States.
+            </p>
+          </div>
+        </div>
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <img class="usa-banner__icon usa-media-block__img" src="../../../../themes/custom/eac_uswds/assets/uswds/img/icon-https.svg" alt="Https">
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Secure .gov websites use HTTPS</strong>
+              <br>
+              A <strong>lock</strong> (   <span class="icon-lock">
+    <svg xmlns="http://www.w3.org/2000/svg" width="52" height="64" viewBox="0 0 52 64" class="usa-banner__lock-image" role="img" aria-labelledby="banner-lock-description" focusable="false">
+      <title id="banner-lock-title">Lock</title>
+      <desc id="banner-lock-description">Locked padlock</desc>
+      <path fill="#000000" fill-rule="evenodd" d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z"/>
+    </svg>
+  </span>
+ ) or <strong>https://</strong> means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    </section>
+  
+<div class="usa-overlay"></div>
+
+<div class="search block block-sitewide-alert-block">
+  
+    
+      <div data-sitewide-alert></div>
+  </div>
+
+
+  <header class="usa-header usa-header--extended usa-header--extended-megamenu" id="header" role="banner">
+
+  
+  
+    <div class="documents20170321considerations-implementing-voting-systems-cots-products region region-header usa-navbar">
+    <div class="usa-logo site-logo display-flex flex-row" id="logo">
+
+  <div class="eac-site-logo">
+
+      <a class="logo-img" href="../../../../home.html" accesskey="1" title="Home" aria-label="Home">
+      <img src="../../../../themes/custom/eac_uswds/logo.png" alt="Home" />
+    </a>
+  
+  </div>
+
+  <div class="eac-logo-text">
+    <a href="../../../../home.html" accesskey="2" title="Home" aria-label="Home">
+          <span class="display-block text-no-wrap">United States</span>
+          <span class="display-block text-no-wrap">Election Assistance</span>
+          <span class="display-block">Commission</span>
+    </a>
+  </div>
+
+
+</div>
+<button class="usa-menu-btn">
+  <img class="usa-icon usa-menu-icon eac-menu-btn" aria-hidden="true" focusable="false" src="../../../../themes/custom/eac_uswds/images/eac-icon-hamburger.svg">
+  Menu
+</button>
+
+</div>
+
+
+    <nav class="usa-nav" role="navigation">
+            <div class="usa-nav__inner">
+        
+        <div id="mobile-menu-header">           <div class="usa-logo site-logo display-flex flex-row" id="logo-mobile-menu">
+            <div class="eac-site-logo">
+                <a class="logo-img" href="../../../../home.html" accesskey="1" title="Home" aria-label="Home">
+                  <img src="../../../../themes/custom/eac_uswds/logo.png" alt="Home" />
+                </a>
+            </div>
+
+            <div class="eac-logo-text">
+              <a href="../../../../home.html" accesskey="2" title="Home" aria-label="Home">
+                <div>United States</div>
+                <div>Election Assistance</div>
+                <div>Commission</div>
+              </a>
+            </div>
+
+            <button class="usa-nav__close">
+              <img src="../../../../themes/custom/eac_uswds/images/mobile-menu-close.svg" alt="close"/>Close
+            </button>
+          </div>
+        </div>
+
+
+                    
+        
+        
+  
+  
+          <ul class="usa-nav__primary usa-accordion">
+                                 
+                    
+                          <li class="usa-nav__primary-item">
+      
+              <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="extended-mega-nav-section-1">
+          <span>Election Admin</span>
+        </button>
+      
+                
+        
+        
+  
+  
+          <div id="extended-mega-nav-section-1" class="usa-nav__submenu usa-megamenu" hidden="">
+
+      
+      <div class="grid-row grid-gap-4">
+                                 
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../election-officials/election-management-guidelines.html" class="link" data-drupal-link-system-path="node/64626">          <span>Election Management Guidelines</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../toolkits.html" class="link">          <span>Election Official Toolkits</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../election-officials/quick-start-guides/index.html" class="link" data-drupal-link-system-path="node/62656">          <span>Quick Start Guides</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../clearinghouse-resources-election-officials.html" class="link" data-drupal-link-system-path="node/70011">          <span>Election Official Resources</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../language-access-resources.html" class="link" data-drupal-link-system-path="node/64301">          <span>Language Access Resources</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../uocava.html" class="link" data-drupal-link-system-path="node/69151">          <span>UOCAVA Resources</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../election-officials/election-security-preparedness/index.html" class="link" data-drupal-link-system-path="node/62576">          <span>Secure Elections</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../election-officials/voting-accessibility.html" class="link" data-drupal-link-system-path="node/63726">          <span>Accessibility</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../election-officials/voluntary-voting-system-guidelines-vvsg-deprecation.html" class="link">          <span>VVSG Communication Resources</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../election-officials/poll-worker-resources.html" class="link" data-drupal-link-system-path="node/63981">          <span>Poll Worker Resources for Election Officials</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../election-officials/eac-clearinghouse-awards-information.html" class="link" data-drupal-link-system-path="node/64071">          <span>Clearinghouse Awards</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                        
+      
+                                
+        
+                                                                          
+                    
+    
+          </div>
+              <div class="grid-row grid-col-12 menu-view-all-divider"></div>
+        <div class="grid-row grid-col-12 usa-nav__submenu-item menu-view-all">
+          <a href="../../../../election-admin.html" class="menu-view-all link" data-drupal-link-system-path="node/53731">          <span>All Election Admin Resources</span>
+        </a>
+        </div>
+              </div>
+    
+  
+
+      
+              </li>
+      
+                        
+                    
+                          <li class="usa-nav__primary-item">
+      
+              <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="extended-mega-nav-section-2">
+          <span>Voting</span>
+        </button>
+      
+                
+        
+        
+  
+  
+          <div id="extended-mega-nav-section-2" class="usa-nav__submenu usa-megamenu" hidden="">
+
+      
+      <div class="grid-row grid-gap-4">
+                                 
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../voters/register-and-vote-in-your-state-old/index.html" class="link" data-drupal-link-system-path="node/63796">          <span>Voting in Your State</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../voters/national-mail-voter-registration-form/index.html" class="link" data-drupal-link-system-path="node/62321">          <span>National Mail Voter Registration Form</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../help-america-vote.html" class="link" data-drupal-link-system-path="node/66421">          <span>Become A Poll Worker</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../voters/voter-faqs.html" class="link" data-drupal-link-system-path="taxonomy/term/19821">          <span>Voter FAQs</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../voters/voters-guide-to-federal-elections/index.html" title="Voting 101 – Election Information for Voters" class="link">          <span>Voting 101</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../uocava.html" class="link" data-drupal-link-system-path="node/69151">          <span>Overseas &amp; Military</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../electionsecurity/index.html" class="link" data-drupal-link-system-path="node/63731">          <span>Secure Voting</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../election-officials/voting-accessibility.html" class="link" data-drupal-link-system-path="node/63726">          <span>Voter Accessibility</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../voters/voter-registration-cancellations.html" class="link">          <span>Voter Registration Cancellations</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                        
+      
+                                
+        
+                                                                          
+                    
+    
+          </div>
+              <div class="grid-row grid-col-12 menu-view-all-divider"></div>
+        <div class="grid-row grid-col-12 usa-nav__submenu-item menu-view-all">
+          <a href="../../../../voters.html" class="menu-view-all link" data-drupal-link-system-path="node/67851">          <span>All Voting Resources</span>
+        </a>
+        </div>
+              </div>
+    
+  
+
+      
+              </li>
+      
+                        
+                    
+                          <li class="usa-nav__primary-item">
+      
+              <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="extended-mega-nav-section-3">
+          <span>Election Technology</span>
+        </button>
+      
+                
+        
+        
+  
+  
+          <div id="extended-mega-nav-section-3" class="usa-nav__submenu usa-megamenu" hidden="">
+
+      
+      <div class="grid-row grid-gap-4">
+                                 
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../testing-certification-program-tc.html" class="link" data-drupal-link-system-path="node/70601">          <span>Voting System Testing &amp; Certification Program (T&amp;C)</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../estep.html" class="link" data-drupal-link-system-path="node/64666">          <span>Election Supporting Technology Evaluation Program (ESTEP)</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../election-technology/field-services-program.html" class="link" data-drupal-link-system-path="node/70596">          <span>Field Services Program (FSP)</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                        
+      
+                                
+        
+                                                                          
+                    
+    
+          </div>
+              <div class="grid-row grid-col-12 menu-view-all-divider"></div>
+        <div class="grid-row grid-col-12 usa-nav__submenu-item menu-view-all">
+          <a href="../../../../voting-equipment/testing-and-certification-program.html" class="menu-view-all link" data-drupal-link-system-path="node/70581">          <span>View All Election Technology Resources</span>
+        </a>
+        </div>
+              </div>
+    
+  
+
+      
+              </li>
+      
+                        
+                    
+                          <li class="usa-nav__primary-item">
+      
+              <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="extended-mega-nav-section-4">
+          <span>Research</span>
+        </button>
+      
+                
+        
+        
+  
+  
+          <div id="extended-mega-nav-section-4" class="usa-nav__submenu usa-megamenu" hidden="">
+
+      
+      <div class="grid-row grid-gap-4">
+                                 
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../research-and-data/datasets-codebooks-and-surveys/index.html" class="link" data-drupal-link-system-path="node/63781">          <span>Election Administration and Voting Survey (EAVS) Reports</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../election-officials/voting-accessibility.html" class="link" data-drupal-link-system-path="node/63726">          <span>Accessibility</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../election-officials/pcea/index.html" class="link" title="Presidential Commission on Election Administration Report and Supplemental Material" data-drupal-link-system-path="node/62941">          <span>PCEA</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                        
+      
+                                
+        
+                                                                          
+                    
+    
+          </div>
+              <div class="grid-row grid-col-12 menu-view-all-divider"></div>
+        <div class="grid-row grid-col-12 usa-nav__submenu-item menu-view-all">
+          <a href="../../../../research-and-data.html" class="menu-view-all link" data-drupal-link-system-path="node/67856">          <span>All Research Resources</span>
+        </a>
+        </div>
+              </div>
+    
+  
+
+      
+              </li>
+      
+                        
+                    
+                          <li class="usa-nav__primary-item">
+      
+              <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="extended-mega-nav-section-5">
+          <span>Grants</span>
+        </button>
+      
+                
+        
+        
+  
+  
+          <div id="extended-mega-nav-section-5" class="usa-nav__submenu usa-megamenu" hidden="">
+
+      
+      <div class="grid-row grid-gap-4">
+                                 
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../payments-and-grants/grants-management-and-oversight.html" class="link" data-drupal-link-system-path="node/64016">          <span>Grants Management &amp; Oversight</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../payments-and-grants/grants-guidance.html" class="link">          <span>Grants Guidance</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../payments-and-grants/hava-grant-programs.html" class="link">          <span>HAVA Grant Programs</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../payments-and-grants/annual-grants-expenditure-report.html" class="link">          <span>Annual Grants Expenditure Report</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../payments-and-grants/audits-resolutions.html" class="link">          <span>HAVA Audits and Resolutions</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../payments-and-grants/reporting-oversight.html" class="link">          <span>Reporting Requirements</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../payments-and-grants/2020-hava-funds.html" class="link" data-drupal-link-system-path="node/64011">          <span>Election Security Funds</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../payments-and-grants/state-administrative-complaints.html" class="link">          <span>State Administrative Complaints</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../funding-levels-by-state.html" class="link" data-drupal-link-system-path="node/64706">          <span>Funding Levels By State</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../payments-and-grants/grants-faqs.html" class="link" data-drupal-link-system-path="taxonomy/term/19906">          <span>Grants FAQS</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../grants/havcp.html" class="link" data-drupal-link-system-path="node/69491">          <span>Help America Vote College Program</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                        
+      
+                                
+        
+                                                                          
+                    
+    
+          </div>
+              <div class="grid-row grid-col-12 menu-view-all-divider"></div>
+        <div class="grid-row grid-col-12 usa-nav__submenu-item menu-view-all">
+          <a href="../../../../payments-and-grants.html" class="menu-view-all link">          <span>All Grants Resources</span>
+        </a>
+        </div>
+              </div>
+    
+  
+
+      
+              </li>
+      
+                        
+                    
+                          <li class="usa-nav__primary-item">
+      
+              <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="extended-mega-nav-section-6">
+          <span>News &amp; Events</span>
+        </button>
+      
+                
+        
+        
+  
+  
+          <div id="extended-mega-nav-section-6" class="usa-nav__submenu usa-megamenu" hidden="">
+
+      
+      <div class="grid-row grid-gap-4">
+                                 
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../blogs/index.html" class="link" data-drupal-link-system-path="blogs">          <span>Blogs</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../events/index.html" class="link" data-drupal-link-system-path="events">          <span>Events</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../news.html" class="link" data-drupal-link-system-path="news">          <span>News</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../newsletter.html" class="link">          <span>EAC Newsletters</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="https://www.youtube.com/@u.s.electionassistancecomm2110" class="link">          <span>EAC&#039;s YouTube Channel</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                        
+      
+                                
+        
+                                                                          
+                    
+    
+          </div>
+              <div class="grid-row grid-col-12 menu-view-all-divider"></div>
+        <div class="grid-row grid-col-12 usa-nav__submenu-item menu-view-all">
+          <a href="../../../../news-and-events.html" class="menu-view-all link" data-drupal-link-system-path="node/69501">          <span>All News &amp; Events</span>
+        </a>
+        </div>
+              </div>
+    
+  
+
+      
+              </li>
+      
+                        
+                    
+                          <li class="usa-nav__primary-item">
+      
+              <button class="usa-accordion__button usa-nav__link " aria-expanded="false" aria-controls="extended-mega-nav-section-7">
+          <span>About</span>
+        </button>
+      
+                
+        
+        
+  
+  
+          <div id="extended-mega-nav-section-7" class="usa-nav__submenu usa-megamenu" hidden="">
+
+      
+      <div class="grid-row grid-gap-4">
+                                 
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../about/advisory-boards.html" class="link" data-drupal-link-system-path="node/63816">          <span>Advisory Boards</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../about_the_eac/commissioners.aspx.html" class="link">          <span>EAC Commissioners</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../about-eac/budget-and-finance.html" class="link" title="Agency budgets and justifications, agency financial reports, and other reporting. ">          <span>Budget and Finance</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../about-eac/congressional-affairs.html" class="link">          <span>Congressional Affairs</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../about_the_eac/help_america_vote_act.aspx.html" class="link">          <span>Help America Vote Act</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../about-eac/careers.html" class="link" title="Learn how to become a part of our EAC staff.">          <span>Careers</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../inspector-general/index.html" class="link" data-drupal-link-system-path="node/62706">          <span>Office of Inspector General</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                  <div class="desktop:grid-col-3">
+                      
+      
+                                  <div class="usa-nav__submenu-item">
+                  
+        
+                                  <a href="../../../../contact/index.html" class="link" data-drupal-link-system-path="node/62351">          <span>Contact U.S. EAC</span>
+        </a>
+                                    </div>
+                        
+                      </div>
+              
+                        
+                    
+                                        
+      
+                                
+        
+                                                                          
+                    
+    
+          </div>
+              <div class="grid-row grid-col-12 menu-view-all-divider"></div>
+        <div class="grid-row grid-col-12 usa-nav__submenu-item menu-view-all">
+          <a href="../../../../about-the-useac/index.html" class="menu-view-all link" data-drupal-link-system-path="node/69161">          <span>About the EAC</span>
+        </a>
+        </div>
+              </div>
+    
+  
+
+      
+              </li>
+      
+    
+          </ul>
+    
+  
+
+
+
+
+
+        
+                  <div class="documents20170321considerations-implementing-voting-systems-cots-products usa-nav__secondary">
+<form class="usa-search usa-search--small" data-drupal-selector="google-cse-search-box-form" action="https://www.eac.gov/search?cx=27c3637cb836240d4&amp;keys=test&amp;op=Search&amp;form_build_id=form-ResWBaskJl0M8r4j7flFK9eU_gQJ1UWu3pjd0XNGQRo&amp;form_id=google_cse_search_box_form"  method="get" id="search-block-form" accept-charset="UTF-8">
+  <div role="search">
+    
+    <input class="usa-input" id="extended-search-field-small" type="search" placeholder="Search EAC" name="keys" />
+    <button class="usa-button" type="submit">
+      <img src="../../../../themes/custom/eac_uswds/assets/uswds/img/usa-icons-bg/search--white.svg" class="usa-search__submit-icon" alt="Search">
+    </button>
+  </div>
+</form>
+
+</div>
+
+        
+                <div class="secondary-nav-mobile">
+                                        
+        </div>
+
+
+              </div>
+          </nav>
+
+    
+</header>
+
+
+
+
+  <main class="main-content usa-layout-docs usa-section  " role="main"
+        id="main-content">
+
+    <div class="grid-container">
+
+                        <div class="grid-row">
+              <div class="documents20170321considerations-implementing-voting-systems-cots-products">
+    <div id="block-eac-uswds-breadcrumbs" class="documents20170321considerations-implementing-voting-systems-cots-products block block-system block-system-breadcrumb-block">
+  
+    
+          <nav class="usa-breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+        <h2 id="system-breadcrumb" class="usa-sr-only">Breadcrumb</h2>
+        <ol class="usa-breadcrumb__list">
+                            <li class="usa-breadcrumb__list-item">
+                                            <a href="../../../../home.html" class="usa-breadcrumb__link"><span>EAC Home</span></a>
+                                    </li>
+                            <li class="usa-breadcrumb__list-item">
+                                            <span>Considerations For Implementing Voting Systems With COTS Products</span>
+                                    </li>
+                    </ol>
+    </nav>
+
+  </div>
+
+  </div>
+
+          </div>
+        
+        
+                <div class="node-category"></div>
+
+                  <div class="">
+            <div data-drupal-messages-fallback class="hidden"></div>
+
+
+          </div>
+        
+                                      <div class="grid-row ">
+              
+            </div>
+                        
+      <div class="grid-row grid-gap">
+        
+                  <div class="usa-layout-docs__main desktop:grid-col-fill">
+                  
+  <h1 class="margin-0 page-title">Considerations for Implementing Voting Systems with COTS products</h1>
+
+
+<div id="block-eac-uswds-content" class="documents20170321considerations-implementing-voting-systems-cots-products block block-system block-system-main-block">
+  
+    
+      
+
+
+
+<div class="documents20170321considerations-implementing-voting-systems-cots-products view-mode- media-oembed-content">
+  
+    <div class="media-category">Voting Technology</div>
+        <div class="node-date">
+      Posted: Tuesday, March 21, 2017
+    </div>
+    <div class="addtoany no-external-link">
+    <div class="documents20170321considerations-implementing-voting-systems-cots-products block block-addtoany block-addtoany-block">
+  
+    
+      <span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/documents/2017/03/21/considerations-implementing-voting-systems-cots-products" data-a2a-title="Considerations for Implementing Voting Systems with COTS products"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fdocuments%2F2017%2F03%2F21%2Fconsiderations-implementing-voting-systems-cots-products&amp;title=Considerations%20for%20Implementing%20Voting%20Systems%20with%20COTS%20products"></a></span>
+
+  </div>
+
+  </div>`
+      
+
+            <div class="documents20170321considerations-implementing-voting-systems-cots-products field field--name-field-body field--type-text-with-summary field--label-hidden field__item"><div>
+<p>The EAC’s Managing Election Technology Series</p>
+
+<p>&nbsp;</p>
+
+<p>"The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency."</p>
+
+<p>--Bill Gates</p>
+
+<p>&nbsp;</p>
+
+<p>Overview</p>
+
+<p>The Election Official of today is an Information Technology (IT) Manager – whether they think they are, whether they want to be, or whether they were trained to be. &nbsp;IT Management requires a unique set of attitudes, knowledge and skills in order to plan, direct, and control contemporary election administration.&nbsp; This series of guides to managing election technology identify the primary areas in which the effective Election Official must recognize their role as an IT manager and provides ideas and best practices to assist in &nbsp;accommodating the demands of the modern election’s office.</p>
+
+<p>&nbsp;</p>
+
+<h1>Implementing Voting Systems with COTS Products</h1>
+</div>
+
+<div>
+<p>Over the course of the past several years, election jurisdictions seeking to purchase new election systems have begun a significant shift in focus away from the traditional approach of procuring predominantly proprietary election systems and toward procuring systems largely composed of commercial products. This shift follows what has become the practice over the past decade in state and U.S. Federal Government procurements, particularly those of the Department of Defense (DoD) and other large agencies. Many current Requests for Proposals (RFPs) being issued by government agencies now include a mandate concerning the amount of “COTS” (commercial off-the-shelf) products that must be included.</p>
+
+<p>The considerations noted in this paper related to COTS products are cautionary: it is obvious to observers of election administration in this country that the growth in proprietary hardware/software costs are likely to continue, and that appropriate use of commercially- available products is one of the remedies that might enable election jurisdictions to acquire new and improved systems in a cost-effective manner. Additionally, COTS-solutions may provide needed flexibility in managing the service life of election systems as well as increasing their adaptability to changing requirements.</p>
+
+<p>Like any solution to a problem, there are drawbacks as well as benefits to using COTS in election systems: while it may not be readily apparent to the election community as yet, many trade-offs exist when integrating a predominantly commercial product into an election system. Using COTS components in any given circumstance might prove cheaper and easier to implement, but this is certainly not careful analysis, reasoning, well-formed policy and practicable engineering decisions. COTS solutions present both opportunity and risks to jurisdictions who specify their inclusion in their election systems.</p>
+
+<p>This paper discusses major considerations election officials should ponder before determining the extent to which their future election or voting system implements a predominantly COTS inclusive approach.</p>
+
+<h3>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use the term “COTS” precisely.</h3>
+
+<p>It is important to get a clear definition of the term “COTS.”&nbsp; The following definition is included in the EAC Voluntary Voting &nbsp;System Guidelines, Version 1.1 and is the definition agreed to by the panel convened at the 2011 EAC Roundtable on COTS:</p>
+
+<p>COTS: “Software, firmware, device or component that is used in the United States by many different people or organizations for many different applications other than certified voting systems and that is incorporated into the voting system with no manufacturer- or application-specific modification.”</p>
+
+<p>Note that some items that appear to be COTS are really more correctly modified COTS<a href="considerations-implementing-voting-systems-cots-products.html#_bookmark0">1</a>. Any change made by an integrator or third party to a COTS product disqualifies it from being truly COTS. True COTS should be able to be purchased at a retail store like Best Buy or directly from the manufacturer (Dell or Apple, for example) and be able to be plugged into the election system with no guaranteed. Election officials, in their capacity&nbsp;as IT managers, must understand that the use of a COTS component may be a reasonable solution, but its use should be the product of</p>
+</div>
+
+<div>&nbsp;
+<ol>
+	<li>Modified COTS (or MOTS – Modified Off-the-Shelf) refers to an off-the-shelf product that is customized by a commercial vendor to respond to specific requirements of the election community.</li>
+</ol>
+</div>
+
+<p>modification of the COTS product and only trivial accommodation required from existing components (ex: installing a COTS printer may require the installation and customization of a printer driver)</p>
+
+<div>
+<p>Likewise, it is equally important to define the term “proprietary”:</p>
+
+<p>Proprietary: &nbsp;“A technology or product that is owned and distributed exclusively by a single company and that is protected by patent, copyright or trademark.”</p>
+
+<p>A common example of a proprietary product is Adobe Acrobat, whose Portable Document Format (PDF) files can only be read with the Acrobat Reader.</p>
+
+<p>To further complicate best efforts to use these terms in a very precise manner, many products (and many, if not most, current voting system components) use numerous COTS or slightly modified COTS products) in what we generally term “proprietary” voting systems. This fact is best illustrated by the fact that several current voting system manufacturers use the same COTS scanning device as the basis for their proprietary precinct count optical scanning products.</p>
+
+<h3>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand the impact of COTS products on the RFP and selection process</h3>
+
+<p>The use of COTS products has significant impact on both the RFP requirements and the evaluation of proposals, an impact that must be understood early in the election system acquisition process. When purchasing COTS based systems, an election official must have a full accounting of the various implementations of the systems as well as who is responsible for each portion of the process supported by the systems. The purchasing jurisdiction must view itself as an election system integrator instead of the more traditional view of the election official as an election system implementer. The election official may want to include an IT integration requirement to the RFP so there is a clear line of responsibility and accountability for bringing together the various COTS based systems with already existing election technology in the office. In the end, the election official will be held accountable for all the components and systems working together as intended.</p>
+
+<p>Election officials will do well to work closely with their IT procurement officers to ensure that there is no misunderstanding about the intended role of the COTS products, their maintenance, and the potential impact of unplanned and unauthorized substitutions.</p>
+
+<h3>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand COTS impact on system integration.</h3>
+
+<p>Integrating COTS components into your system is not necessarily simpler than integrating proprietary components, and may in fact be more difficult. The current thrust toward incorporating COTS products takes place in the context of “COTS-based voting/election systems.” That is, complex groupings of components, interacting in diverse ways, and in which introducing commercial components will simultaneously result in lower cost as well as providing the system “plug-and-play” characteristics</p>
+
+<p>The phrase “plug-and-play” is significant, and is frequently the unspoken motivator for much of the current interest in COTS products. It conjures up a “software &nbsp;centric” environment wherein heterogeneous hardware components can be easily inserted or replaced, and in which components interconnect and interoperate without modification or effort on the part &nbsp;of the integrator<a href="considerations-implementing-voting-systems-cots-products.html#_bookmark1">2</a>. It is based on the realities of the larger hardware world, where some degree of “plug and play” really does exist; boards, cables, printers, monitors, and keyboards can all be purchased, replaced, and upgraded independently and easily.</p>
+</div>
+
+<div>
+<p>Even with this degree of interoperability however, changes in hardware can have significant impact on a system. (As an example, substituting a short, shielded cable with a standard 3m USB cable might very well have a negative effect on the EMI characteristics of the system.)</p>
+
+<p>The “plug and play” notion also rests on assumptions about data that different tools will share. For the past several years, the IEEE P1622 committee<a href="considerations-implementing-voting-systems-cots-products.html#_bookmark2">3</a>&nbsp;has been working to specify a standard or set of standards for a common data format for election systems partially in order to assist in the integration and testing of components from different manufacturers and vendors. This work shows much promise, but still has an incredibly long way to go before allowing for true “plug and play” capability in election systems.</p>
+
+<ol>
+	<li value="2">An integrator (sometimes known as systems integrator) is a person or company that specializes in bringing together component subsystems into a whole and ensuring that those subsystems function together. As noted above, the election administrator may well become the integrator of the future.</li>
+	<li value="3">This work is now integrating with the EAC/NIST/TGDC VVSG standards development process.</li>
+</ol>
+
+<h3>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand COTS impact on the testing process.</h3>
+
+<p>Testing and validation of COTS-based voting and election systems is a substantially different process than testing and validating proprietary systems. All three pre- election system test efforts and post-election audits will be impacted by the introduction of primarily COTS based systems:</p>
+
+<p>Federal Certification Testing</p>
+
+<p>COTS products are, by nature, tested very differently than traditional voting system products. On the COTS manufacturer side, testing is market driven, not statutory or rule drive like Federal and State voting system testing. Significant research will need to be done to determine exactly what levels of testing are appropriate for COTS based voting and election systems.</p>
+
+<p>Much will depend upon the availability of testing and quality assurance information available from the COTS vendor. Certainly and at minimum, COTS products will need to be functionally tested with the full voting/election system to be certain that at least the versions of COTS submitted for testing work as intended in the system. New requirements (VVSG) must be written to focus more on the product/system interface level and focus on performance or functional characteristics (i.e., what should the product/system be capable of doing as opposed to how the product/system should do it). These functional characteristics should also be quantifiable and testable by the VSTLs or others.</p>
+</div>
+
+<p>Risk will also need to be factored into determinations on the level of test effort. What is the risk that the COTS product has defects? What percentage of allowable defects is acceptable to the COTS manufacturer(s)? We know that commercial products are never defect- free. Large commercial product vendors conduct a continuous balancing act between the quality of the system and time-to-market delivery, and often</p>
+
+<div>
+<p>time-to market considerations win out over quality. In addition, while counterfeiting is an infrequent occurrence in COTS products, it does happen and when it occurs, it presents an additional obstacle to testing and assurance.</p>
+
+<p>Federal certification testing also places significant importance on finding the root cause of failures encountered during the testing process. For some COTS-based system failures, finding the actual source of the failure, the root cause, or even re-creating the failure, will be more complex and time- consuming. This will be especially true when the COTS election system involves products from multiple COTS vendors.</p>
+
+<p>State certification testing will have to address many of the same issues faced by the Federal certification program, but perhaps with fewer resources and less time to complete the testing.</p>
+
+<p>States who engage in certification testing of voting systems will need to modify and validate their testing protocols to accommodate COTS components.</p>
+&nbsp;
+
+<p>State/Local Acceptance Testing</p>
+
+<p>The purpose of acceptance testing is to verify that the certified version of the election system is delivered to the jurisdiction and that the system can perform the functions required by the State and/or local election jurisdiction. Acceptance testing becomes a more complex process when integrating COTS components. Commercial COTS products typically have an accelerated development lifecycle and may change every 1-2 years or less. This will guarantee that units delivered to the jurisdiction will likely not be identical to either the certified version, or to versions delivered at other times.</p>
+
+<p>Another factor to consider when acceptance testing COTS based systems is determining how to test to ensure that the COTS products work correctly with all other products in your dependent voting or broader election system. Do they negatively impact your election night reporting system? Your e- pollbook system?</p>
+
+<p>Jurisdictions will need to implement strict version control protocols to ensure that all individual units are using the same software releases, or when not possible, to document the difference.</p>
+
+<p>Logic &amp; Accuracy (L&amp;A) Testing</p>
+
+<p>Pre and post-election logic and accuracy testing will be impacted as the system may actually introduce new COTS components at any time, thus making your system “new” again every single time it is used. To that end, election officials will likely want to revise L&amp;A test scripts each time the system changes. These script changes may be major or minor, depending on the nature of the system change.</p>
+</div>
+
+<div>
+<p>L&amp;A Testing will continue to evolve so that not only is the ballot being tested, but that the system itself is being tested. L&amp;A tests that utilize sampling methods will have to be expanded to include a comprehensive review of all equipment to be used in the upcoming election. This use model will need to include end-to-end testing methods, pushing past just vote capture and tabulation, to include election night reporting and post election activities that are dependent upon the correctness of the system.</p>
+
+<p>Audits and Other Post-Election Testing</p>
+
+<p>Any jurisdiction post-election audit procedures will need to be reviewed to identify controls that may be impacted by the revision of COTS components in the system.&nbsp; In fact, the COTS components themselves may become the subject of such audits.</p>
+
+<h3>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand that a COTS approach makes a voting or election system dependent on the COTS vendors.</h3>
+
+<p>Vendor support for the commercial components in a COTS-based system is critical to the success of that system; many unforeseen problems can accompany a commercial system after deployment. The <a name="_bookmark3"></a>role of the COTS components’ vendors can be a decisive factor in successfully implementing and maintaining a COTS- based system. Several aspects are especially significant.</p>
+
+<p>Does the COTS vendor supply adequate documentation for the component or components in question? Some COTS products offer extensive and useful documentation, but this is by no means universal. Is the documentation well- written and accurate? Can it be relied upon to be the integrator in order support election system testing, maintenance and future development? What kind of user support is available? Is the vendor responsive to user inquiries? In the current predominantly proprietary voting system world, problem calls will generally go to a help desk or to a field representative of your system manufacturer at their headquarters or in your own State or jurisdiction.&nbsp; COTS products often use outsourced help desk/call centers that are located in various locations around the world with varying levels of service.</p>
+
+<p>Finally, if the COTS component is to be part of a election system that is expected to operate for several years, what are the probabilities that the company will exist for that time? Finally, even assuming that the company exists, how long will it support the COTS product in question? Vendors often phase out their support for any given product: would such an occurrence have an impact on the maintenance of your election system? &nbsp;By way of example, on September 30, 2015, Apple stopped signing<a href="considerations-implementing-voting-systems-cots-products.html#_bookmark3">4</a>&nbsp;iOS 8.4.1</p>
+
+<p>4 signing is the process of digitally signing executables and scripts to confirm the and the first version of iOS 9 for the iPhone, iPad, and iPod touch, meaning users could no longer upgrade or downgrade to those versions of iOS . Apple is now signing iOS</p>
+</div>
+
+<div>
+<p>9.0.1 and iOS 9.0.2 only.</p>
+
+<p>&nbsp;</p>
+
+<h3>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Realize the cost of maintaining a COTS system.</h3>
+
+<p>The presence of COTS components does not necessarily mean low maintenance cost.</p>
+
+<p>COTS components can, in fact, cause complex problems during system upgrade and system maintenance. These problems could potentially exceed the maintenance cost of a proprietary system.</p>
+
+<p>First, upgrading COTS-based system software means that as new releases of the commercial components are made by the various vendors, the system will incorporate them. In some instances, users can refuse upgrades and new releases, but it is safer to assume that the upgrades are inevitable.</p>
+
+<p>Commercial vendors tend to support only a limited number of versions at any one time, and ignoring a vendor’s new releases is not an appropriate long term solution.</p>
+
+<p>A further complicating factor is that different COTS components of the system will likely be upgraded at widely varying intervals; licenses will be invalidated and need to be revalidated for different parts of the system at random intervals. It should be kept in mind that COTS component upgrades can result in unforeseen problems including incompatible files and databases, different naming conventions, and software author and guarantee that the code has not been altered or corrupted since it was signed by use of a cryptographic hash.</p>
+
+<p>introduction of new conflicts between COTS components. Depending on the number of COTS components and different COTS vendors, the effect of these multiple dependencies can vary from short-term user inconvenience to total system instability.</p>
+
+<p>Finally, election officials will need to begin looking at voting and election system components more as disposable commodities rather than assets. “Maintenance” of these systems will most often entail replacing, upgrading and substituting components rather than the traditional model of sending a system back to the manufacturer, or having them come into your office or warehouse to conduct service or maintenance.</p>
+
+<h3>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implementing COTS is not an automatic cost-saver</h3>
+
+<p>Although it might initially appear that the availability of COTS components brings down election system costs, there are also offsetting costs to consider and manage over the course of the COTS system lifecycle.</p>
+
+<p>One of the most overlooked, yet potentially significant costs associated with the use of COTS products is effective COTS-specific planning and budgeting. Without adequate planning, the jurisdiction may become reactive to the inevitable COTS-driven obsolescence situations. These situations limit management options (when expanding jurisdictional options is likely one of the primary reasons for moving to COTS in the first place…) and could force jurisdictions to adopt more costly solutions when COTS components go end-of-life.</p>
+</div>
+
+<p>Another cost related consequence of using rapidly changing COTS products within an election system is the likelihood, as mentioned elsewhere in this paper, that the system will include more than one configuration of the COTS component or components used in the system. This situation requires a rigorous application of configuration management (CM) processes to document and manage system baselines. Documenting product and system changes and instituting strong CM processes ensures the ability to determine the impact of product changes to all affected configurations of the election system.</p>
+
+<p>Without the traditional voting system vendor model, the election administrator will likely become the system integrator and therefore will need to assume these roles and responsibilities within the election office. Without adequate in-house expertise in CM management, the election official will need to hire additional staff or contract out to a third party for such expertise.</p>
+
+<h3>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implementing COTS election systems must be part of a large-scale paradigm shift</h3>
+
+<p>A change in mindset for election officials is as important as any change in technology when using election systems depending solely or predominantly on COTS products.</p>
+
+<p>The move to the next generation of COTS- based voting and election systems constitutes a significant paradigm shift not only for programmers, system developers and integrators, but also constitutes a significant paradigm shift for the election officials charged with the operation, testing, and day-to-day maintenance of these systems as well. Election officials need to assess their ability and their staff’s ability to work in the often technologically volatile world of COTS.&nbsp; Finding staff with the right attitude and right skills set may be difficult and expensive to maintain.</p>
+
+<p>The move towards COTS-based voting and election systems is not simply a technological change. It affects everyone interacting with the system in profound ways. Election jurisdictions will experience changes in the activities they undertake, their structure, required training, IT policies, and the relationships between the election jurisdiction and their vendors. Election officials will need to leverage “lessons learned” by other government agencies and industry and imbed them in a practical manner into an overall management plan to effectively acquire and support COTS based election systems.</p>
+
+<h2>Conclusion: COTS Benefits and Mitigating Risks</h2>
+
+<p>Election officials must continue to find ways to drive down the operational costs of elections, while maintaining inventories of technologies that meet the growing expectations of their constituencies. COTS- based solutions represent an opportunity to do this – but only if properly planned and managed. Election officials, voting system vendors, and testing authorities must recognize the risks and opportunities present in COTS and find ways to mitigate</p>
+</div>
+      
+        <h5>Document assets</h5>
+    
+
+            <div class="documents20170321considerations-implementing-voting-systems-cots-products field field--name-field-media-document field--type-file field--label-hidden field__item"><span class="file file--mime-application-pdf file--application-pdf documents20170321considerations-implementing-voting-systems-cots-products"><a href="../../../../sites/default/files/document_library/files/Considerations_for_Implementing_Voting_Systems_with_COTS_Products.pdf" type="application/pdf">Considerations_for_Implementing_Voting_Systems_with_COTS_Products.pdf</a></span>
+  <span>(902.07 KB)</span>
+</div>
+      
+        <h5>Tags</h5>
+    
+
+      <div class="documents20170321considerations-implementing-voting-systems-cots-products field field--name-field-keywords field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item">voting systems</div>
+              <div class="field__item">voting technology</div>
+          </div>
+  
+  </div>
+
+  </div>
+
+
+          </div>        
+              </div>
+    </div>
+  </main>
+
+  <footer class="usa-footer usa-footer--slim" role="contentinfo">
+    
+          <div class="grid-container eac-footer__logo-img">
+        <img class="usa-footer__logo-img"
+          src="../../../../themes/custom/eac_uswds/images/eac-footer-logo.png"
+          alt="Agency logo">
+      </div>
+      <div class="usa-footer__secondary-section eac-footer-top">
+        <div class="grid-container">
+          <div class="grid-row grid-gap">
+                        <div class="usa-footer__logo grid-row mobile-lg:grid-col-6 mobile-lg:grid-gap-2">
+
+                              <div class="mobile-lg:grid-col-auto eac-footer-mailing">
+                  <h3 class="usa-footer__logo-heading">U.S. Election Assistance Commission</h3>
+                  <div class="eac-footer-logo-address grid-row"><span>633 3rd Street NW, Suite 200, </span><span>Washington, DC 20001</span></div>
+                </div>
+              
+              <div class="usa-footer__social-links grid-row grid-gap-1">
+                                  <div class="grid-col-auto">
+                    <a class="usa-social-link usa-social-link--facebook" href="https://www.facebook.com/eacgov1">
+                      <img class="usa-social-link__icon" src="../../../../themes/custom/eac_uswds/images/social-media/facebook.svg" alt="Facebook">
+                    </a>
+                  </div>
+                
+                                  <div class="grid-col-auto">
+                    <a class="usa-social-link usa-social-link--instagram" href="https://www.instagram.com/us.eac/">
+                      <img class="usa-social-link__icon" src="../../../../themes/custom/eac_uswds/images/social-media/instagram.svg" alt="Instagram">
+                    </a>
+                  </div>
+                
+                                  <div class="grid-col-auto">
+                    <a class="usa-social-link usa-social-link--youtube" href="https://www.youtube.com/channel/UCpN6i0g2rlF4ITWhwvBwwZw">
+                      <img class="usa-social-link__icon" src="../../../../themes/custom/eac_uswds/images/social-media/youtube.svg" alt="YouTube">
+                    </a>
+                  </div>
+                
+                                  <div class="grid-col-auto">
+                    <a class="usa-social-link usa-social-link--twitter" href="https://twitter.com/EACgov">
+                      <img class="usa-social-link__icon" src="../../../../themes/custom/eac_uswds/images/social-media/twitter-x.svg" alt="Twitter">
+                    </a>
+                  </div>
+                
+                <div class="grid-col-auto">
+                  <a class="usa-social-link usa-social-link--linkedin"
+                     href="https://www.linkedin.com/company/u-s-election-assistance-commission">
+                    <img class="usa-social-link__icon" src="../../../../themes/custom/eac_uswds/images/social-media/linkedin.svg" alt="LinkedIn">
+                  </a>
+                </div>
+
+                                  <div class="grid-col-auto">
+                    <a class="usa-social-link usa-social-link--rss" href="../../../../rss.xml">
+                      <img class="usa-social-link__icon" src="../../../../themes/custom/eac_uswds/images/social-media/rss_feed.svg" alt="RSS">
+                    </a>
+                  </div>
+                              </div>
+
+            </div>
+
+            <div class="usa-footer__contact-links desktop:grid-col-6">
+
+                              <a href="../../../../contact.html" class="usa-footer__contact-center"><h3
+                  class="usa-footer__contact-heading">Contact the EAC</h3></a>
+                                        </div>
+
+          </div>
+                  </div>       </div>               <div class="usa-footer__secondary-section eac-footer-bottom">
+          <div class="grid-container">
+            <div class="grid-row grid-gap">
+              <div class="grid-col-fill">
+                  <div class="documents20170321considerations-implementing-voting-systems-cots-products">
+    <div id="block-secondaryfooter" class="search block block-block-content block-block-content7b468b33-ff8a-4843-91de-bb0f5059c4ee">
+  
+    
+      
+
+            <div class="search field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="grid-row flex-row footer-menu-container">
+<div class="footer-menu-first">
+<div class="grid-col flex-1">
+<div class="grid-row flex-column">
+<div><a href="../../../../about-the-useac.html">About EAC</a></div>
+
+<div><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="b872902a-68b7-448c-8ff5-98216bd3f5c7" href="../../../../accessibility-statement.html" title="Accessibility Statement">Accessibility Statement</a></div>
+</div>
+</div>
+
+<div class="grid-col flex-1">
+<div class="grid-row flex-column">
+<div><a href="../../../../foia/freedomofinformationactfoia/index.html">FOIA Requests</a></div>
+
+<div><a href="../../../../no-fear-act.html">No FEAR Act Data</a></div>
+
+<div><a href="../../../../inspector-general/index.html">Office of the Inspector General</a></div>
+<div><a href="https://osc.gov/">U.S. Office of Special Counsel</a></div>
+</div>
+</div>
+</div>
+
+<div class="footer-menu-second">
+<div class="grid-col flex-1">
+<div class="grid-row flex-column">
+<div><a href="../../../../privacy-statement.html">Privacy Policy</a></div>
+
+<div><a href="../../../../sitemap.html">Site Map</a></div>
+</div>
+</div>
+
+<div class="grid-col flex-1">
+<div class="grid-row flex-column">
+<div class="eac-footer-info-block">For more U.S. government information</div>
+
+<div>visit: <a href="https://www.usa.gov/">USA.gov</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+      
+  </div>
+
+  </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+          
+  </footer>
+
+  </div>
+
+
+<script src="../../../../sites/default/files/js/js_nMqFPrT5hdmvX-UOHQmWZajm2yNYDG7n3bgoU5djqdk.js%3Fscope=footer&amp;delta=0&amp;language=en&amp;theme=eac_uswds&amp;include=eJxdi1EKwzAMQy9kkiMFMbvBW0hGrK7d7VdG2Md-9PRAgioH-jtjlbTN0SmGW9nj0MiIMIbYyeb9kXXuT7S0VDbny6_V4s-9O6WOUZsVouZ6xb8n3HFKOO1wtYJmk9_jB"></script>
+<script src="https://static.addtoany.com/menu/page.js" defer></script>
+<script src="../../../../sites/default/files/js/js_x_VZqpTZi9xFrTxIhA0r-0kXxobg-Bgg_VLBRRA9Io4.js%3Fscope=footer&amp;delta=2&amp;language=en&amp;theme=eac_uswds&amp;include=eJxdi1EKwzAMQy9kkiMFMbvBW0hGrK7d7VdG2Md-9PRAgioH-jtjlbTN0SmGW9nj0MiIMIbYyeb9kXXuT7S0VDbny6_V4s-9O6WOUZsVouZ6xb8n3HFKOO1wtYJmk9_jB"></script>
+
+</body>
+</html>

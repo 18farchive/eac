@@ -1,0 +1,1724 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.eac.gov/">
+  <channel>
+    <title>Clearvote</title>
+    <link>https://www.eac.gov/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>ClearVote  2.5</title>
+  <link>https://www.eac.gov/voting-equipment/clearvote-25</link>
+  <description><![CDATA[
+<span class="taxonomyterm20256feed">ClearVote  2.5</span>
+
+<span class="taxonomyterm20256feed"><a title="View user profile." href="https://www.eac.gov/user/1771" lang about="https://www.eac.gov/user/1771" typeof="Person" property="schema:name" datatype class="taxonomyterm20256feed">Paul.Aumayr</a></span>
+
+<span class="taxonomyterm20256feed">Monday, March 11, 2024
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/clear-ballot-group-inc" hreflang="en">Clear Ballot Group, Inc.</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/pro-vv" hreflang="en">Pro V&amp;V </a>
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Systems Under Test
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        08/23/2023
+                  
+
+
+  
+      <h5>Testing Status</h5>
+                        Test Plan Approved, System Under Test
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        03/11/2024
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            Voting System Test Plans
+      
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/2024-08/ClearVote%202.5%20Test%20Plan%20TP-01-01-CBG-07-01.01.pdf" type="application/pdf">ClearVote 2.5 Test Plan TP-01-01-CBG-07-01.01.pdf</a></span>
+  <span>(1.12 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            Voting System Test Plans
+      
+
+            Wednesday, August 7, 2024
+
+      
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/2024-08/ClearVote%202.5%20Test%20Plan%20Approval%20Letter.pdf" type="application/pdf">ClearVote 2.5 Test Plan Approval Letter.pdf</a></span>
+  <span>(157.31 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/clearvote-25" data-a2a-title="ClearVote  2.5"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fclearvote-25&amp;title=ClearVote%20%202.5"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20256" hreflang="en">Clearvote</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        Clear Vote 2.5
+                  
+]]></description>
+  <pubDate>Mon, 11 Mar 2024 19:22:42 +0000</pubDate>
+    <dc:creator>Paul.Aumayr</dc:creator>
+    <guid isPermaLink="false">69971 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>ClearVote 2.3</title>
+  <link>https://www.eac.gov/voting-equipment/clearvote-23</link>
+  <description><![CDATA[
+<span class="taxonomyterm20256feed">ClearVote 2.3</span>
+
+<span class="taxonomyterm20256feed"><a title="View user profile." href="https://www.eac.gov/user/1771" lang about="https://www.eac.gov/user/1771" typeof="Person" property="schema:name" datatype class="taxonomyterm20256feed">Paul.Aumayr</a></span>
+
+<span class="taxonomyterm20256feed">Thursday, February 3, 2022
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/clear-ballot-group-inc" hreflang="en">Clear Ballot Group, Inc.</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/pro-vv" hreflang="en">Pro V&amp;V </a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        10/31/2022
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        01/10/2022
+                  
+
+
+  
+      <h5>Testing Status</h5>
+                        System Certified
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        02/02/2022
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ClearVote%202.3%20Test%20Plan%20TP-01-01-CBG-006-01.01.pdf" type="application/pdf">ClearVote 2.3 Test Plan TP-01-01-CBG-006-01.01.pdf</a></span>
+  <span>(807.38 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Application%20Approval%20Letter%20CBG-CV-23%202-2-2022.pdf" type="application/pdf">Application Approval Letter CBG-CV-23 2-2-2022.pdf</a></span>
+  <span>(158.65 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ClearVote%202.3%20Test%20Plan%20Approval%20Letter.pdf" type="application/pdf">ClearVote 2.3 Test Plan Approval Letter.pdf</a></span>
+  <span>(218.64 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ClearVote%202.3%20Test%20Report%20TR-01-01-CBG-006-01.03%20FINAL.pdf" type="application/pdf">ClearVote 2.3 Test Report TR-01-01-CBG-006-01.03 FINAL.pdf</a></span>
+  <span>(1.22 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ETR-PR150950-REV0%2C%20Pro%20V%26V.pdf" type="application/pdf">ETR-PR150950-REV0, Pro V&amp;V.pdf</a></span>
+  <span>(3.19 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ITR-PR~1.PDF" type="application/pdf">ITR-PR~1.PDF</a></span>
+  <span>(10.42 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256"><a href="https://www.eac.gov/sites/default/files/voting_system/files/TR-PR1~1.PDF" type="application/pdf">TR-PR1~1.PDF</a></span>
+  <span>(1.02 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            Voting System Certification Documents
+      
+
+            Wednesday, June 12, 2024
+
+      
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/2024-06/Certificate%20and%20Scope%20of%20Certification%20CBG%202.3%206.11.24.pdf" type="application/pdf">Certificate and Scope of Certification CBG 2.3 6.11.24.pdf</a></span>
+  <span>(941.08 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/clearvote-23" data-a2a-title="ClearVote 2.3"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fclearvote-23&amp;title=ClearVote%202.3"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20256" hreflang="en">Clearvote</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        2.3
+                  
+]]></description>
+  <pubDate>Thu, 03 Feb 2022 15:07:03 +0000</pubDate>
+    <dc:creator>Paul.Aumayr</dc:creator>
+    <guid isPermaLink="false">56731 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>ClearVote 2.2</title>
+  <link>https://www.eac.gov/voting-equipment/clearvote-22</link>
+  <description><![CDATA[
+<span class="taxonomyterm20256feed">ClearVote 2.2</span>
+
+<span class="taxonomyterm20256feed"><span lang about="https://www.eac.gov/user/1786" typeof="Person" property="schema:name" datatype class="taxonomyterm20256feed">Eugene.Burton</span></span>
+
+<span class="taxonomyterm20256feed">Thursday, February 11, 2021
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/clear-ballot-group-inc" hreflang="en">Clear Ballot Group, Inc.</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/pro-vv" hreflang="en">Pro V&amp;V </a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        12/23/2021
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        01/04/2021
+                  
+
+
+  
+      <h5>Testing Status</h5>
+                        System Certified
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        01/20/2021
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ClearVote%202.2%20Test%20Plan%20TP-01-01-CBG-004-01.00_0.pdf" type="application/pdf">ClearVote 2.2 Test Plan TP-01-01-CBG-004-01.00_0.pdf</a></span>
+  <span>(1.66 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Application%20Approval%20Letter%20CBG-CV-22%2001-20-2021.pdf" type="application/pdf">Application Approval Letter CBG-CV-22 01-20-2021.pdf</a></span>
+  <span>(75.99 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ClearVote%202.2%20Test%20Plan%20Approval%20Letter.pdf" type="application/pdf">ClearVote 2.2 Test Plan Approval Letter.pdf</a></span>
+  <span>(211.48 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ClearVote%202.2%20Test%20Report%20TR-01-01-CBG-005-01.02%20%281%29.pdf" type="application/pdf">ClearVote 2.2 Test Report TR-01-01-CBG-005-01.02 (1).pdf</a></span>
+  <span>(1.15 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ETR-PR127745-REV0%20ClearCast%20Emissions.pdf" type="application/pdf">ETR-PR127745-REV0 ClearCast Emissions.pdf</a></span>
+  <span>(1.74 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ETR-PR128128-REV0%20ClearAccess%20Emissions.pdf" type="application/pdf">ETR-PR128128-REV0 ClearAccess Emissions.pdf</a></span>
+  <span>(1.66 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ITR-PR127745-REV0%20ClearCast%20Immunity.pdf" type="application/pdf">ITR-PR127745-REV0 ClearCast Immunity.pdf</a></span>
+  <span>(3.23 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ITR-PR128128%20Rev.%200%20ClearAccess%20Immunity.pdf" type="application/pdf">ITR-PR128128 Rev. 0 ClearAccess Immunity.pdf</a></span>
+  <span>(7.38 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/TR-PR127745-00-REV0%20ClearCast%20Environmental.pdf" type="application/pdf">TR-PR127745-00-REV0 ClearCast Environmental.pdf</a></span>
+  <span>(2.16 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/TR-PR128128-1-REV0%20ClearAccess%20Environmental.pdf" type="application/pdf">TR-PR128128-1-REV0 ClearAccess Environmental.pdf</a></span>
+  <span>(4.04 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            Wednesday, June 12, 2024
+
+      
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/2024-06/CBG%20CV%202.2%20Certificate%20and%20Scope%20of%20Conformance%20Update%206.11.24.pdf" type="application/pdf">CBG CV 2.2 Certificate and Scope of Conformance Update 6.11.24.pdf</a></span>
+  <span>(1.35 MB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/clearvote-22" data-a2a-title="ClearVote 2.2"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fclearvote-22&amp;title=ClearVote%202.2"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20256" hreflang="en">Clearvote</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        2.2
+                  
+]]></description>
+  <pubDate>Thu, 11 Feb 2021 16:26:44 +0000</pubDate>
+    <dc:creator>Eugene.Burton</dc:creator>
+    <guid isPermaLink="false">56711 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>ClearVote 2.0</title>
+  <link>https://www.eac.gov/voting-equipment/clearvote-20</link>
+  <description><![CDATA[
+<span class="taxonomyterm20256feed">ClearVote 2.0</span>
+
+<span class="taxonomyterm20256feed"><span lang typeof="Person" property="schema:name" datatype class="taxonomyterm20256feed">Anonymous (not verified)</span></span>
+
+<span class="taxonomyterm20256feed">Tuesday, September 24, 2019
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/clear-ballot-group-inc" hreflang="en">Clear Ballot Group, Inc.</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/pro-vv" hreflang="en">Pro V&amp;V </a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        10/21/2019
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        04/17/2019
+                  
+
+
+  
+      <h5>Testing Status</h5>
+                        Certified
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        04/24/2019
+                  
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ClearVote_2.0_Application_Approval_Letter_4.24.19.pdf" type="application/pdf">ClearVote_2.0_Application_Approval_Letter_4.24.19.pdf</a></span>
+  <span>(160.82 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ClearVote_2.0_Test_Plan_Approval_7-3-19.pdf" type="application/pdf">ClearVote_2.0_Test_Plan_Approval_7-3-19.pdf</a></span>
+  <span>(66.5 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ClearVote%202.0%20Test%20Report%20TR-01-01-CBG-004-01.03.pdf" type="application/pdf">ClearVote 2.0 Test Report TR-01-01-CBG-004-01.03.pdf</a></span>
+  <span>(1.13 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Appendix%20B%20-%20ClearVote%202.0%20Test%20Report%20Attachment%20B%20-%20ETR-PR100763.pdf" type="application/pdf">Appendix B - ClearVote 2.0 Test Report Attachment B - ETR-PR100763.pdf</a></span>
+  <span>(4.1 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Appendix%20B%20-%20ClearVote%202.0%20Test%20Report%20Attachment%20B%20-%20ITR-PR100763.pdf" type="application/pdf">Appendix B - ClearVote 2.0 Test Report Attachment B - ITR-PR100763.pdf</a></span>
+  <span>(3.85 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Appendix%20B%20-%20ClearVote%202.0%20Test%20Report%20Attachment%20B%20-%20TR-PR097808-REV0.pdf" type="application/pdf">Appendix B - ClearVote 2.0 Test Report Attachment B - TR-PR097808-REV0.pdf</a></span>
+  <span>(1.49 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Appendix%20E%20-%20ClearVote%202.0%20Test%20Plan%20TP-01-01-CBG-004-01.03%20As-Run.pdf" type="application/pdf">Appendix E - ClearVote 2.0 Test Plan TP-01-01-CBG-004-01.03 As-Run.pdf</a></span>
+  <span>(1.06 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Initial%20Decision%20ClearVote%202.0%2010.08.19%20-%20SIGNED.pdf" type="application/pdf">Initial Decision ClearVote 2.0 10.08.19 - SIGNED.pdf</a></span>
+  <span>(61.65 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Final%20Decision%20ClearVote%202.0%2010-21-2019.pdf" type="application/pdf">Final Decision ClearVote 2.0 10-21-2019.pdf</a></span>
+  <span>(63.87 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Certificate%20of%20Conformance%20ClearVote%202.0.pdf" type="application/pdf">Certificate of Conformance ClearVote 2.0.pdf</a></span>
+  <span>(354.06 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Scope%20of%20Certification%20ClearVote%202.0%2010_21_19.pdf" type="application/pdf">Scope of Certification ClearVote 2.0 10_21_19.pdf</a></span>
+  <span>(919.74 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Advisory Notice Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Clear%20Ballot%20Product%20Advisory%20Notice%2020-01_0.pdf" type="application/pdf">Clear Ballot Product Advisory Notice 20-01_0.pdf</a></span>
+  <span>(108.87 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/clearvote-20" data-a2a-title="ClearVote 2.0"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fclearvote-20&amp;title=ClearVote%202.0"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20256" hreflang="en">Clearvote</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        2.0
+                  
+]]></description>
+  <pubDate>Tue, 24 Sep 2019 13:18:28 +0000</pubDate>
+    <dc:creator>Anonymous</dc:creator>
+    <guid isPermaLink="false">56651 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>ClearVote 1.4.5</title>
+  <link>https://www.eac.gov/voting-equipment/clearvote-145</link>
+  <description><![CDATA[
+<span class="taxonomyterm20256feed">ClearVote 1.4.5</span>
+
+<span class="taxonomyterm20256feed"><span lang typeof="Person" property="schema:name" datatype class="taxonomyterm20256feed">Anonymous (not verified)</span></span>
+
+<span class="taxonomyterm20256feed">Tuesday, September 24, 2019
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/clear-ballot-group-inc" hreflang="en">Clear Ballot Group, Inc.</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/pro-vv" hreflang="en">Pro V&amp;V </a>
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Terminated Systems
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        07/16/2018
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        07/16/2018
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentclearvote-145"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ClearVote_1.4.5_Test_Plan_TP-CBG-2018-01.02_Rev._A.pdf" type="application/pdf">ClearVote_1.4.5_Test_Plan_TP-CBG-2018-01.02_Rev._A.pdf</a></span>
+  <span>(879.46 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/CBG145_Application.Approval.Letter.pdf" type="application/pdf">CBG145_Application.Approval.Letter.pdf</a></span>
+  <span>(70.93 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/clearvote-145" data-a2a-title="ClearVote 1.4.5"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fclearvote-145&amp;title=ClearVote%201.4.5"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20256" hreflang="en">Clearvote</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        1.4.5
+                  
+]]></description>
+  <pubDate>Tue, 24 Sep 2019 13:18:28 +0000</pubDate>
+    <dc:creator>Anonymous</dc:creator>
+    <guid isPermaLink="false">56586 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>ClearVote 1.5</title>
+  <link>https://www.eac.gov/voting-equipment/clearvote-15</link>
+  <description><![CDATA[
+<span class="taxonomyterm20256feed">ClearVote 1.5</span>
+
+<span class="taxonomyterm20256feed"><span lang typeof="Person" property="schema:name" datatype class="taxonomyterm20256feed">Anonymous (not verified)</span></span>
+
+<span class="taxonomyterm20256feed">Tuesday, September 24, 2019
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/clear-ballot-group-inc" hreflang="en">Clear Ballot Group, Inc.</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/pro-vv" hreflang="en">Pro V&amp;V </a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        03/19/2019
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        08/31/2018
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        09/05/2018
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ClearVote_1.5_Test_Plan_TP-CBG-2018-01.01_Initial_Submission.pdf" type="application/pdf">ClearVote_1.5_Test_Plan_TP-CBG-2018-01.01_Initial_Submission.pdf</a></span>
+  <span>(999.31 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ClearVote_1.5_TestPlanTP-CBG-2018-01.01As-RunRevB.pdf" type="application/pdf">ClearVote_1.5_TestPlanTP-CBG-2018-01.01As-RunRevB.pdf</a></span>
+  <span>(1.34 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ClearVote_1_5TestPlanApprovalLtr102218.pdf" type="application/pdf">ClearVote_1_5TestPlanApprovalLtr102218.pdf</a></span>
+  <span>(248.45 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ClearVote_1.5_Test_Report_TR-CBG-2018-01.01_Rev_D.pdf" type="application/pdf">ClearVote_1.5_Test_Report_TR-CBG-2018-01.01_Rev_D.pdf</a></span>
+  <span>(1.03 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ENV-PR079580Access_Env.pdf" type="application/pdf">ENV-PR079580Access_Env.pdf</a></span>
+  <span>(2.81 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ENV-PR085361Rev_1Cast_Env.pdf" type="application/pdf">ENV-PR085361Rev_1Cast_Env.pdf</a></span>
+  <span>(4.93 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ENV-PR088479_CastTempPwr2.pdf" type="application/pdf">ENV-PR088479_CastTempPwr2.pdf</a></span>
+  <span>(911.86 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ETR-PR079580AccessFCC.pdf" type="application/pdf">ETR-PR079580AccessFCC.pdf</a></span>
+  <span>(5.01 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ETR-PR085361Cast_FCC.pdf" type="application/pdf">ETR-PR085361Cast_FCC.pdf</a></span>
+  <span>(2.56 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ITR-PR079580_Access_Imm.pdf" type="application/pdf">ITR-PR079580_Access_Imm.pdf</a></span>
+  <span>(15.64 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ITR-PR085361_Cast_Imm.pdf" type="application/pdf">ITR-PR085361_Cast_Imm.pdf</a></span>
+  <span>(4.34 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/S2043-SS2043-1_ClearBallot_IEC_60950-1_FinalReport.pdf" type="application/pdf">S2043-SS2043-1_ClearBallot_IEC_60950-1_FinalReport.pdf</a></span>
+  <span>(2.62 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Cert_of_Conformace_and_Scope_ClearVote_1.5_3.19.19.pdf" type="application/pdf">Cert_of_Conformace_and_Scope_ClearVote_1.5_3.19.19.pdf</a></span>
+  <span>(1.48 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Final_Decision_ClearVote_1.5_3.19.2019.pdf" type="application/pdf">Final_Decision_ClearVote_1.5_3.19.2019.pdf</a></span>
+  <span>(126.47 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/InitialDecisionClearVote1_5_022719_FINAL.pdf" type="application/pdf">InitialDecisionClearVote1_5_022719_FINAL.pdf</a></span>
+  <span>(36.42 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/clearvote-15" data-a2a-title="ClearVote 1.5"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fclearvote-15&amp;title=ClearVote%201.5"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20256" hreflang="en">Clearvote</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        1.5
+                  
+]]></description>
+  <pubDate>Tue, 24 Sep 2019 13:18:28 +0000</pubDate>
+    <dc:creator>Anonymous</dc:creator>
+    <guid isPermaLink="false">56576 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>ClearVote 1.4</title>
+  <link>https://www.eac.gov/voting-equipment/clearvote-14</link>
+  <description><![CDATA[
+<span class="taxonomyterm20256feed">ClearVote 1.4</span>
+
+<span class="taxonomyterm20256feed"><span lang typeof="Person" property="schema:name" datatype class="taxonomyterm20256feed">Anonymous (not verified)</span></span>
+
+<span class="taxonomyterm20256feed">Tuesday, September 24, 2019
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/clear-ballot-group-inc" hreflang="en">Clear Ballot Group, Inc.</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/pro-vv" hreflang="en">Pro V&amp;V </a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        02/08/2018
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        05/04/2016
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        05/04/2016
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentclearvote-14"><a href="https://www.eac.gov/sites/default/files/voting_system/files/CBG_ClearVote_1.4_Test_Plan_TP-CBG-2016-01.01_Rev_A.pdf" type="application/pdf">CBG_ClearVote_1.4_Test_Plan_TP-CBG-2016-01.01_Rev_A.pdf</a></span>
+  <span>(782.92 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentclearvote-14"><a href="https://www.eac.gov/sites/default/files/voting_system/files/CBG_ClearVote_1.4_Test_Plan_TP-CBG-2016-01.01_Rev_C.pdf" type="application/pdf">CBG_ClearVote_1.4_Test_Plan_TP-CBG-2016-01.01_Rev_C.pdf</a></span>
+  <span>(772.09 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentclearvote-14"><a href="https://www.eac.gov/sites/default/files/voting_system/files/CBG_ClearVote_1.4_Test_Plan_TP-CBG-2016-01.01_Rev_D.pdf" type="application/pdf">CBG_ClearVote_1.4_Test_Plan_TP-CBG-2016-01.01_Rev_D.pdf</a></span>
+  <span>(844.7 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentclearvote-14"><a href="https://www.eac.gov/sites/default/files/voting_system/files/CBG_ClearVote_1.4_Test_Plan_TP-CBG-2016-01.01_Rev_E.pdf" type="application/pdf">CBG_ClearVote_1.4_Test_Plan_TP-CBG-2016-01.01_Rev_E.pdf</a></span>
+  <span>(846.65 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentclearvote-14"><a href="https://www.eac.gov/sites/default/files/voting_system/files/CBG_ClearVote_1.4_Test_Plan_TP-CBG-2016-01.011.pdf" type="application/pdf">CBG_ClearVote_1.4_Test_Plan_TP-CBG-2016-01.011.pdf</a></span>
+  <span>(805.2 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentclearvote-14"><a href="https://www.eac.gov/sites/default/files/voting_system/files/CBG_ClearVote_1_4_Test_Plan_TP-CBG-2016-01_01_Rev_B.pdf" type="application/pdf">CBG_ClearVote_1_4_Test_Plan_TP-CBG-2016-01_01_Rev_B.pdf</a></span>
+  <span>(673.75 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentclearvote-14"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ClearVote_1.4TestPlanApprovalLtr.7.14.17.pdf" type="application/pdf">ClearVote_1.4TestPlanApprovalLtr.7.14.17.pdf</a></span>
+  <span>(200.52 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentclearvote-14"><a href="https://www.eac.gov/sites/default/files/voting_system/files/CBG1601_approval.FINAL.5.4.161.pdf" type="application/pdf">CBG1601_approval.FINAL.5.4.161.pdf</a></span>
+  <span>(88.58 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentclearvote-14"><a href="https://www.eac.gov/sites/default/files/voting_system/files/CBG_ClearVote_1.4_Test_Plan_TP-CBG-2016-01.01_As_Run.pdf" type="application/pdf">CBG_ClearVote_1.4_Test_Plan_TP-CBG-2016-01.01_As_Run.pdf</a></span>
+  <span>(854.56 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentclearvote-14"><a href="https://www.eac.gov/sites/default/files/voting_system/files/CBG_ClearVote_1.4_Test_Report_-_Initial_Submission.pdf" type="application/pdf">CBG_ClearVote_1.4_Test_Report_-_Initial_Submission.pdf</a></span>
+  <span>(1 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentclearvote-14"><a href="https://www.eac.gov/sites/default/files/voting_system/files/CBG_ClearVote_1.4_Test_Report_Draft_-_Rev_A_1.15.18.pdf" type="application/pdf">CBG_ClearVote_1.4_Test_Report_Draft_-_Rev_A_1.15.18.pdf</a></span>
+  <span>(855.66 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentclearvote-14"><a href="https://www.eac.gov/sites/default/files/voting_system/files/CBG_ClearVote_1.4_Test_Report_Draft_-_Rev_B_1.24.18.pdf" type="application/pdf">CBG_ClearVote_1.4_Test_Report_Draft_-_Rev_B_1.24.18.pdf</a></span>
+  <span>(846.8 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentclearvote-14"><a href="https://www.eac.gov/sites/default/files/voting_system/files/CBG_ClearVote_1.4_Test_Report_FInal_-_Rev_C_1.29.18.pdf" type="application/pdf">CBG_ClearVote_1.4_Test_Report_FInal_-_Rev_C_1.29.18.pdf</a></span>
+  <span>(1.02 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentclearvote-14"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Electrical_Emissions_Test_Report.pdf" type="application/pdf">Electrical_Emissions_Test_Report.pdf</a></span>
+  <span>(8.1 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentclearvote-14"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Electrical_Immunity_Test_Report.pdf" type="application/pdf">Electrical_Immunity_Test_Report.pdf</a></span>
+  <span>(20.42 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentclearvote-14"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Environmental_Test_Report.pdf" type="application/pdf">Environmental_Test_Report.pdf</a></span>
+  <span>(2.61 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Environmental_Test_Report_ClearCast_only.pdf" type="application/pdf">Environmental_Test_Report_ClearCast_only.pdf</a></span>
+  <span>(2.84 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentclearvote-14"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Safety_Test_Report_ClearCast_only.pdf" type="application/pdf">Safety_Test_Report_ClearCast_only.pdf</a></span>
+  <span>(779.78 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentclearvote-14"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Temp_Power_Test_Report_ClearCast_only.pdf" type="application/pdf">Temp_Power_Test_Report_ClearCast_only.pdf</a></span>
+  <span>(745.42 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentclearvote-14"><a href="https://www.eac.gov/sites/default/files/voting_system/files/CBG_ClearVote_1.4_Dir._Recommendation_1.31.18.pdf" type="application/pdf">CBG_ClearVote_1.4_Dir._Recommendation_1.31.18.pdf</a></span>
+  <span>(63.99 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentclearvote-14"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ClearVote_1.4_Certificate_and_Scope_FINAL_2.8.18.pdf" type="application/pdf">ClearVote_1.4_Certificate_and_Scope_FINAL_2.8.18.pdf</a></span>
+  <span>(897.07 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20256feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ClearVote1.4_Final_Decision_2.8.18.pdf" type="application/pdf">ClearVote1.4_Final_Decision_2.8.18.pdf</a></span>
+  <span>(270.77 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentclearvote-14"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Initial_decision_clearvote_1.4_FINAL_2.5.18.pdf" type="application/pdf">Initial_decision_clearvote_1.4_FINAL_2.5.18.pdf</a></span>
+  <span>(65.76 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/clearvote-14" data-a2a-title="ClearVote 1.4"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fclearvote-14&amp;title=ClearVote%201.4"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20256" hreflang="en">Clearvote</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        1.4
+                  
+]]></description>
+  <pubDate>Tue, 24 Sep 2019 13:18:28 +0000</pubDate>
+    <dc:creator>Anonymous</dc:creator>
+    <guid isPermaLink="false">56251 at https://www.eac.gov</guid>
+    </item>
+
+  </channel>
+</rss>

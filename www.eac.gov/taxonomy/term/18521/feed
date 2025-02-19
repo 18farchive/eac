@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.eac.gov/">
+  <channel>
+    <title>Military &amp;amp; Overseas</title>
+    <link>https://www.eac.gov/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Military &amp; Overseas Online Voter Registration</title>
+  <link>https://www.eac.gov/node/61696</link>
+  <description><![CDATA[
+<span class="taxonomyterm19526feed">Military &amp; Overseas Online Voter Registration</span>
+
+<span class="taxonomyterm19526feed"><a title="View user profile." href="https://www.eac.gov/user/1" lang about="https://www.eac.gov/user/1" typeof="Person" property="schema:name" datatype class="taxonomyterm19526feed">bluewater</a></span>
+
+<span class="taxonomyterm19526feed">Monday, November 4, 2019
+</span>
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/node/61696" data-a2a-title="Military &amp; Overseas Online Voter Registration"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fnode%2F61696&amp;title=Military%20%26%20Overseas%20Online%20Voter%20Registration"></a></span>
+
+
+            <p>
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 18.0px; font: 16.0px Helvetica; color: #000000; -webkit-text-stroke: #000000; background-color: #ffffff}
+span.s1 {font-kerning: none}
+
+</p>
+
+<p class="p1"><span class="s1">Military and Overseas Citizens - Under the Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA), eligible active duty service members and their family members who are absent from their voting jurisdiction, as well as eligible citizens residing outside the U.S., may register and vote with their state of voting residence. Support for these voters is provided by the Federal Voting Assistance Program (FVAP) and designated election officials in each state. See the FVAP website: </span><a href="https://www.fvap.gov/" target="_blank">https://www.fvap.gov/​</a><span class="s1">&nbsp;and your state election office website for details.</span></p>
+
+      
+
+  
+    <h5>State</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/18521" hreflang="en">Military &amp; Overseas</a>
+              
+
+
+  
+    <h5>Information Option</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/19526" hreflang="en">Online Voter Registration</a>
+              
+]]></description>
+  <pubDate>Mon, 04 Nov 2019 10:28:38 +0000</pubDate>
+    <dc:creator>bluewater</dc:creator>
+    <guid isPermaLink="false">61696 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>Military &amp; Overseas Voter Info</title>
+  <link>https://www.eac.gov/node/61416</link>
+  <description><![CDATA[
+<span class="taxonomyterm19521feed">Military &amp; Overseas Voter Info</span>
+
+<span class="taxonomyterm19521feed"><a title="View user profile." href="https://www.eac.gov/user/1" lang about="https://www.eac.gov/user/1" typeof="Person" property="schema:name" datatype class="taxonomyterm19521feed">bluewater</a></span>
+
+<span class="taxonomyterm19521feed">Monday, November 4, 2019
+</span>
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/node/61416" data-a2a-title="Military &amp; Overseas Voter Info"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fnode%2F61416&amp;title=Military%20%26%20Overseas%20Voter%20Info"></a></span>
+
+
+            <h3>Military and Overseas Citizens</h3>
+
+<p>Under the Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA), eligible active duty service members and their family members who are absent from their voting jurisdiction, as well as eligible citizens residing outside the U.S., may register and vote with their state of voting residence. Support for these voters is provided by the Federal Voting Assistance Program (FVAP) and designated election officials in each state. See the FVAP website:&nbsp;<a href="https://www.fvap.gov/" target="_blank">https://www.fvap.gov/</a> and your state election office website for details.</p>
+
+      
+
+  
+    <h5>State</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/18521" hreflang="en">Military &amp; Overseas</a>
+              
+
+
+  
+    <h5>Information Option</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/19521" hreflang="en">Voter Info</a>
+              
+]]></description>
+  <pubDate>Mon, 04 Nov 2019 10:24:41 +0000</pubDate>
+    <dc:creator>bluewater</dc:creator>
+    <guid isPermaLink="false">61416 at https://www.eac.gov</guid>
+    </item>
+
+  </channel>
+</rss>

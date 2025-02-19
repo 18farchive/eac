@@ -1,0 +1,644 @@
+
+import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
+import defineBivariateChoropleth from "./bivariate_choropleth.js";
+import defineZoomableCirclePacking from "./circle-packing.js"
+import defineRadialStackedBar from "./radial-stacked-bar.js";
+import {Runtime, Library, Inspector} from "./observable_runtime.js";
+
+(function ($, Drupal, once, d3) {
+  Drupal.behaviors.eacD3 = {
+    attach: function (context, settings) {
+      once('visualizationBehavior', 'html', context).forEach(function (element) {
+        // Apply the visualizationBehaviour effect to the elements only once.
+
+        if ($('div.visualization.donut.competencies-wheel').length){
+
+          // Get check for data.
+          const endpoint = $('div.visualization.donut').data('endpoint');
+          let data = [];
+          let categories = {};
+
+          if (endpoint !== ''){
+            $.ajax({
+              async: false,
+              url: endpoint,
+              success: function(rawData, status, jqXHR){
+                console.log(rawData);
+
+                // First, lets store the included references.
+                $(rawData.included).each(function(k, v){
+                  categories[v.id] = {
+                    name: v.attributes.name,
+                    color: v.attributes.field_color
+                  };
+                });
+                console.log(categories);
+
+                // Next how many items do we have.
+                const total = rawData.data.length;
+                const slice = 100 / total;
+
+                // Next lets grab our data.
+                $(rawData.data).each(function(k, v){
+                  console.log(v);
+                  const or = v.attributes.field_title_override;
+                  const name = (or === null || or.value === '') ? v.attributes.title : or.value.replace(/\<br\>/g, '\n');
+                  data = $(data).add({
+                    id: v.id,
+                    name: name,
+                    value: slice,
+                    color: categories[v.relationships.field_competencies_category.data.id].color,
+                    body: v.attributes.body ? v.attributes.body.processed : v.attributes.body
+                  });
+                });
+                console.log(data);
+              }
+            })
+          }else {
+            data = [
+              {name: "Election\nLaw", value: 5, color: "#0042b4"},
+              {name: "Finance", value: 5, color: "#0042b4"},
+              {name: "ADA", value: 5, color: "#0042b4"},
+              {name: "Security", value: 5, color: "#0042b4"},
+              {name: "Technology", value: 5, color: "#0042b4"},
+              {name: "Public\nRelations", value: 5, color: "#0042b4"},
+              {name: "Human\nResources", value: 5, color: "#0042b4"},
+              {name: "Mail", value: 5, color: "#00b4ff"},
+              {name: "Street File\nMaintenance", value: 5, color: "#00b4ff"},
+              {name: "Voter\nRegistration", value: 5, color: "#00b4ff"},
+              {
+                name: "Military &\nOverseas\nVoting",
+                value: 5,
+                color: "#00b4ff"
+              },
+              {
+                name: "Candidates +\nCampaign\nFinancing",
+                value: 5,
+                color: "#00b4ff"
+              },
+              {name: "Project\nManagement", value: 5, color: "#00b4ff"},
+              {
+                name: "Polling Places +\nReal Estate",
+                value: 5,
+                color: "#00b4ff"
+              },
+              {name: "Advance\nVoting", value: 5, color: "#00b4ff"},
+              {name: "Logistics", value: 5, color: "#00b4ff"},
+              {name: "Voting +\nTabulation", value: 5, color: "#f00"},
+              {name: "Canvassing", value: 5, color: "#f00"},
+              {name: "Auditing +\nRecounts", value: 5, color: "#f00"},
+              {name: "List\nMaintenance", value: 5, color: "#f00"},
+            ];
+          }
+          console.log(data);
+
+          const innerRadius = 150;
+
+          let chart;
+          chart = DonutChart(d3, data, {
+            name: d => d.name,
+            value: d => d.value,
+            colors: d3.map(data, d => d.color),
+            title: d => d.name,
+            innerRadius: innerRadius,
+            outerRadius: 300,
+            height: 600,
+            width: 600,
+            getId: d => `slice-${d.index}`
+          });
+
+          $("div.visualization.donut").html(chart.outerHTML);
+
+          const legend = d3.select("div.visualization-legend.donut")
+            .append("svg")
+            .attr("preserveAspectRatio", "xMinYMin meet")
+            .attr("viewBox", "0 0 300 300")
+            .classed("svg-content", true);
+            // .attr("width", 450)
+            // .attr("height", 300);
+
+            // create a list of keys
+            const keys = Object.values(categories);
+
+            // Add one dot in the legend for each name.
+            legend.selectAll("mydots")
+              .data(keys)
+              .enter()
+              .append("circle")
+              .attr("cx", 100)
+              .attr("cy", function(d,i){ return 100 + i*25}) // 100 is where the first dot appears. 25 is the distance between dots
+              .attr("r", 7)
+              .style("fill", d => d.color);
+
+            // Add one dot in the legend for each name.
+            legend.selectAll("mylabels")
+              .data(keys)
+              .enter()
+              .append("text")
+              .attr("x", 120)
+              .attr("y", function(d,i){ return 100 + i*25}) // 100 is where the first dot appears. 25 is the distance between dots
+              .style("fill", d => d.color)
+              .text(d => d.name)
+              .attr("text-anchor", "left")
+              .style("alignment-baseline", "middle");
+
+          const parseIdIntoIndex = id => {
+            return parseInt(id.split('-')[1]);
+          }
+
+          let selectedCompetency;
+          let locked = false;
+
+          const getCompetencyById = (id) => {
+            return data[parseIdIntoIndex(id)];
+          };
+
+          const visualizationBodySelector = "div.visualization-body.donut";
+
+          const setSelectedCompetency = (id) => {
+            const competency = getCompetencyById(id);
+            selectedCompetency = competency;
+            let body = `<h2>${competency.name}</h2>`;
+            if (competency.body){
+              body = body + `<div>${competency.body}</div>`;
+            }
+            $(visualizationBodySelector).html(body);
+          };
+
+          const unsetSelectedCompetency = () => {
+            selectedCompetency = undefined;
+            $(visualizationBodySelector).html(null);
+          };
+
+          const isLocked = () => {
+            return locked !== false;
+          };
+
+          const isCurrentLock = (id) => {
+            return id === locked;
+          }
+
+          const lock = (id) => {
+            locked = id;
+          };
+
+          const unlock = () => {
+            locked = false;
+          };
+
+          const onMouseEnter = (o) => {
+            const id = o.attr("id");
+            if (!o.classed('is-hover')) {
+              const d = o.attr('dhi');
+              o.transition().attr('d', d);
+              o.classed('is-hover', true);
+            }
+            setSelectedCompetency(id);
+            const nameLength = selectedCompetency.name.length;
+            const lengthPerCharacter = innerRadius * 2 / nameLength;
+            const fontSize = Math.min((lengthPerCharacter * 1.75), 45);
+            $("#center-text").attr('font-size', `${fontSize}`).text(selectedCompetency.name);
+          };
+
+          const onMouseExit = (o) => {
+            if (o.classed('is-hover')) {
+              const d = o.attr('dlo');
+              o.transition().attr('d', d);
+              o.classed('is-hover', false);
+            }
+            unsetSelectedCompetency();
+            $("#center-text").attr('font-size', '10').text("Hover or Click to learn more.");
+          };
+
+          d3.selectAll(".slices path")
+            .on("mouseenter", function(){
+              if (isLocked()){
+                return;
+              }
+              const o = d3.select(this);
+              onMouseEnter(o);
+            })
+            .on("mouseout", function(){
+              if (isLocked()){
+                return;
+              }
+              const o = d3.select(this);
+              onMouseExit(o);
+            })
+            .on('click', function(){
+              const o = d3.select(this);
+              const id = o.attr("id");
+              const isCurrent = isCurrentLock(id);
+
+              if (isLocked()){
+                const lockedPath = d3.select(`.slices path#${locked}`);
+                onMouseExit(lockedPath);
+                unlock();
+                if (!isCurrent){
+                  lock(id);
+                  onMouseEnter(o);
+                }
+              }else{
+                lock(id);
+                onMouseEnter(o);
+              }
+            });
+        }
+
+        if ($('div.visualization.bivariate-choropleth.us-voting-methods').length){
+
+          const runtime = new Runtime();
+          const main = runtime.module(defineBivariateChoropleth, Inspector.into('div.visualization.bivariate-choropleth.us-voting-methods'));
+
+        }
+
+        if ($('div.visualization.circle-packing.clearinghouse').length){
+
+          const runtime = new Runtime();
+          const main = runtime.module(defineZoomableCirclePacking, Inspector.into('div.visualization.circle-packing.clearinghouse'));
+
+        }
+
+        if ($('div.visualization.clickable-map.voting-equipment').length){
+          var cm_width = 1024,
+              cm_height = 800,
+              cm_centered;
+
+          var cm_projection = d3.geoAlbersUsa()
+              .scale(1270)
+              .translate([cm_width / 2, cm_height / 2]);
+
+          var cm_path = d3.geoPath()
+              .projection(cm_projection);
+
+          var cm_svg = d3.select("div.visualization.clickable-map.voting-equipment").append("svg")
+              .attr("width", cm_width)
+              .attr("height", cm_height);
+
+          cm_svg.append("rect")
+              .attr("class", "background")
+              .attr("width", cm_width)
+              .attr("height", cm_height)
+              .on("click", clickedClickableMap);
+
+          var cm_g = cm_svg.append("g");
+
+          const cm_urls = [
+            "../../../../../sites/default/files/visualizations/voting-equipment/counties-10m.json",
+            "../../../../../sites/default/files/visualizations/voting-equipment/system-colors.json?r=" + randomString(),
+            "../../../../../sites/default/files/visualizations/voting-equipment/latest.csv?r=" + randomString()
+          ]
+
+          const cm_fetchData = async () => {
+            try {
+              const response = await Promise.all(
+                  cm_urls.map(url => fetch(url).then(res => res.text()))
+              )
+              executeClickableMap(JSON.parse(response[0]), JSON.parse(response[1]), d3.csvParse(response[2]));
+            } catch (error) {
+              console.log("Error", error)
+            }
+          }
+
+          cm_fetchData();
+
+          function executeClickableMap(us, colors, counties){
+            tableFromMap(counties);
+            cm_g.append("g")
+                .attr("id", "counties")
+                .selectAll("path")
+                .data(topojson.feature(us, us.objects.counties).features)
+                .enter().append("path")
+                .attr("d", cm_path)
+                .attr("class", "county-boundary")
+                .attr("fill", function (d) {
+                  var countyColor = "#71767A";
+                  var system = getClickableMapSystem(counties, d.id);
+                  if (system) {
+                    var color = getClickableMapColor(colors, system);
+                    if (color) {
+                      countyColor = color;
+                    }
+                  }
+                  return countyColor;
+                })
+                .attr("id", getClickableMapId)
+                .on("click", function (e, d) {
+                  let system = getClickableMapSystem(counties, d.id);
+                  if (!system) {
+                    system = "No Data Available";
+                  }
+                  let url = getClickableMapUrl(counties, d.id);
+
+                  $("section.clickable-map.voting-equipment .visualization-body").html("<p>ID: " + d.id + "</p><p>County: " + getClickableMapCounty(counties, d.id) + "<br>System: " + system + "<br><a href=\"" + url + "\">View More</a></p>");
+                  //let div = d3.select(".system-data-display").html(d.id + " | " + getClickableMapCounty(counties, d.id)+ " | " + system + url);
+                })
+                .on("wheel", function (e, d) {
+                  var direction = e.wheelDelta < 0 ? 'down' : 'up';
+                  zoomClickableMap(d, direction);
+                });
+
+            cm_g.append("g")
+                .attr("id", "states")
+                .selectAll("path")
+                .data(topojson.feature(us, us.objects.states).features)
+                .enter().append("path")
+                .attr("d", cm_path)
+                .attr("class", "state")
+                .attr("fill", "#469E98")
+                .on("click", clickedClickableMap)
+                .on("wheel", function (e, d) {
+                  var direction = e.wheelDelta < 0 ? 'down' : 'up';
+                  zoomClickableMap(d, direction);
+                });
+
+            cm_g.append("path")
+                .datum(topojson.mesh(us, us.objects.states, function (a, b) { return a !== b; }))
+                .attr("id", "state-borders")
+                .attr("d", cm_path);
+          }
+
+          // build HTML table with the same data from the visualization
+          function tableFromMap(counties) {
+
+            var searchText = '<h1>Table of Voting Systems</h1><div id="table-search-text">Search by county name below, or scroll in table to view results. To sort alphabetically, click the table header.</div>';
+            var table = d3.select('#block-visualizationblock')
+              .append('div').html(searchText + '<input type="text" id="search-table" placeholder="Search">').on("keyup", searchTable)
+              .append('div').attr('id','table-container').append('table').attr('id', 'data-table');
+
+            // table headers
+            table.append("thead").append("tr")
+              .selectAll("th")
+              .data( [ 'State', 'County Name', 'Certified Voting System', 'View More'  ])
+              .enter().append("th")
+              .text(function (d) {
+                return d;
+              })
+              .on("mouseover", function () {$('#data-table').tablesorter() });
+
+            // build new array, only those with data
+            let countiesWithData = counties.filter(function (d,i) {
+              if (d['EAC Certified System Link']) {
+                return d;
+              }
+            });
+
+            // build table
+            let dataTable = table.append("tbody")
+              .selectAll().data(countiesWithData)
+              .enter();
+            populateTable(dataTable);
+
+
+            $('#data-table').tablesorter( {
+              sortList: [0,0],
+              headers: { '.tablesorter-headerRow th:nth-child(4)': { sorter: false }}
+            })
+            $('.tablesorter-header:nth-child(1) > div:nth-child(1)').click();
+
+          }
+
+          function populateTable(dataTable) {
+            dataTable.append("tr")
+              .selectAll("td")
+              .data(function (d) {
+                let link = '';
+                if (d['EAC Certified System Link']) {
+                  link = '<a href="' + d['EAC Certified System Link'] + '">View More</a>'
+                }
+                return [ d['State'], d['County Name'], d['Certified Voting System (Lookup)'], link ]
+              })
+              .enter().append("td")
+              .on("mouseover", function () {
+                //d3.select(this).style("background-color", "powderblue");
+               $(this).addClass('hovered');
+              })
+              .on("mouseout", function () {
+                $(this).removeClass('hovered');
+                //d3.select(this).style("background-color", "white");
+              })
+              .html(function (d) {
+                return d;
+              })
+          }
+
+          function searchTable() {
+            var input, filter, table, tr, td, i, txtValue;
+            input = document.getElementById("search-table");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("data-table");
+            tr = table.getElementsByTagName("tr");
+
+            // Loop through all table rows, and hide those who don't match the search query
+            for (i = 0; i < tr.length; i++) {
+              // we're searching against County, which is the second column
+              td = tr[i].getElementsByTagName("td")[1];
+              if (td) {
+                txtValue = td.textContent || td.innerText;
+                if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                  tr[i].style.display = "";
+                } else {
+                  tr[i].style.display = "none";
+                }
+              }
+            }
+          }
+
+          // 8 character random string used to avoid caching
+          function randomString() {
+            return (Math.random().toString(36) + '00000000000000000').slice(2, 10);
+          }
+
+          function zoomClickableMap(direction, d) {
+
+            var x, y, k;
+
+            if (direction === "up") {
+              if (d && cm_centered !== d) {
+                var centroid = cm_path.centroid(d);
+                x = centroid[0];
+                y = centroid[1];
+                k = 2;
+                cm_centered = d;
+              }
+            } else {
+              x = cm_width / 2;
+              y = cm_height / 2;
+              k = 1;
+              cm_centered = null;
+            }
+
+            cm_g.selectAll("path")
+                .classed("active", cm_centered && function (d) { return d === cm_centered; });
+
+            cm_g.transition()
+                .duration(750)
+                .attr("transform", "translate(" + cm_width / 2 + "," + cm_height / 2 + ")scale(" + k + ")translate(" + -x + "," + -y + ")")
+                .style("stroke-width", 1.5 / k + "px");
+
+          }
+
+          function clickedClickableMap(e, d) {
+            var x, y, k;
+
+            if (d && cm_centered !== d) {
+              var centroid = cm_path.centroid(d);
+              x = centroid[0];
+              y = centroid[1];
+              k = 2;
+              cm_centered = d;
+            } else {
+              x = cm_width / 2;
+              y = cm_height / 2;
+              k = 1;
+              cm_centered = null;
+            }
+
+            cm_g.selectAll("path")
+                .classed("active", cm_centered && function (d) { return d === cm_centered; });
+
+            cm_g.transition()
+                .duration(750)
+                .attr("transform", "translate(" + cm_width / 2 + "," + cm_height / 2 + ")scale(" + k + ")translate(" + -x + "," + -y + ")")
+                .style("stroke-width", 1.5 / k + "px");
+          }
+
+          function getClickableMapColor(d, system) {
+            let colorRow = d.filter(function (d) {
+              return d.system == system;
+            });
+            if (colorRow.length > 0) {
+              return colorRow[0].color[0].color;
+            } else {
+              return "#d0d0d0";
+            }
+          }
+
+          function getClickableMapSystem(d, id) {
+            var countiesRow = d.filter(function (d) {
+              return d["Lookup Code FIPS"] == id;
+            });
+            var system = "";
+            if(countiesRow.length > 0) {
+              system = countiesRow[0]["Product"];
+            }
+            return system;
+          }
+
+          function getClickableMapCounty(d, id) {
+            var countiesRow = d.filter(function (d) {
+              return d["Lookup Code FIPS"] == id;
+            });
+            var county = "No Data available";
+            if(countiesRow.length > 0) {
+              county = countiesRow[0]["Jurisdiction"];
+            }
+            return county;
+          }
+
+          function getClickableMapUrl(d, id) {
+            var countiesRow = d.filter(function (d) {
+              return d["Lookup Code FIPS"] == id;
+            });
+            var url = "No Data Available";
+            if(countiesRow.length > 0) {
+              url = countiesRow[0]["EAC Certified System Link"];
+            }
+            return url;
+          }
+
+          function getClickableMapId(d) {
+            return d.id;
+          }
+
+        }
+
+        if ($('div.visualization.clickable-state-map.voter-information').length) {
+          var csm_width = 1024,
+              csm_height = 600,
+              csm_centered;
+
+          var csm_projection = d3.geoAlbersUsa()
+              .scale(1270)
+              .translate([csm_width / 2, csm_height / 2]);
+
+          var csm_path = d3.geoPath()
+              .projection(csm_projection);
+
+          var csm_svg = d3.select("div.visualization.clickable-state-map.voter-information").append("svg")
+              .attr("width", csm_width)
+              .attr("height", csm_height);
+
+          csm_svg.append("rect")
+              .attr("class", "background")
+              .attr("width", csm_width)
+              .attr("height", csm_height)
+              .on("click", clickedClickableStateMap);
+
+          var csm_g = csm_svg.append("g");
+
+          const csm_urls = [
+            "../../../../../sites/default/files/visualizations/voter-information/counties-10m.json",
+            "/api/visualization/states"
+          ]
+
+          const csm_fetchData = async () => {
+            try {
+              const response = await Promise.all(
+                csm_urls.map(url => fetch(url).then(res => res.text()))
+              )
+              executeClickableStateMap(JSON.parse(response[0]), d3.csvParse(response[1]));
+            } catch (error) {
+              console.log("Error", error)
+            }
+          }
+
+          csm_fetchData();
+
+          function executeClickableStateMap(us, states){
+
+            csm_g.append("g")
+              .attr("id", "states")
+              .selectAll("path")
+              .data(topojson.feature(us, us.objects.states).features)
+              .enter().append("path")
+              .attr("d", csm_path)
+              .attr("class", "state")
+              .attr("fill", "#469E98")
+              .on("click", function (e, d) {
+                var stateTermId = clickedClickableStateMap(states, d.properties.name);
+                var baseUrl = location.protocol + '//' + location.host + location.pathname;
+                location.href = baseUrl + '?field_state_target_id=' + stateTermId;
+              })
+              .append("title")
+              .text(d => d.properties.name);
+
+            csm_g.append("path")
+              .datum(topojson.mesh(us, us.objects.states, function (a, b) { return a !== b; }))
+              .attr("id", "state-borders")
+              .attr("d", csm_path);
+          }
+
+          function clickedClickableStateMap(d, state) {
+            var statesRow = d.filter(function (d) {
+              return d["name"] == state;
+            });
+            var stateTermId = "";
+            if(statesRow.length > 0) {
+              stateTermId = statesRow[0]["tid"];
+            }
+            return stateTermId;
+          }
+
+        }
+
+        if ($('div.visualization.radial-stacked-bar.grant-allocations').length) {
+
+          const runtime = new Runtime();
+          const main = runtime.module(defineRadialStackedBar, Inspector.into('div.visualization.radial-stacked-bar.grant-allocations'));
+
+        }
+      });
+    }
+  };
+})(jQuery, Drupal, once, d3);

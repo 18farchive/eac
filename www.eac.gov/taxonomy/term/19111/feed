@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.eac.gov/">
+  <channel>
+    <title>Wyoming</title>
+    <link>https://www.eac.gov/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>NVRA instructions Wyoming Chinese</title>
+  <link>https://www.eac.gov/nvra-instructions-wyoming-chinese</link>
+  <description><![CDATA[
+<span class="taxonomyterm19111feed">NVRA instructions Wyoming Chinese</span>
+
+
+            
+<p><strong>怀俄明州（ WYOMING ）</strong></p>
+
+<p><strong>更新日期：</strong>03-01-2006</p>
+
+<p>&nbsp;</p>
+
+<p>按照法律，怀俄明州不接受本表格，除非其州法律得到改变。</p>
+
+
+      
+<span class="taxonomyterm19111feed"><a title="View user profile." href="https://www.eac.gov/user/1" lang about="https://www.eac.gov/user/1" typeof="Person" property="schema:name" datatype class="taxonomyterm19111feed">bluewater</a></span>
+
+<span class="taxonomyterm19111feed">Tuesday, October 15, 2019
+</span>
+
+
+  
+    <h5>Supported Language</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/19506" hreflang="en">中文</a>
+              
+
+
+  
+    <h5>State</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/19111" hreflang="en">Wyoming</a>
+              
+]]></description>
+  <pubDate>Tue, 15 Oct 2019 10:31:45 +0000</pubDate>
+    <dc:creator>bluewater</dc:creator>
+    <guid isPermaLink="false">59831 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>NVRA instructions Wyoming Spanish</title>
+  <link>https://www.eac.gov/nvra-instructions-wyoming-spanish</link>
+  <description><![CDATA[
+<span class="taxonomyterm19111feed">NVRA instructions Wyoming Spanish</span>
+
+
+            
+<p><strong>Instrucciones de los Estados — WYOMING</strong></p>
+
+
+<p><strong>Revisado: 01-03-2006</strong></p>
+
+<p>&nbsp;</p>
+
+<p>Por ley, Wyoming no puede aceptar este formulario a menos que cambie la ley estatal.</p>
+
+      
+<span class="taxonomyterm19111feed"><a title="View user profile." href="https://www.eac.gov/user/1" lang about="https://www.eac.gov/user/1" typeof="Person" property="schema:name" datatype class="taxonomyterm19111feed">bluewater</a></span>
+
+<span class="taxonomyterm19111feed">Tuesday, October 15, 2019
+</span>
+
+
+  
+    <h5>Supported Language</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/19511" hreflang="en">En Español</a>
+              
+
+
+  
+    <h5>State</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/19111" hreflang="en">Wyoming</a>
+              
+]]></description>
+  <pubDate>Tue, 15 Oct 2019 10:31:45 +0000</pubDate>
+    <dc:creator>bluewater</dc:creator>
+    <guid isPermaLink="false">59826 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>NVRA instructions Wyoming English</title>
+  <link>https://www.eac.gov/nvra-instructions-wyoming-english</link>
+  <description><![CDATA[
+<span class="taxonomyterm18846feed">NVRA instructions Wyoming English</span>
+
+
+            <p><strong>State Instructions - WYOMING</strong></p>
+
+<p><strong>Updated:</strong> <strong>03-01-2006</strong></p>
+
+<p>Wyoming by law, cannot accept this form unless State law is changed.</p>
+
+      
+<span class="taxonomyterm18846feed"><a title="View user profile." href="https://www.eac.gov/user/1" lang about="https://www.eac.gov/user/1" typeof="Person" property="schema:name" datatype class="taxonomyterm18846feed">bluewater</a></span>
+
+<span class="taxonomyterm18846feed">Tuesday, October 15, 2019
+</span>
+
+
+  
+    <h5>Supported Language</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/18846" hreflang="en">English</a>
+              
+
+
+  
+    <h5>State</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/19111" hreflang="en">Wyoming</a>
+              
+]]></description>
+  <pubDate>Tue, 15 Oct 2019 10:31:45 +0000</pubDate>
+    <dc:creator>bluewater</dc:creator>
+    <guid isPermaLink="false">59326 at https://www.eac.gov</guid>
+    </item>
+
+  </channel>
+</rss>

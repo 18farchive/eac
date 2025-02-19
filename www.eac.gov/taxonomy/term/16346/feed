@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.eac.gov/">
+  <channel>
+    <title>Recount Ready</title>
+    <link>https://www.eac.gov/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Sherrie Swensen, Clerk, Salt Lake County, Utah</title>
+  <link>https://www.eac.gov/blogs/sherrie-swensen-clerk-salt-lake-county-utah</link>
+  <description><![CDATA[
+<span property="schema:name" class="taxonomyterm16346feed">Sherrie Swensen, Clerk, Salt Lake County, Utah</span>
+
+<span class="taxonomyterm16346feed" rel="schema:author"><a title="View user profile." href="https://www.eac.gov/user/1" lang about="https://www.eac.gov/user/1" typeof="Person" property="schema:name" datatype class="taxonomyterm16346feed">bluewater</a></span>
+
+<span property="schema:dateCreated" content="00" class="taxonomyterm16346feed">Wednesday, December 31, 1969
+</span>
+]]></description>
+  <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    <dc:creator>bluewater</dc:creator>
+    <guid isPermaLink="false">57071 at https://www.eac.gov</guid>
+    <comments>https://www.eac.gov/blogs/sherrie-swensen-clerk-salt-lake-county-utah#comments</comments>
+    </item>
+<item>
+  <title>Neal Kelley, Registrar of Voters, Orange County, Calif.</title>
+  <link>https://www.eac.gov/blogs/neal-kelley-registrar-voters-orange-county-calif</link>
+  <description><![CDATA[
+<span property="schema:name" class="taxonomyterm16346feed">Neal Kelley, Registrar of Voters, Orange County, Calif.</span>
+
+<span class="taxonomyterm16346feed" rel="schema:author"><a title="View user profile." href="https://www.eac.gov/user/1" lang about="https://www.eac.gov/user/1" typeof="Person" property="schema:name" datatype class="taxonomyterm16346feed">bluewater</a></span>
+
+<span property="schema:dateCreated" content="00" class="taxonomyterm16346feed">Wednesday, December 31, 1969
+</span>
+]]></description>
+  <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    <dc:creator>bluewater</dc:creator>
+    <guid isPermaLink="false">57061 at https://www.eac.gov</guid>
+    <comments>https://www.eac.gov/blogs/neal-kelley-registrar-voters-orange-county-calif#comments</comments>
+    </item>
+<item>
+  <title>Lynn Bailey, Executive Director, Board of Elections, Richmond County, Ga.</title>
+  <link>https://www.eac.gov/blogs/lynn-bailey-executive-director-board-elections-richmond-county-ga</link>
+  <description><![CDATA[
+<span property="schema:name" class="taxonomyterm16346feed">Lynn Bailey, Executive Director, Board of Elections, Richmond County, Ga.</span>
+
+<span class="taxonomyterm16346feed" rel="schema:author"><a title="View user profile." href="https://www.eac.gov/user/1" lang about="https://www.eac.gov/user/1" typeof="Person" property="schema:name" datatype class="taxonomyterm16346feed">bluewater</a></span>
+
+<span property="schema:dateCreated" content="00" class="taxonomyterm16346feed">Wednesday, December 31, 1969
+</span>
+]]></description>
+  <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    <dc:creator>bluewater</dc:creator>
+    <guid isPermaLink="false">57051 at https://www.eac.gov</guid>
+    <comments>https://www.eac.gov/blogs/lynn-bailey-executive-director-board-elections-richmond-county-ga#comments</comments>
+    </item>
+<item>
+  <title>Gary Poser, Director of Elections, Minnesota Office of the Secretary of State</title>
+  <link>https://www.eac.gov/blogs/gary-poser-director-elections-minnesota-office-secretary-state</link>
+  <description><![CDATA[
+<span property="schema:name" class="taxonomyterm16346feed">Gary Poser, Director of Elections, Minnesota Office of the Secretary of State</span>
+
+<span class="taxonomyterm16346feed" rel="schema:author"><a title="View user profile." href="https://www.eac.gov/user/1" lang about="https://www.eac.gov/user/1" typeof="Person" property="schema:name" datatype class="taxonomyterm16346feed">bluewater</a></span>
+
+<span property="schema:dateCreated" content="00" class="taxonomyterm16346feed">Wednesday, December 31, 1969
+</span>
+]]></description>
+  <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+    <dc:creator>bluewater</dc:creator>
+    <guid isPermaLink="false">57031 at https://www.eac.gov</guid>
+    <comments>https://www.eac.gov/blogs/gary-poser-director-elections-minnesota-office-secretary-state#comments</comments>
+    </item>
+
+  </channel>
+</rss>

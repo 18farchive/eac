@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.eac.gov/">
+  <channel>
+    <title>Puerto Rico</title>
+    <link>https://www.eac.gov/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>NVRA instructions Puerto Rico English</title>
+  <link>https://www.eac.gov/nvra-instructions-puerto-rico-english</link>
+  <description><![CDATA[
+<span class="taxonomyterm19051feed">NVRA instructions Puerto Rico English</span>
+
+
+            <p>Puerto Rico</p>
+
+<p>No specific instructions needed.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><span>Click&nbsp;red&nbsp;box below to download&nbsp;form .</span></p>
+
+      
+<span class="taxonomyterm19051feed"><a title="View user profile." href="https://www.eac.gov/user/1" lang about="https://www.eac.gov/user/1" typeof="Person" property="schema:name" datatype class="taxonomyterm19051feed">bluewater</a></span>
+
+<span class="taxonomyterm19051feed">Tuesday, October 15, 2019
+</span>
+
+
+  
+    <h5>Supported Language</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/18846" hreflang="en">English</a>
+              
+
+
+  
+    <h5>State</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/19051" hreflang="en">Puerto Rico</a>
+              
+]]></description>
+  <pubDate>Tue, 15 Oct 2019 10:31:45 +0000</pubDate>
+    <dc:creator>bluewater</dc:creator>
+    <guid isPermaLink="false">59266 at https://www.eac.gov</guid>
+    </item>
+
+  </channel>
+</rss>

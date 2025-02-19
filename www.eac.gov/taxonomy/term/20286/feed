@@ -1,0 +1,2435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.eac.gov/">
+  <channel>
+    <title>OpenElect</title>
+    <link>https://www.eac.gov/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>OpenElect 2.2.3</title>
+  <link>https://www.eac.gov/voting-equipment/openelect-223</link>
+  <description><![CDATA[
+<span class="taxonomyterm20286feed">OpenElect 2.2.3</span>
+
+<span class="taxonomyterm20286feed"><a title="View user profile." href="https://www.eac.gov/user/1771" lang about="https://www.eac.gov/user/1771" typeof="Person" property="schema:name" datatype class="taxonomyterm20286feed">Paul.Aumayr</a></span>
+
+<span class="taxonomyterm20286feed">Monday, November 21, 2022
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/unisyn-voting-solutions-division-international-lottery" hreflang="en">Unisyn Voting Solutions (a division of International Lottery and Totalizator, Inc)</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/pro-vv" hreflang="en">Pro V&amp;V </a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        08/22/2023
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        10/26/2022
+                  
+
+
+  
+      <h5>Testing Status</h5>
+                        Testing Complete
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        11/10/2022
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn%20OVS%202.2.3%20Test%20Plan%20-02.pdf" type="application/pdf">Unisyn OVS 2.2.3 Test Plan -02.pdf</a></span>
+  <span>(1017.18 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/2023-06/Initial_Decision_UNS-OpenElect_2.2.3_SIGNED.pdf" type="application/pdf">Initial_Decision_UNS-OpenElect_2.2.3_SIGNED.pdf</a></span>
+  <span>(272.72 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Application%20Approval%20Letter%20UNS10121966-2.2.3%2011-10-2022.pdf" type="application/pdf">Application Approval Letter UNS10121966-2.2.3 11-10-2022.pdf</a></span>
+  <span>(138.93 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn%20OpenElect%202.2.3%20Test%20Plan%20Approval%20Letter.pdf" type="application/pdf">Unisyn OpenElect 2.2.3 Test Plan Approval Letter.pdf</a></span>
+  <span>(258.92 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            Voting System Test Reports
+      
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/2023-08/Unisyn%202.2.3%20Test%20Report%20TR-01-01-UNI-07-01.06.pdf" type="application/pdf">Unisyn 2.2.3 Test Report TR-01-01-UNI-07-01.06.pdf</a></span>
+  <span>(1.07 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/2023-08/TR-PR167218-REV2%20Environmental%20Report.pdf" type="application/pdf">TR-PR167218-REV2 Environmental Report.pdf</a></span>
+  <span>(4.89 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/2023-08/Unisyn%20OpenElect%202.2.3%20Certificate%20and%20Scope%208.21.23.pdf" type="application/pdf">Unisyn OpenElect 2.2.3 Certificate and Scope 8.21.23.pdf</a></span>
+  <span>(944.79 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/openelect-223" data-a2a-title="OpenElect 2.2.3"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fopenelect-223&amp;title=OpenElect%202.2.3"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20286" hreflang="en">OpenElect</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        2.2.3
+                  
+]]></description>
+  <pubDate>Mon, 21 Nov 2022 20:25:21 +0000</pubDate>
+    <dc:creator>Paul.Aumayr</dc:creator>
+    <guid isPermaLink="false">56751 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>OpenElect 2.2</title>
+  <link>https://www.eac.gov/voting-equipment/openelect-22</link>
+  <description><![CDATA[
+<span class="taxonomyterm20286feed">OpenElect 2.2</span>
+
+<span class="taxonomyterm20286feed"><a title="View user profile." href="https://www.eac.gov/user/1771" lang about="https://www.eac.gov/user/1771" typeof="Person" property="schema:name" datatype class="taxonomyterm20286feed">Paul.Aumayr</a></span>
+
+<span class="taxonomyterm20286feed">Tuesday, September 1, 2020
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/unisyn-voting-solutions-division-international-lottery" hreflang="en">Unisyn Voting Solutions (a division of International Lottery and Totalizator, Inc)</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/pro-vv" hreflang="en">Pro V&amp;V </a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        11/18/2021
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        08/17/2020
+                  
+
+
+  
+      <h5>Testing Status</h5>
+                        System Certified
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        08/31/2020
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn%20OVS%202.2%20Test%20Plan%20Rev%2001-Published.pdf" type="application/pdf">Unisyn OVS 2.2 Test Plan Rev 01-Published.pdf</a></span>
+  <span>(1.36 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Application%20Approval%20Letter%20UNS10121966-2.2%2008-31-2020.pdf" type="application/pdf">Application Approval Letter UNS10121966-2.2 08-31-2020.pdf</a></span>
+  <span>(76.75 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn%20OVS%202.2%20Test%20Report%20Revision-03.pdf" type="application/pdf">Unisyn OVS 2.2 Test Report Revision-03.pdf</a></span>
+  <span>(952.81 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentopenelect-22"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20A%20Part%20A-1-%20NTS%20Report%20ETR-PR121029-00-REV0.pdf" type="application/pdf">Attachment A Part A-1- NTS Report ETR-PR121029-00-REV0.pdf</a></span>
+  <span>(1.28 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20A%20Part%20A-2%20-%20NTS%20Test%20Report%20ITR-PR121029-00-REV1.pdf" type="application/pdf">Attachment A Part A-2 - NTS Test Report ITR-PR121029-00-REV1.pdf</a></span>
+  <span>(3.49 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentopenelect-22"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20A%20Part%20A-3%20-%20NTS%20Test%20Report%20ETR-PR121029-2%20REV0.pdf" type="application/pdf">Attachment A Part A-3 - NTS Test Report ETR-PR121029-2 REV0.pdf</a></span>
+  <span>(1020.32 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20A%20Part%20A-4%20-%20NTS%20Test%20Report%20ITR-PR121029-3%20REV0.pdf" type="application/pdf">Attachment A Part A-4 - NTS Test Report ITR-PR121029-3 REV0.pdf</a></span>
+  <span>(3.03 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentopenelect-22"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20A%20Part%205%20-%20NTS%20Test%20Report%20TR-PR121029-01-REV1.pdf" type="application/pdf">Attachment A Part 5 - NTS Test Report TR-PR121029-01-REV1.pdf</a></span>
+  <span>(1.86 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentopenelect-22"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20A%20Part%206%20-%20NTS%20Test%20Report%20TR-PR121029-1-REV0.pdf" type="application/pdf">Attachment A Part 6 - NTS Test Report TR-PR121029-1-REV0.pdf</a></span>
+  <span>(1.79 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentopenelect-22"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn%20OpenElect%202.2%20Certificate%20and%20Scope%20SIGNED.pdf" type="application/pdf">Unisyn OpenElect 2.2 Certificate and Scope SIGNED.pdf</a></span>
+  <span>(1.01 MB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/openelect-22" data-a2a-title="OpenElect 2.2"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fopenelect-22&amp;title=OpenElect%202.2"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20286" hreflang="en">OpenElect</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        2.2
+                  
+]]></description>
+  <pubDate>Tue, 01 Sep 2020 19:04:10 +0000</pubDate>
+    <dc:creator>Paul.Aumayr</dc:creator>
+    <guid isPermaLink="false">56696 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>OpenElect 2.1</title>
+  <link>https://www.eac.gov/voting-equipment/openelect-21</link>
+  <description><![CDATA[
+<span class="taxonomyterm20286feed">OpenElect 2.1</span>
+
+<span class="taxonomyterm20286feed"><span lang typeof="Person" property="schema:name" datatype class="taxonomyterm20286feed">Anonymous (not verified)</span></span>
+
+<span class="taxonomyterm20286feed">Tuesday, September 24, 2019
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/unisyn-voting-solutions-division-international-lottery" hreflang="en">Unisyn Voting Solutions (a division of International Lottery and Totalizator, Inc)</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/pro-vv" hreflang="en">Pro V&amp;V </a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        05/05/2019
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        02/19/2019
+                  
+
+
+  
+      <h5>Testing Status</h5>
+                        Certified
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        05/15/2019
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_OVS_2.1_Test_Plan_Rev_01.pdf" type="application/pdf">Unisyn_OVS_2.1_Test_Plan_Rev_01.pdf</a></span>
+  <span>(1.36 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn%20OVS%202.1%20Test%20Plan%20Rev%2003.pdf" type="application/pdf">Unisyn OVS 2.1 Test Plan Rev 03.pdf</a></span>
+  <span>(1.2 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/UNS10121966-2.1_Application_Approval_Letter_5.15.19.pdf" type="application/pdf">UNS10121966-2.1_Application_Approval_Letter_5.15.19.pdf</a></span>
+  <span>(225.72 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/OpenElect_2.1_Test_Plan_Approval_Memo.pdf" type="application/pdf">OpenElect_2.1_Test_Plan_Approval_Memo.pdf</a></span>
+  <span>(146.8 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn%20OVS%202.1%20Test%20Report%20Rev.%2002.pdf" type="application/pdf">Unisyn OVS 2.1 Test Report Rev. 02.pdf</a></span>
+  <span>(1.14 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Initial%20Decision%20OVS%202.1%2010-9-2019.pdf" type="application/pdf">Initial Decision OVS 2.1 10-9-2019.pdf</a></span>
+  <span>(62.37 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Final%20Decision%20OVS%202.1%2010-18-2019.pdf" type="application/pdf">Final Decision OVS 2.1 10-18-2019.pdf</a></span>
+  <span>(63.32 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/OVS2.1Cert%26Scope%28FINAL%29.pdf" type="application/pdf">OVS2.1Cert&amp;Scope(FINAL).pdf</a></span>
+  <span>(1.29 MB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/openelect-21" data-a2a-title="OpenElect 2.1"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fopenelect-21&amp;title=OpenElect%202.1"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20286" hreflang="en">OpenElect</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        2.1
+                  
+]]></description>
+  <pubDate>Tue, 24 Sep 2019 13:18:28 +0000</pubDate>
+    <dc:creator>Anonymous</dc:creator>
+    <guid isPermaLink="false">56631 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>OpenElect 2.0.A.2</title>
+  <link>https://www.eac.gov/voting-equipment/openelect-20a2</link>
+  <description><![CDATA[
+<span class="taxonomyterm20286feed">OpenElect 2.0.A.2</span>
+
+<span class="taxonomyterm20286feed"><span lang typeof="Person" property="schema:name" datatype class="taxonomyterm20286feed">Anonymous (not verified)</span></span>
+
+<span class="taxonomyterm20286feed">Tuesday, September 24, 2019
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/unisyn-voting-solutions-division-international-lottery" hreflang="en">Unisyn Voting Solutions (a division of International Lottery and Totalizator, Inc)</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/sli-compliance-division-gaming-laboratories" hreflang="en">SLI Compliance, a Division of Gaming Laboratories International, LLC</a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        12/11/2018
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        10/22/2018
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_A_-_As_run_Unisyn_OVS_2.0.A.2_Modification_Test_Plan_v1.1.pdf" type="application/pdf">Attachment_A_-_As_run_Unisyn_OVS_2.0.A.2_Modification_Test_Plan_v1.1.pdf</a></span>
+  <span>(290.66 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_OVS_2.0.A.2_Modification_Test_Plan_v1.1.pdf" type="application/pdf">Unisyn_OVS_2.0.A.2_Modification_Test_Plan_v1.1.pdf</a></span>
+  <span>(290.86 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_OVS_2.0.A.2_Modification_Test_Report_v1.0.pdf" type="application/pdf">Unisyn_OVS_2.0.A.2_Modification_Test_Report_v1.0.pdf</a></span>
+  <span>(262.5 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_OVS_2.0.A.2_Modification_Test_Report_v1.1.pdf" type="application/pdf">Unisyn_OVS_2.0.A.2_Modification_Test_Report_v1.1.pdf</a></span>
+  <span>(254.82 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Initial_Decision_OpenElect_2.0.A.2_11.27.18.pdf" type="application/pdf">Initial_Decision_OpenElect_2.0.A.2_11.27.18.pdf</a></span>
+  <span>(118.78 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_2.0.A.2_Certificate_and_Scope_12.11.18.pdf" type="application/pdf">Unisyn_2.0.A.2_Certificate_and_Scope_12.11.18.pdf</a></span>
+  <span>(1.22 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_2.0.A.2_Decision-Authority_Grant-Cert%28FINAL%29.pdf" type="application/pdf">Unisyn_2.0.A.2_Decision-Authority_Grant-Cert(FINAL).pdf</a></span>
+  <span>(221.54 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/openelect-20a2" data-a2a-title="OpenElect 2.0.A.2"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fopenelect-20a2&amp;title=OpenElect%202.0.A.2"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20286" hreflang="en">OpenElect</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        2.0.A.2
+                  
+]]></description>
+  <pubDate>Tue, 24 Sep 2019 13:18:28 +0000</pubDate>
+    <dc:creator>Anonymous</dc:creator>
+    <guid isPermaLink="false">56616 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>OpenElect 2.0.A</title>
+  <link>https://www.eac.gov/voting-equipment/openelect-20a</link>
+  <description><![CDATA[
+<span class="taxonomyterm20286feed">OpenElect 2.0.A</span>
+
+<span class="taxonomyterm20286feed"><span lang typeof="Person" property="schema:name" datatype class="taxonomyterm20286feed">Anonymous (not verified)</span></span>
+
+<span class="taxonomyterm20286feed">Tuesday, September 24, 2019
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/unisyn-voting-solutions-division-international-lottery" hreflang="en">Unisyn Voting Solutions (a division of International Lottery and Totalizator, Inc)</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/pro-vv" hreflang="en">Pro V&amp;V </a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        06/05/2018
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        11/21/2017
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        11/21/2017
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_OVS_2.0.A_Test_Report_FINAL.pdf" type="application/pdf">Unisyn_OVS_2.0.A_Test_Report_FINAL.pdf</a></span>
+  <span>(1.19 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_OVS_2.0.A_Test_Report_Initial.pdf" type="application/pdf">Unisyn_OVS_2.0.A_Test_Report_Initial.pdf</a></span>
+  <span>(1.18 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_OVS_2.0.A_Test_Report_Rev_A.pdf" type="application/pdf">Unisyn_OVS_2.0.A_Test_Report_Rev_A.pdf</a></span>
+  <span>(1.2 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_OVS_2.0_Test_Plan_2.0.A.pdf" type="application/pdf">Unisyn_OVS_2.0_Test_Plan_2.0.A.pdf</a></span>
+  <span>(1.31 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_2.0.A_Application.Approval.Letter_11.21.17.pdf" type="application/pdf">Unisyn_2.0.A_Application.Approval.Letter_11.21.17.pdf</a></span>
+  <span>(71.17 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/UNS10121966-2.0.A_Test_Plan_Approval_memo_3-23-18.pdf" type="application/pdf">UNS10121966-2.0.A_Test_Plan_Approval_memo_3-23-18.pdf</a></span>
+  <span>(148.1 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Cert._of_Conformace_and_Scope_OpenElect_2.0.A_6.5.18.pdf" type="application/pdf">Cert._of_Conformace_and_Scope_OpenElect_2.0.A_6.5.18.pdf</a></span>
+  <span>(1.5 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Final_Decision_OpenElect_2.0.A_5.22.18.pdf" type="application/pdf">Final_Decision_OpenElect_2.0.A_5.22.18.pdf</a></span>
+  <span>(93.64 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Initial_Decision_Verity_Voting_2.2.2_4.25.18.pdf" type="application/pdf">Initial_Decision_Verity_Voting_2.2.2_4.25.18.pdf</a></span>
+  <span>(102.94 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/openelect-20a" data-a2a-title="OpenElect 2.0.A"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fopenelect-20a&amp;title=OpenElect%202.0.A"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20286" hreflang="en">OpenElect</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        2.0.A
+                  
+]]></description>
+  <pubDate>Tue, 24 Sep 2019 13:18:28 +0000</pubDate>
+    <dc:creator>Anonymous</dc:creator>
+    <guid isPermaLink="false">56556 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>OpenElect 1.3.0.2A</title>
+  <link>https://www.eac.gov/voting-equipment/openelect-1302a</link>
+  <description><![CDATA[
+<span class="taxonomyterm20286feed">OpenElect 1.3.0.2A</span>
+
+<span class="taxonomyterm20286feed"><span lang typeof="Person" property="schema:name" datatype class="taxonomyterm20286feed">Anonymous (not verified)</span></span>
+
+<span class="taxonomyterm20286feed">Tuesday, September 24, 2019
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/unisyn-voting-solutions-division-international-lottery" hreflang="en">Unisyn Voting Solutions (a division of International Lottery and Totalizator, Inc)</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/sli-compliance-division-gaming-laboratories" hreflang="en">SLI Compliance, a Division of Gaming Laboratories International, LLC</a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        03/15/2018
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        10/27/2017
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        10/27/2017
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/APPENDIX_B_Additional_Findings_OVS_1_3_0_2_EMC_Test_Report.pdf" type="application/pdf">APPENDIX_B_Additional_Findings_OVS_1_3_0_2_EMC_Test_Report.pdf</a></span>
+  <span>(2.06 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/APPENDIX_C_Unisyn_OVS_1_3_0_2_Test_Plan_-_As_Run.pdf" type="application/pdf">APPENDIX_C_Unisyn_OVS_1_3_0_2_Test_Plan_-_As_Run.pdf</a></span>
+  <span>(719.96 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_A_-_Record_of_Unisyn_1.3.0.2.A_OVI_Trusted_Build_%281%29.pdf" type="application/pdf">Attachment_A_-_Record_of_Unisyn_1.3.0.2.A_OVI_Trusted_Build_(1).pdf</a></span>
+  <span>(169.63 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_B_-_Unisyn_OVS_1.3.0.2.A_Modification_Test_Plan_v1.3_%281%29.pdf" type="application/pdf">Attachment_B_-_Unisyn_OVS_1.3.0.2.A_Modification_Test_Plan_v1.3_(1).pdf</a></span>
+  <span>(282.04 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_OVS_1.3.0.2.A_Modification_Test_Plan_v1.3.pdf" type="application/pdf">Unisyn_OVS_1.3.0.2.A_Modification_Test_Plan_v1.3.pdf</a></span>
+  <span>(282.04 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_OVS_1_3_0_2_Test_Report_Rev.B_Final.pdf" type="application/pdf">Unisyn_OVS_1_3_0_2_Test_Report_Rev.B_Final.pdf</a></span>
+  <span>(2.56 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_1.3.0.2A_Application_Approval_Letter_10.27.17.pdf" type="application/pdf">Unisyn_1.3.0.2A_Application_Approval_Letter_10.27.17.pdf</a></span>
+  <span>(124.88 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Initial_Decision_Unisyn_OpenElect_1.3.0.2.A__3.5.18.pdf" type="application/pdf">Initial_Decision_Unisyn_OpenElect_1.3.0.2.A__3.5.18.pdf</a></span>
+  <span>(265.78 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/OVS_1302A_FINAL_scope_and_Certificate_3.19.18.pdf" type="application/pdf">OVS_1302A_FINAL_scope_and_Certificate_3.19.18.pdf</a></span>
+  <span>(779.9 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/OVS1.3.0.2.A_final_decision_3.15.18.pdf" type="application/pdf">OVS1.3.0.2.A_final_decision_3.15.18.pdf</a></span>
+  <span>(38.1 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/openelect-1302a" data-a2a-title="OpenElect 1.3.0.2A"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fopenelect-1302a&amp;title=OpenElect%201.3.0.2A"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20286" hreflang="en">OpenElect</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        1.3.0.2A
+                  
+]]></description>
+  <pubDate>Tue, 24 Sep 2019 13:18:28 +0000</pubDate>
+    <dc:creator>Anonymous</dc:creator>
+    <guid isPermaLink="false">56551 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>OpenElect 2.0</title>
+  <link>https://www.eac.gov/voting-equipment/openelect-20</link>
+  <description><![CDATA[
+<span class="taxonomyterm20286feed">OpenElect 2.0</span>
+
+<span class="taxonomyterm20286feed"><span lang typeof="Person" property="schema:name" datatype class="taxonomyterm20286feed">Anonymous (not verified)</span></span>
+
+<span class="taxonomyterm20286feed">Tuesday, September 24, 2019
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/unisyn-voting-solutions-division-international-lottery" hreflang="en">Unisyn Voting Solutions (a division of International Lottery and Totalizator, Inc)</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/pro-vv" hreflang="en">Pro V&amp;V </a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        10/17/2017
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        01/25/2017
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_OVS_2.0_Test_Plan_2.0_-_Rev._B.pdf" type="application/pdf">Unisyn_OVS_2.0_Test_Plan_2.0_-_Rev._B.pdf</a></span>
+  <span>(1.24 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_OVS_2.0_Test_Plan_2.0_Rev._A.pdf" type="application/pdf">Unisyn_OVS_2.0_Test_Plan_2.0_Rev._A.pdf</a></span>
+  <span>(1.24 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_OVS_2.0_Test_Report_2.0_Initial.pdf" type="application/pdf">Unisyn_OVS_2.0_Test_Report_2.0_Initial.pdf</a></span>
+  <span>(1.44 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_OVS_2.0_Test_Report_2.0_Rev._A.pdf" type="application/pdf">Unisyn_OVS_2.0_Test_Report_2.0_Rev._A.pdf</a></span>
+  <span>(1.37 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_OVS_2_0_Test_Plan_2_0_Initial_Submission.pdf" type="application/pdf">Unisyn_OVS_2_0_Test_Plan_2_0_Initial_Submission.pdf</a></span>
+  <span>(1.17 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_2.0_approval_1.25.17.pdf" type="application/pdf">Unisyn_2.0_approval_1.25.17.pdf</a></span>
+  <span>(99.93 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_2.0_TP_Rev_B_Plan_Approval_letter__5.10.17.pdf" type="application/pdf">Unisyn_2.0_TP_Rev_B_Plan_Approval_letter__5.10.17.pdf</a></span>
+  <span>(125.67 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_OVS_2.0_Test_Plan_2.0_-_Rev._B.pdf" type="application/pdf">Unisyn_OVS_2.0_Test_Plan_2.0_-_Rev._B.pdf</a></span>
+  <span>(1.24 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_OVS_2.0_Test_Report_2.0_Rev._B.pdf" type="application/pdf">Unisyn_OVS_2.0_Test_Report_2.0_Rev._B.pdf</a></span>
+  <span>(1.36 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/CertofConformanceFinal-Unisyn_2.0_FINAL_10_17_17.pdf" type="application/pdf">CertofConformanceFinal-Unisyn_2.0_FINAL_10_17_17.pdf</a></span>
+  <span>(2.18 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Initial_Decision_Unisyn_OpenElect_2.0_10.12.17_%281%29.pdf" type="application/pdf">Initial_Decision_Unisyn_OpenElect_2.0_10.12.17_(1).pdf</a></span>
+  <span>(65.55 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_OVS_2.0_Final_Decision_10.17.17.pdf" type="application/pdf">Unisyn_OVS_2.0_Final_Decision_10.17.17.pdf</a></span>
+  <span>(72.22 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/openelect-20" data-a2a-title="OpenElect 2.0"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fopenelect-20&amp;title=OpenElect%202.0"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20286" hreflang="en">OpenElect</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        2.0
+                  
+]]></description>
+  <pubDate>Tue, 24 Sep 2019 13:18:28 +0000</pubDate>
+    <dc:creator>Anonymous</dc:creator>
+    <guid isPermaLink="false">56521 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>OpenElect v.1.3 Modification </title>
+  <link>https://www.eac.gov/voting-equipment/openelect-v13-modification</link>
+  <description><![CDATA[
+<span class="taxonomyterm20286feed">OpenElect v.1.3 Modification </span>
+
+<span class="taxonomyterm20286feed"><span lang typeof="Person" property="schema:name" datatype class="taxonomyterm20286feed">Anonymous (not verified)</span></span>
+
+<span class="taxonomyterm20286feed">Tuesday, September 24, 2019
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/unisyn-voting-solutions-division-international-lottery" hreflang="en">Unisyn Voting Solutions (a division of International Lottery and Totalizator, Inc)</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/nts-huntsville-formally-wyle-laboratories" hreflang="en">NTS Huntsville (formally Wyle Laboratories)</a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        01/12/2015
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        07/01/2014
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        07/01/2014
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn%20OVS%201%203%20Test%20Plan.pdf" type="application/pdf">Unisyn OVS 1 3 Test Plan.pdf</a></span>
+  <span>(918.84 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn%20OVS%201.3%20Test%20Report%28Compressed%29.pdf" type="application/pdf">Unisyn OVS 1.3 Test Report(Compressed).pdf</a></span>
+  <span>(9.84 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/EAC%20Letter_Unisyn_Change%20of%20Scope%20on%20Testing.pdf" type="application/pdf">EAC Letter_Unisyn_Change of Scope on Testing.pdf</a></span>
+  <span>(95.71 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/OpenElect1.3_ApplicationApproval_FINAL_7.1.14.pdf" type="application/pdf">OpenElect1.3_ApplicationApproval_FINAL_7.1.14.pdf</a></span>
+  <span>(79.91 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/OVS_1.3_Approved_Modified_Application_FINAL.10.16.14.pdf" type="application/pdf">OVS_1.3_Approved_Modified_Application_FINAL.10.16.14.pdf</a></span>
+  <span>(426.68 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/OVS1%203_initial_decision_FINAL_1%2007%2015.pdf" type="application/pdf">OVS1 3_initial_decision_FINAL_1 07 15.pdf</a></span>
+  <span>(63.53 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/OVS1%203TestPlanApproval_FINAL_10%201%2014.pdf" type="application/pdf">OVS1 3TestPlanApproval_FINAL_10 1 14.pdf</a></span>
+  <span>(83.24 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/OVS1.3_final_decision_FINAL_1.12.15.pdf" type="application/pdf">OVS1.3_final_decision_FINAL_1.12.15.pdf</a></span>
+  <span>(63.22 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/OVS1.3_Scope%26Cert_FINAL_01.12.2015.pdf" type="application/pdf">OVS1.3_Scope&amp;Cert_FINAL_01.12.2015.pdf</a></span>
+  <span>(1.43 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/PR030407%20Test%20Report%20Addendum.pdf" type="application/pdf">PR030407 Test Report Addendum.pdf</a></span>
+  <span>(720.7 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn%20OVS%201%203%20Test%20Plan%20Rev%20A_highlights%20removed.pdf" type="application/pdf">Unisyn OVS 1 3 Test Plan Rev A_highlights removed.pdf</a></span>
+  <span>(1022.54 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn%20OVS%201.3%20Test%20Report%20Final.pdf" type="application/pdf">Unisyn OVS 1.3 Test Report Final.pdf</a></span>
+  <span>(9.86 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn%20OVS%201.3%20Test%20Report%20Rev%20A.pdf" type="application/pdf">Unisyn OVS 1.3 Test Report Rev A.pdf</a></span>
+  <span>(9.87 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_OpenElect%201%203_Amendment_A.pdf" type="application/pdf">Unisyn_OpenElect 1 3_Amendment_A.pdf</a></span>
+  <span>(48.22 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/openelect-v13-modification" data-a2a-title="OpenElect v.1.3 Modification "><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fopenelect-v13-modification&amp;title=OpenElect%20v.1.3%20Modification%20"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20286" hreflang="en">OpenElect</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        1.3
+                  
+]]></description>
+  <pubDate>Tue, 24 Sep 2019 13:18:28 +0000</pubDate>
+    <dc:creator>Anonymous</dc:creator>
+    <guid isPermaLink="false">56441 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>OpenElect v.1.2 Modification</title>
+  <link>https://www.eac.gov/voting-equipment/openelect-v12-modification</link>
+  <description><![CDATA[
+<span class="taxonomyterm20286feed">OpenElect v.1.2 Modification</span>
+
+<span class="taxonomyterm20286feed"><span lang typeof="Person" property="schema:name" datatype class="taxonomyterm20286feed">Anonymous (not verified)</span></span>
+
+<span class="taxonomyterm20286feed">Tuesday, September 24, 2019
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/unisyn-voting-solutions-division-international-lottery" hreflang="en">Unisyn Voting Solutions (a division of International Lottery and Totalizator, Inc)</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/nts-huntsville-formally-wyle-laboratories" hreflang="en">NTS Huntsville (formally Wyle Laboratories)</a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        12/23/2013
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        05/22/2013
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        05/22/2013
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/5582.pdf" type="application/pdf">5582.pdf</a></span>
+  <span>(3.58 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn%201%202%20Test%20Plan%2006.27.13.pdf" type="application/pdf">Unisyn 1 2 Test Plan 06.27.13.pdf</a></span>
+  <span>(754.8 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn%201%202%20Test%20Plan%20Rev%20A.pdf" type="application/pdf">Unisyn 1 2 Test Plan Rev A.pdf</a></span>
+  <span>(793.73 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn%20OVS%20V1%202%20Test%20Report%20Rev%20A.pdf" type="application/pdf">Unisyn OVS V1 2 Test Report Rev A.pdf</a></span>
+  <span>(3.76 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/OpenElect1.2_ApplicationApproval_05.22.13.pdf" type="application/pdf">OpenElect1.2_ApplicationApproval_05.22.13.pdf</a></span>
+  <span>(107.51 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/2010.01.11.Initial%20Decision%20on%20Certification.Unisyn..pdf" type="application/pdf">2010.01.11.Initial Decision on Certification.Unisyn..pdf</a></span>
+  <span>(29.17 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/EAC%20Final%20Decision%20Granting%20Certification%20to%20Unisyn%20OpenElect%201.0%20Voting%20System.pdf" type="application/pdf">EAC Final Decision Granting Certification to Unisyn OpenElect 1.0 Voting System.pdf</a></span>
+  <span>(30.54 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Test%20Plan%20Approval%20Letter%20for%20OpenElect%20Rev.%20B.pdf" type="application/pdf">Test Plan Approval Letter for OpenElect Rev. B.pdf</a></span>
+  <span>(37.44 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn%20OpenElec%20Scope%20of%20Cert%201.13.10.pdf" type="application/pdf">Unisyn OpenElec Scope of Cert 1.13.10.pdf</a></span>
+  <span>(639.81 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_OpenElect_Voting_Solution_1.0_Final_Report_Rev._B_%281%29.pdf" type="application/pdf">Unisyn_OpenElect_Voting_Solution_1.0_Final_Report_Rev._B_(1).pdf</a></span>
+  <span>(554.23 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/openelect-v12-modification" data-a2a-title="OpenElect v.1.2 Modification"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fopenelect-v12-modification&amp;title=OpenElect%20v.1.2%20Modification"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20286" hreflang="en">OpenElect</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        1.2
+                  
+]]></description>
+  <pubDate>Tue, 24 Sep 2019 13:18:28 +0000</pubDate>
+    <dc:creator>Anonymous</dc:creator>
+    <guid isPermaLink="false">56436 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>OpenElect v.1.1 Modification</title>
+  <link>https://www.eac.gov/voting-equipment/openelect-v11-modification</link>
+  <description><![CDATA[
+<span class="taxonomyterm20286feed">OpenElect v.1.1 Modification</span>
+
+<span class="taxonomyterm20286feed"><span lang typeof="Person" property="schema:name" datatype class="taxonomyterm20286feed">Anonymous (not verified)</span></span>
+
+<span class="taxonomyterm20286feed">Tuesday, September 24, 2019
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/unisyn-voting-solutions-division-international-lottery" hreflang="en">Unisyn Voting Solutions (a division of International Lottery and Totalizator, Inc)</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/nts-huntsville-formally-wyle-laboratories" hreflang="en">NTS Huntsville (formally Wyle Laboratories)</a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        04/09/2012
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        07/18/2011
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        07/18/2011
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/T58650.01%20OVS%201.1%20Unisyn%20DRAFT%20Test%20Plan-10-12-11%20Includes%20ECOs.pdf" type="application/pdf">T58650.01 OVS 1.1 Unisyn DRAFT Test Plan-10-12-11 Includes ECOs.pdf</a></span>
+  <span>(793.25 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/T58650.01-01%20Unisyn%20OpenElect%20Voting%20System%20V1%201%20Final%202-29-12%20%28APPENDIX%20A%20-%20NOTICES%20OF%20ANOMALY%29.pdf" type="application/pdf">T58650.01-01 Unisyn OpenElect Voting System V1 1 Final 2-29-12 (APPENDIX A - NOTICES OF ANOMALY).pdf</a></span>
+  <span>(4.53 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/T58650.01-01%20Unisyn%20OpenElect%20Voting%20System%20V1%201%20Final%202-29-12%20%28APPENDIX%20B%20-%20PHOTOGRAPHS%29.pdf" type="application/pdf">T58650.01-01 Unisyn OpenElect Voting System V1 1 Final 2-29-12 (APPENDIX B - PHOTOGRAPHS).pdf</a></span>
+  <span>(14.38 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/T58650.01-01%20Unisyn%20OpenElect%20Voting%20System%20V1%201%20Final%202-29-12%20%28APPENDIX%20C%29.pdf" type="application/pdf">T58650.01-01 Unisyn OpenElect Voting System V1 1 Final 2-29-12 (APPENDIX C).pdf</a></span>
+  <span>(2.46 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/T58650.01-01%20Unisyn%20OpenElect%20Voting%20System%20V1%201%20Final%202-29-12%20%28APPENDIX%20D%29.pdf" type="application/pdf">T58650.01-01 Unisyn OpenElect Voting System V1 1 Final 2-29-12 (APPENDIX D).pdf</a></span>
+  <span>(16.1 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/T58650.01-01%20Unisyn%20OpenElect%20Voting%20System%20V1%201%20Final%202-29-12%20%28APPENDIX%20E%29.pdf" type="application/pdf">T58650.01-01 Unisyn OpenElect Voting System V1 1 Final 2-29-12 (APPENDIX E).pdf</a></span>
+  <span>(3.03 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/T58650.01-01%20Unisyn%20OpenElect%20Voting%20System%20V1%201%20Final%202-29-12%20%28SECTION%201%29.pdf" type="application/pdf">T58650.01-01 Unisyn OpenElect Voting System V1 1 Final 2-29-12 (SECTION 1).pdf</a></span>
+  <span>(144.93 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn%20OpenElect%201.1%20Mod%20Approved%20System%20Application_07.28.2011.pdf" type="application/pdf">Unisyn OpenElect 1.1 Mod Approved System Application_07.28.2011.pdf</a></span>
+  <span>(91.02 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Decision%20Authority.Unisyn%201.1%20Grant%20of%20Certification%20-%20FINAL.pdf" type="application/pdf">Decision Authority.Unisyn 1.1 Grant of Certification - FINAL.pdf</a></span>
+  <span>(106.11 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/OpenElect1.1_Decision_Authority_Initial_Decision-FINAL.pdf" type="application/pdf">OpenElect1.1_Decision_Authority_Initial_Decision-FINAL.pdf</a></span>
+  <span>(83.95 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/OpenElect1.1_Decision_Authority_Initial_Decision-FINAL.pdf" type="application/pdf">OpenElect1.1_Decision_Authority_Initial_Decision-FINAL.pdf</a></span>
+  <span>(83.95 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/OpenElect1.1_Decision_Authority_Initial_Decision-FINAL.pdf" type="application/pdf">OpenElect1.1_Decision_Authority_Initial_Decision-FINAL.pdf</a></span>
+  <span>(83.95 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/OpenElect1.1_Decision_Authority_Initial_Decision-FINAL.pdf" type="application/pdf">OpenElect1.1_Decision_Authority_Initial_Decision-FINAL.pdf</a></span>
+  <span>(83.95 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/OpenElect1.1_Decision_Authority_Initial_Decision-FINAL.pdf" type="application/pdf">OpenElect1.1_Decision_Authority_Initial_Decision-FINAL.pdf</a></span>
+  <span>(83.95 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/OpenElect1.1_Decision_Authority_Initial_Decision-FINAL.pdf" type="application/pdf">OpenElect1.1_Decision_Authority_Initial_Decision-FINAL.pdf</a></span>
+  <span>(83.95 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/OpenElect1.1_Decision_Authority_Initial_Decision-FINAL.pdf" type="application/pdf">OpenElect1.1_Decision_Authority_Initial_Decision-FINAL.pdf</a></span>
+  <span>(83.95 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/T58650_01_OVS_1_1_Unisyn_Test_Plan_Rev__A.pdf" type="application/pdf">T58650_01_OVS_1_1_Unisyn_Test_Plan_Rev__A.pdf</a></span>
+  <span>(883.53 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Unisyn_1.1_Certificate_of_Conformance-FINAL.pdf" type="application/pdf">Unisyn_1.1_Certificate_of_Conformance-FINAL.pdf</a></span>
+  <span>(1.14 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20286feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/UNS1102_tp_approval-1_%282%29.pdf" type="application/pdf">UNS1102_tp_approval-1_(2).pdf</a></span>
+  <span>(227.04 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/openelect-v11-modification" data-a2a-title="OpenElect v.1.1 Modification"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fopenelect-v11-modification&amp;title=OpenElect%20v.1.1%20Modification"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20286" hreflang="en">OpenElect</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        1.1
+                  
+]]></description>
+  <pubDate>Tue, 24 Sep 2019 13:18:28 +0000</pubDate>
+    <dc:creator>Anonymous</dc:creator>
+    <guid isPermaLink="false">56431 at https://www.eac.gov</guid>
+    </item>
+
+  </channel>
+</rss>

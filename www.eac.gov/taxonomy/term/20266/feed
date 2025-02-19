@@ -1,0 +1,2546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.eac.gov/">
+  <channel>
+    <title>EVS</title>
+    <link>https://www.eac.gov/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>EVS 6.5.0.0</title>
+  <link>https://www.eac.gov/voting-equipment/evs-6500</link>
+  <description><![CDATA[
+<span class="taxonomyterm20266feed">EVS 6.5.0.0</span>
+
+<span class="taxonomyterm20266feed"><a title="View user profile." href="https://www.eac.gov/user/1771" lang about="https://www.eac.gov/user/1771" typeof="Person" property="schema:name" datatype class="taxonomyterm20266feed">Paul.Aumayr</a></span>
+
+<span class="taxonomyterm20266feed">Wednesday, February 14, 2024
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/election-systems-software-inc-ess" hreflang="en">Election Systems &amp; Software, Inc (ES&amp;S)</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/pro-vv" hreflang="en">Pro V&amp;V </a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        07/24/2024
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        11/01/2023
+                  
+
+
+  
+      <h5>Testing Status</h5>
+                        System Certified
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        02/13/2024
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/2024-03/ES%26S%20EVS6500%20Test%20Plan-01.pdf" type="application/pdf">ES&amp;S EVS6500 Test Plan-01.pdf</a></span>
+  <span>(1.22 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/2024-03/ES%26S%20EVS%206500%20Test%20Plan%20Approval%20Letter.pdf" type="application/pdf">ES&amp;S EVS 6500 Test Plan Approval Letter.pdf</a></span>
+  <span>(232.98 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/2024-03/Application%20Approval%20Letter%20ESSEVS6500%202-13-24.pdf" type="application/pdf">Application Approval Letter ESSEVS6500 2-13-24.pdf</a></span>
+  <span>(196.71 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/2024-07/ESS%20EVS6500%20Test%20Report%2001%20Rev%2001.pdf" type="application/pdf">ESS EVS6500 Test Report 01 Rev 01.pdf</a></span>
+  <span>(1.2 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/2024-08/PRVV0001-R1_UL%2062368-1%202019.pdf" type="application/pdf">PRVV0001-R1_UL 62368-1 2019.pdf</a></span>
+  <span>(1.88 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/2024-08/TR-PR171953-REV1-Immunity-EVXL.pdf" type="application/pdf">TR-PR171953-REV1-Immunity-EVXL.pdf</a></span>
+  <span>(3.63 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/2024-08/TR-PR171953-REV1-Emissions-EVXL.pdf" type="application/pdf">TR-PR171953-REV1-Emissions-EVXL.pdf</a></span>
+  <span>(2.41 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/2024-08/TR-PR171953-00-REV2-Env-EVXL.pdf" type="application/pdf">TR-PR171953-00-REV2-Env-EVXL.pdf</a></span>
+  <span>(3.79 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/2024-08/TR-PR171950-2-REV2-Immunity-EV3.pdf" type="application/pdf">TR-PR171950-2-REV2-Immunity-EV3.pdf</a></span>
+  <span>(2.96 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/2024-08/TR-PR171950-1-REV1-Emissions-EV3.pdf" type="application/pdf">TR-PR171950-1-REV1-Emissions-EV3.pdf</a></span>
+  <span>(3.69 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/2024-08/TR-PR171950-00-REV2-Env-EV3.pdf" type="application/pdf">TR-PR171950-00-REV2-Env-EV3.pdf</a></span>
+  <span>(5.2 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/2024-07/ESS%20EVS%206.5.0.0%20Test%20Report%20Approval%20Letter.pdf" type="application/pdf">ESS EVS 6.5.0.0 Test Report Approval Letter.pdf</a></span>
+  <span>(185.87 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/2024-09/ESS%20EVS%206500%20Certificate%20and%20Scope%20of%20Conformance%20UPDATED%2092424.pdf" type="application/pdf">ESS EVS 6500 Certificate and Scope of Conformance UPDATED 92424.pdf</a></span>
+  <span>(950.05 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/evs-6500" data-a2a-title="EVS 6.5.0.0"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fevs-6500&amp;title=EVS%206.5.0.0"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20266" hreflang="en">EVS</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        6.5.0.0
+                  
+]]></description>
+  <pubDate>Wed, 14 Feb 2024 14:59:48 +0000</pubDate>
+    <dc:creator>Paul.Aumayr</dc:creator>
+    <guid isPermaLink="false">69891 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>EVS 6.4.0.0</title>
+  <link>https://www.eac.gov/voting-equipment/evs-6400</link>
+  <description><![CDATA[
+<span class="taxonomyterm20266feed">EVS 6.4.0.0</span>
+
+<span class="taxonomyterm20266feed"><a title="View user profile." href="https://www.eac.gov/user/1926" lang about="https://www.eac.gov/user/1926" typeof="Person" property="schema:name" datatype class="taxonomyterm20266feed">jle</a></span>
+
+<span class="taxonomyterm20266feed">Friday, April 28, 2023
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/election-systems-software-inc-ess" hreflang="en">Election Systems &amp; Software, Inc (ES&amp;S)</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/pro-vv" hreflang="en">Pro V&amp;V </a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        08/18/2023
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        04/05/2023
+                  
+
+
+  
+      <h5>Testing Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        04/29/2023
+                  
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Application%20Approval%20Letter%20ESS%20EVS%206400.pdf" type="application/pdf">Application Approval Letter ESS EVS 6400.pdf</a></span>
+  <span>(191.09 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/2023-07/ES%26S%20EVS%206.4.0.0%20Test%20Plan%20Approval%20Letter.pdf" type="application/pdf">ES&amp;S EVS 6.4.0.0 Test Plan Approval Letter.pdf</a></span>
+  <span>(216.25 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/2023-08/ESS%20EVS%206.4.0.0%20Test%20Report%20Approval%20Letter.pdf" type="application/pdf">ESS EVS 6.4.0.0 Test Report Approval Letter.pdf</a></span>
+  <span>(206.07 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/2023-07/ES%26S%20EVS6400%20Test%20Plan%2002.pdf" type="application/pdf">ES&amp;S EVS6400 Test Plan 02.pdf</a></span>
+  <span>(1.07 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/2023-08/ESS%20EVS6400%20Test%20Report%2001%20Rev%2003.pdf" type="application/pdf">ESS EVS6400 Test Report 01 Rev 03.pdf</a></span>
+  <span>(1.25 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/2023-08/ES%26S%20EVS%206.4.0.0%20Certificate%20and%20Scope%20of%20Conformance%20Signed%20%282%29.pdf" type="application/pdf">ES&amp;S EVS 6.4.0.0 Certificate and Scope of Conformance Signed (2).pdf</a></span>
+  <span>(1.58 MB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/evs-6400" data-a2a-title="EVS 6.4.0.0"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fevs-6400&amp;title=EVS%206.4.0.0"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20266" hreflang="en">EVS</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        6.4.0.0
+                  
+]]></description>
+  <pubDate>Fri, 28 Apr 2023 22:46:00 +0000</pubDate>
+    <dc:creator>jle</dc:creator>
+    <guid isPermaLink="false">69226 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>EVS 6.3.0.0</title>
+  <link>https://www.eac.gov/voting-equipment/evs-6300</link>
+  <description><![CDATA[
+<span class="taxonomyterm20266feed">EVS 6.3.0.0</span>
+
+<span class="taxonomyterm20266feed"><a title="View user profile." href="https://www.eac.gov/user/1771" lang about="https://www.eac.gov/user/1771" typeof="Person" property="schema:name" datatype class="taxonomyterm20266feed">Paul.Aumayr</a></span>
+
+<span class="taxonomyterm20266feed">Friday, April 8, 2022
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/election-systems-software-inc-ess" hreflang="en">Election Systems &amp; Software, Inc (ES&amp;S)</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/pro-vv" hreflang="en">Pro V&amp;V </a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        11/11/2022
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        04/01/2022
+                  
+
+
+  
+      <h5>Testing Status</h5>
+                        System Certified
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        04/07/2022
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ES%26S%20EVS6300%20Test%20Plan%20Rev%2002.pdf" type="application/pdf">ES&amp;S EVS6300 Test Plan Rev 02.pdf</a></span>
+  <span>(1.14 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Application%20Approval%20Letter%20ESS%20EVS%206300.pdf" type="application/pdf">Application Approval Letter ESS EVS 6300.pdf</a></span>
+  <span>(163.52 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ES%26S%20EVS%206300%20Test%20Plan%20Approval%20Letter.pdf" type="application/pdf">ES&amp;S EVS 6300 Test Plan Approval Letter.pdf</a></span>
+  <span>(230.78 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ESS%20EVS6300%20Test%20Report%2002.pdf" type="application/pdf">ESS EVS6300 Test Report 02.pdf</a></span>
+  <span>(1.19 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20B%20Part%201%20NTS%20Test%20Report%20ETR-PR145960-1%2C%20Revision%200.pdf" type="application/pdf">Attachment B Part 1 NTS Test Report ETR-PR145960-1, Revision 0.pdf</a></span>
+  <span>(2.11 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20B%20Part%202%20NTS%20Test%20Report%20ETR-PR145960-2%2C%20Revision%202.pdf" type="application/pdf">Attachment B Part 2 NTS Test Report ETR-PR145960-2, Revision 2.pdf</a></span>
+  <span>(3.95 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20B%20Part%203%20NTS%20Test%20Report%20ITR-PR145960-1%2C%20Revision%201.pdf" type="application/pdf">Attachment B Part 3 NTS Test Report ITR-PR145960-1, Revision 1.pdf</a></span>
+  <span>(15.47 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20B%20Part%204%20NTS%20Test%20Report%20ITR-PR145960-2%2C%20Revision%202.pdf" type="application/pdf">Attachment B Part 4 NTS Test Report ITR-PR145960-2, Revision 2.pdf</a></span>
+  <span>(3.93 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20B%20Part%205%20NTS%20Test%20Report%20TR-PR145960-PS.pdf" type="application/pdf">Attachment B Part 5 NTS Test Report TR-PR145960-PS.pdf</a></span>
+  <span>(2.21 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20B%20Part%206%20NTS%20Test%20Report%20TR-PR145943-1%2C%20Revision%200.pdf" type="application/pdf">Attachment B Part 6 NTS Test Report TR-PR145943-1, Revision 0.pdf</a></span>
+  <span>(797.29 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20B%20Part%207%20NTS%20Test%20Report%20TR-PR145943-2%2C%20Revision%202.pdf" type="application/pdf">Attachment B Part 7 NTS Test Report TR-PR145943-2, Revision 2.pdf</a></span>
+  <span>(13.05 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ESS%20EVS%206300%20Certificate%20and%20Scope%20of%20Conformance.pdf" type="application/pdf">ESS EVS 6300 Certificate and Scope of Conformance.pdf</a></span>
+  <span>(1.04 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Advisory Notice Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/1-17-23%20Monmouth%20Co%20NJ%20Election%20Results2_9.pdf" type="application/pdf">1-17-23 Monmouth Co NJ Election Results2_9.pdf</a></span>
+  <span>(91.6 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/evs-6300" data-a2a-title="EVS 6.3.0.0"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fevs-6300&amp;title=EVS%206.3.0.0"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20266" hreflang="en">EVS</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                         6.3.0.0
+                  
+]]></description>
+  <pubDate>Fri, 08 Apr 2022 14:36:03 +0000</pubDate>
+    <dc:creator>Paul.Aumayr</dc:creator>
+    <guid isPermaLink="false">56741 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>EVS 6.0.6.0</title>
+  <link>https://www.eac.gov/voting-equipment/evs-6060</link>
+  <description><![CDATA[
+<span class="taxonomyterm20266feed">EVS 6.0.6.0</span>
+
+
+  
+      <h5>Body</h5>
+                        <p>ES&amp;S Voting System 6.0.6.0 (EVS6060) presents a fully integrated suite of election management products that fully comply with the EAC Voluntary Voting System Guidelines, Version 1.0. This release introduces the DS950®, a new high-speed central count scanner and tabulator with ballot sorting capabilities.<br>
+EVS6060 introduces light blue 4GB, 8GB, 16GB and 32GB USB flash drives with modernized USB capabilities to replace end-of-life dark blue USB flash drives. This release also introduces a 256GB USB flash drive with capacity for central count results export capability.<br>
+Additionally, this release introduces end-of-life hardware replacements for batteries for both versions of the ExpressVote.</p>
+                  
+
+<span class="taxonomyterm20266feed"><a title="View user profile." href="https://www.eac.gov/user/1791" lang about="https://www.eac.gov/user/1791" typeof="Person" property="schema:name" datatype class="taxonomyterm20266feed">Jessica.Fleming</a></span>
+
+<span class="taxonomyterm20266feed">Thursday, August 19, 2021
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/election-systems-software-inc-ess" hreflang="en">Election Systems &amp; Software, Inc (ES&amp;S)</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/pro-vv" hreflang="en">Pro V&amp;V </a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        12/28/2021
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        07/30/2021
+                  
+
+
+  
+      <h5>Testing Status</h5>
+                        Certified
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        08/17/2021
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/EVS%206060%20Test%20Plan%20Rev%2004%20508_0.pdf" type="application/pdf">EVS 6060 Test Plan Rev 04 508_0.pdf</a></span>
+  <span>(1.84 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ESS%20EVSFL%206060%20Florida%20Test%20Report_0.pdf" type="application/pdf">ESS EVSFL 6060 Florida Test Report_0.pdf</a></span>
+  <span>(448.74 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ETR-PR120980-00-REV0%20EMI%202%20EV_1.pdf" type="application/pdf">ETR-PR120980-00-REV0 EMI 2 EV_1.pdf</a></span>
+  <span>(877.38 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ETR-PR120980-REV0%20EMI%202%20DS950_1.pdf" type="application/pdf">ETR-PR120980-REV0 EMI 2 DS950_1.pdf</a></span>
+  <span>(1.1 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ITR-PR120980-00-REV0%20EMI%20EV_1.pdf" type="application/pdf">ITR-PR120980-00-REV0 EMI EV_1.pdf</a></span>
+  <span>(1.45 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ITR-PR120980-REV0%20EMI%20DS950_1.pdf" type="application/pdf">ITR-PR120980-REV0 EMI DS950_1.pdf</a></span>
+  <span>(3.43 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/TR-PR120980-1-REV1%20EV%20Environmental_1.pdf" type="application/pdf">TR-PR120980-1-REV1 EV Environmental_1.pdf</a></span>
+  <span>(1.55 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/TR-PR120980-REV2%20DS950%20Environmental_1.pdf" type="application/pdf">TR-PR120980-REV2 DS950 Environmental_1.pdf</a></span>
+  <span>(2 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/TR-PR125496%20Safety%20Report_1.pdf" type="application/pdf">TR-PR125496 Safety Report_1.pdf</a></span>
+  <span>(3.28 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Implementation%20Letter%20508_0.pdf" type="application/pdf">Implementation Letter 508_0.pdf</a></span>
+  <span>(166.01 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Application%20Approval%20Letter%20ESS%20EVS%206060%20508.pdf" type="application/pdf">Application Approval Letter ESS EVS 6060 508.pdf</a></span>
+  <span>(245.66 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/EVS%206.0.6.0%20Test%20Plan%20Approval%20Letter_1.pdf" type="application/pdf">EVS 6.0.6.0 Test Plan Approval Letter_1.pdf</a></span>
+  <span>(255.04 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ESS%20EVS6060%20Test%20Report%20Rev%2004.pdf" type="application/pdf">ESS EVS6060 Test Report Rev 04.pdf</a></span>
+  <span>(1.76 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ES%26S%20EVS%206060%20Certificate%20and%20Scope%20of%20Conformance%2012_28_21.pdf" type="application/pdf">ES&amp;S EVS 6060 Certificate and Scope of Conformance 12_28_21.pdf</a></span>
+  <span>(2.41 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/EVS%206060%20Joint%20Letter.pdf" type="application/pdf">EVS 6060 Joint Letter.pdf</a></span>
+  <span>(248.14 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Advisory Notice Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/1-17-23%20Monmouth%20Co%20NJ%20Election%20Results2_5.pdf" type="application/pdf">1-17-23 Monmouth Co NJ Election Results2_5.pdf</a></span>
+  <span>(91.6 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/evs-6060" data-a2a-title="EVS 6.0.6.0"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fevs-6060&amp;title=EVS%206.0.6.0"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20266" hreflang="en">EVS</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        6.0.4.3
+                  
+]]></description>
+  <pubDate>Thu, 19 Aug 2021 19:44:41 +0000</pubDate>
+    <dc:creator>Jessica.Fleming</dc:creator>
+    <guid isPermaLink="false">56721 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>EVS 6.2.0.0</title>
+  <link>https://www.eac.gov/voting-equipment/evs-6200-0</link>
+  <description><![CDATA[
+<span class="taxonomyterm20266feed">EVS 6.2.0.0</span>
+
+
+  
+      <h5>Body</h5>
+                        <p>ES&amp;S Voting System 6.2.0.0 (EVS6200) presents a fully integrated suite of election management products that fully comply with the EAC Voluntary Voting System Guidelines, Version 1.0. This release introduces the DS950®, a high-speed central count scanner and tabulator with ballot sorting capabilities.<br>
+EVS6200 also introduces additional options for transmission of unofficial results data over closed networks. In addition to clients reading results media and the central tabulators transferring data across a closed network, the Regional Results application will provide the ability to read results media from the DS200, ExpressTouch, and ExpressVote XL and transmit the results collection files over a customer dedicated network via the Regional Results software for more efficient results reporting.</p>
+                  
+
+<span class="taxonomyterm20266feed"><a title="View user profile." href="https://www.eac.gov/user/1791" lang about="https://www.eac.gov/user/1791" typeof="Person" property="schema:name" datatype class="taxonomyterm20266feed">Jessica.Fleming</a></span>
+
+<span class="taxonomyterm20266feed">Thursday, February 11, 2021
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/election-systems-software-inc-ess" hreflang="en">Election Systems &amp; Software, Inc (ES&amp;S)</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/pro-vv" hreflang="en">Pro V&amp;V </a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        12/23/2021
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        01/29/2021
+                  
+
+
+  
+      <h5>Testing Status</h5>
+                        Certified
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        02/12/2021
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ES%26S%20EVS6200%20Test%20Plan%20Rev%2002%20Final.pdf" type="application/pdf">ES&amp;S EVS6200 Test Plan Rev 02 Final.pdf</a></span>
+  <span>(1.04 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/EVS%206200%20Application.pdf" type="application/pdf">EVS 6200 Application.pdf</a></span>
+  <span>(440.43 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ETR-PR120980-00-REV0%20EMI%202%20EV.pdf" type="application/pdf">ETR-PR120980-00-REV0 EMI 2 EV.pdf</a></span>
+  <span>(877.38 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ETR-PR120980-REV0%20EMI%202%20DS950.pdf" type="application/pdf">ETR-PR120980-REV0 EMI 2 DS950.pdf</a></span>
+  <span>(1.1 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ITR-PR120980-00-REV0%20EMI%20EV.pdf" type="application/pdf">ITR-PR120980-00-REV0 EMI EV.pdf</a></span>
+  <span>(1.45 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ITR-PR120980-REV0%20EMI%20DS950.pdf" type="application/pdf">ITR-PR120980-REV0 EMI DS950.pdf</a></span>
+  <span>(3.43 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/TR-PR120980-1-REV1%20EV%20Environmental.pdf" type="application/pdf">TR-PR120980-1-REV1 EV Environmental.pdf</a></span>
+  <span>(1.55 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/TR-PR120980-REV2%20DS950%20Environmental.pdf" type="application/pdf">TR-PR120980-REV2 DS950 Environmental.pdf</a></span>
+  <span>(2 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/TR-PR125496%20Safety%20Report.pdf" type="application/pdf">TR-PR125496 Safety Report.pdf</a></span>
+  <span>(3.28 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ESS%20EVSFL%206060%20Florida%20Test%20Report.pdf" type="application/pdf">ESS EVSFL 6060 Florida Test Report.pdf</a></span>
+  <span>(448.74 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Application%20Approval%20Letter%20ESS%20EVS%206200%2002-12-2021_0.pdf" type="application/pdf">Application Approval Letter ESS EVS 6200 02-12-2021_0.pdf</a></span>
+  <span>(168.71 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ESS%206200%20Test%20Plan%20Approval%20Letter%20508.pdf" type="application/pdf">ESS 6200 Test Plan Approval Letter 508.pdf</a></span>
+  <span>(65.04 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Implementation%20Letter%20508.pdf" type="application/pdf">Implementation Letter 508.pdf</a></span>
+  <span>(168.33 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ESS%20EVS6200%20Test%20Report.pdf" type="application/pdf">ESS EVS6200 Test Report.pdf</a></span>
+  <span>(1.51 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ES%26S%20EVS%206200%20Certificate%20and%20Scope%20of%20Conformance%2012_23_21.pdf" type="application/pdf">ES&amp;S EVS 6200 Certificate and Scope of Conformance 12_23_21.pdf</a></span>
+  <span>(1.66 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/EVS%206200%20Joint%20Letter.pdf" type="application/pdf">EVS 6200 Joint Letter.pdf</a></span>
+  <span>(248.3 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Advisory Notice Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/1-17-23%20Monmouth%20Co%20NJ%20Election%20Results2_8.pdf" type="application/pdf">1-17-23 Monmouth Co NJ Election Results2_8.pdf</a></span>
+  <span>(91.6 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/evs-6200-0" data-a2a-title="EVS 6.2.0.0"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fevs-6200-0&amp;title=EVS%206.2.0.0"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20266" hreflang="en">EVS</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        6.2.0.0
+                  
+]]></description>
+  <pubDate>Thu, 11 Feb 2021 19:05:30 +0000</pubDate>
+    <dc:creator>Jessica.Fleming</dc:creator>
+    <guid isPermaLink="false">56716 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>EVS 6.1.1.0</title>
+  <link>https://www.eac.gov/voting-equipment/evs-6110</link>
+  <description><![CDATA[
+<span class="taxonomyterm20266feed">EVS 6.1.1.0</span>
+
+<span class="taxonomyterm20266feed"><a title="View user profile." href="https://www.eac.gov/user/1771" lang about="https://www.eac.gov/user/1771" typeof="Person" property="schema:name" datatype class="taxonomyterm20266feed">Paul.Aumayr</a></span>
+
+<span class="taxonomyterm20266feed">Tuesday, May 19, 2020
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/election-systems-software-inc-ess" hreflang="en">Election Systems &amp; Software, Inc (ES&amp;S)</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/pro-vv" hreflang="en">Pro V&amp;V </a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        07/27/2020
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        05/14/2020
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        05/18/2020
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ES%26S%20EVS6110%20Test%20Plan%20Rev%2001%20FINAL.pdf" type="application/pdf">ES&amp;S EVS6110 Test Plan Rev 01 FINAL.pdf</a></span>
+  <span>(852.89 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Application%20Approval%20Letter%20ESSEVS6110%2005-18-2020.pdf" type="application/pdf">Application Approval Letter ESSEVS6110 05-18-2020.pdf</a></span>
+  <span>(76.79 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/EVS%206.0.3.0%20Test%20Plan%20Approval%2006-10-2020_0.pdf" type="application/pdf">EVS 6.0.3.0 Test Plan Approval 06-10-2020_0.pdf</a></span>
+  <span>(75.78 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Initial%20Decision%20EVS%206.1.1.0%2007-08-2020.pdf" type="application/pdf">Initial Decision EVS 6.1.1.0 07-08-2020.pdf</a></span>
+  <span>(73.15 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ESS%20EVS6110%20Test%20Report-01.pdf" type="application/pdf">ESS EVS6110 Test Report-01.pdf</a></span>
+  <span>(872.5 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ES%26S%20EVS6110%20Certificate%20and%20Scope%20of%20Conformance%2007-27-2020.pdf.pdf" type="application/pdf">ES&amp;S EVS6110 Certificate and Scope of Conformance 07-27-2020.pdf.pdf</a></span>
+  <span>(892.03 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Advisory Notice Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/1-17-23%20Monmouth%20Co%20NJ%20Election%20Results2_7.pdf" type="application/pdf">1-17-23 Monmouth Co NJ Election Results2_7.pdf</a></span>
+  <span>(91.6 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/evs-6110" data-a2a-title="EVS 6.1.1.0"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fevs-6110&amp;title=EVS%206.1.1.0"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20266" hreflang="en">EVS</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        6.1.1.0
+                  
+]]></description>
+  <pubDate>Tue, 19 May 2020 13:32:55 +0000</pubDate>
+    <dc:creator>Paul.Aumayr</dc:creator>
+    <guid isPermaLink="false">56686 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>EVS 6.0.3.0</title>
+  <link>https://www.eac.gov/voting-equipment/evs-6030</link>
+  <description><![CDATA[
+<span class="taxonomyterm20266feed">EVS 6.0.3.0</span>
+
+<span class="taxonomyterm20266feed"><a title="View user profile." href="https://www.eac.gov/user/1771" lang about="https://www.eac.gov/user/1771" typeof="Person" property="schema:name" datatype class="taxonomyterm20266feed">Paul.Aumayr</a></span>
+
+<span class="taxonomyterm20266feed">Tuesday, May 19, 2020
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/election-systems-software-inc-ess" hreflang="en">Election Systems &amp; Software, Inc (ES&amp;S)</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/pro-vv" hreflang="en">Pro V&amp;V </a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        07/27/2020
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        05/11/2020
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        05/18/2020
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ES%26S%20EVS6030%20Test%20Plan%20Rev%2001.pdf" type="application/pdf">ES&amp;S EVS6030 Test Plan Rev 01.pdf</a></span>
+  <span>(894.4 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Application%20Approval%20Letter%20ESSEVS6030%2005-18-2020.pdf" type="application/pdf">Application Approval Letter ESSEVS6030 05-18-2020.pdf</a></span>
+  <span>(76.81 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/EVS%206.0.3.0%20Test%20Plan%20Approval%2006-10-2020.pdf" type="application/pdf">EVS 6.0.3.0 Test Plan Approval 06-10-2020.pdf</a></span>
+  <span>(75.78 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Initial%20Decision%20EVS%206.0.3.0%2007-8-2020.pdf" type="application/pdf">Initial Decision EVS 6.0.3.0 07-8-2020.pdf</a></span>
+  <span>(73.13 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ESS%20EVS6030%20Test%20Report-00.pdf" type="application/pdf">ESS EVS6030 Test Report-00.pdf</a></span>
+  <span>(871.93 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ES%26S%20EVS6030%20Certificate%20and%20Scope%20of%20Conformance%2007-27-2020.pdf" type="application/pdf">ES&amp;S EVS6030 Certificate and Scope of Conformance 07-27-2020.pdf</a></span>
+  <span>(901.81 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Advisory Notice Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/1-17-23%20Monmouth%20Co%20NJ%20Election%20Results2_2.pdf" type="application/pdf">1-17-23 Monmouth Co NJ Election Results2_2.pdf</a></span>
+  <span>(91.6 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/evs-6030" data-a2a-title="EVS 6.0.3.0"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fevs-6030&amp;title=EVS%206.0.3.0"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20266" hreflang="en">EVS</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        6.0.3.0
+                  
+]]></description>
+  <pubDate>Tue, 19 May 2020 13:25:38 +0000</pubDate>
+    <dc:creator>Paul.Aumayr</dc:creator>
+    <guid isPermaLink="false">56681 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>EVS 6.0.4.3</title>
+  <link>https://www.eac.gov/voting-equipment/evs-6043</link>
+  <description><![CDATA[
+<span class="taxonomyterm20266feed">EVS 6.0.4.3</span>
+
+<span class="taxonomyterm20266feed"><a title="View user profile." href="https://www.eac.gov/user/1771" lang about="https://www.eac.gov/user/1771" typeof="Person" property="schema:name" datatype class="taxonomyterm20266feed">Paul.Aumayr</a></span>
+
+<span class="taxonomyterm20266feed">Thursday, February 6, 2020
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/election-systems-software-inc-ess" hreflang="en">Election Systems &amp; Software, Inc (ES&amp;S)</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/pro-vv" hreflang="en">Pro V&amp;V </a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        03/11/2020
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        01/03/2020
+                  
+
+
+  
+      <h5>Testing Status</h5>
+                        Certified
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        01/09/2020
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ES%26S%20EVS6043%20Test%20Plan-01_0.pdf" type="application/pdf">ES&amp;S EVS6043 Test Plan-01_0.pdf</a></span>
+  <span>(920.54 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/EVS%206.0.4.3%20Application.pdf" type="application/pdf">EVS 6.0.4.3 Application.pdf</a></span>
+  <span>(396.41 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ES%26S%20EVS%206043%20Application%20Approval%20Letter.pdf" type="application/pdf">ES&amp;S EVS 6043 Application Approval Letter.pdf</a></span>
+  <span>(67.67 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/EVS%206.0.4.3%20Test%20Plan%20Approval.pdf" type="application/pdf">EVS 6.0.4.3 Test Plan Approval.pdf</a></span>
+  <span>(67.6 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ES%26S%20EVS6043%20Test%20Report-01.pdf" type="application/pdf">ES&amp;S EVS6043 Test Report-01.pdf</a></span>
+  <span>(703.93 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ESS_EVS6043_Certificate%20of%20Conformance%20and%20Scope%2003112020.pdf" type="application/pdf">ESS_EVS6043_Certificate of Conformance and Scope 03112020.pdf</a></span>
+  <span>(1.18 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Advisory Notice Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/1-17-23%20Monmouth%20Co%20NJ%20Election%20Results2_4.pdf" type="application/pdf">1-17-23 Monmouth Co NJ Election Results2_4.pdf</a></span>
+  <span>(91.6 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/evs-6043" data-a2a-title="EVS 6.0.4.3"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fevs-6043&amp;title=EVS%206.0.4.3"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20266" hreflang="en">EVS</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        6.0.4.3
+                  
+]]></description>
+  <pubDate>Thu, 06 Feb 2020 14:40:54 +0000</pubDate>
+    <dc:creator>Paul.Aumayr</dc:creator>
+    <guid isPermaLink="false">56671 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>EVS 6.1.0.0</title>
+  <link>https://www.eac.gov/voting-equipment/evs-6100</link>
+  <description><![CDATA[
+<span class="taxonomyterm20266feed">EVS 6.1.0.0</span>
+
+<span class="taxonomyterm20266feed"><span lang typeof="Person" property="schema:name" datatype class="taxonomyterm20266feed">Anonymous (not verified)</span></span>
+
+<span class="taxonomyterm20266feed">Tuesday, September 24, 2019
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/election-systems-software-inc-ess" hreflang="en">Election Systems &amp; Software, Inc (ES&amp;S)</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/pro-vv" hreflang="en">Pro V&amp;V </a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        09/24/2019
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        05/08/2019
+                  
+
+
+  
+      <h5>Testing Status</h5>
+                        Certified
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        05/14/2019
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ES_S_EVS6100_Test_Plan_-_01.pdf" type="application/pdf">ES_S_EVS6100_Test_Plan_-_01.pdf</a></span>
+  <span>(776.74 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ES_S_EVS6100_Test_Plan_Rev_04.pdf" type="application/pdf">ES_S_EVS6100_Test_Plan_Rev_04.pdf</a></span>
+  <span>(1.16 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Application.Approval.Letter3_0.pdf" type="application/pdf">Application.Approval.Letter3_0.pdf</a></span>
+  <span>(228.07 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/EVS_6.1.0.0_Test_Plan_Approval_Memo_0.pdf" type="application/pdf">EVS_6.1.0.0_Test_Plan_Approval_Memo_0.pdf</a></span>
+  <span>(66.63 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ESS_EVS6100_Test_Report_Rev_02.pdf" type="application/pdf">ESS_EVS6100_Test_Report_Rev_02.pdf</a></span>
+  <span>(1.16 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/EVS6100Cert_Scope_%2528FINAL%2529.pdf" type="application/pdf">EVS6100Cert_Scope_%28FINAL%29.pdf</a></span>
+  <span>(1.49 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Final_Decision_EVS_6.1.0.0_9-24-2019.pdf" type="application/pdf">Final_Decision_EVS_6.1.0.0_9-24-2019.pdf</a></span>
+  <span>(63.17 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Initial_Decision_EVS_6.1.0.0_9-11-2019.pdf" type="application/pdf">Initial_Decision_EVS_6.1.0.0_9-11-2019.pdf</a></span>
+  <span>(62.31 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Advisory Notice Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/1-17-23%20Monmouth%20Co%20NJ%20Election%20Results2_6.pdf" type="application/pdf">1-17-23 Monmouth Co NJ Election Results2_6.pdf</a></span>
+  <span>(91.6 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/evs-6100" data-a2a-title="EVS 6.1.0.0"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fevs-6100&amp;title=EVS%206.1.0.0"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20266" hreflang="en">EVS</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        6.1.0.0
+                  
+]]></description>
+  <pubDate>Tue, 24 Sep 2019 13:18:28 +0000</pubDate>
+    <dc:creator>Anonymous</dc:creator>
+    <guid isPermaLink="false">56646 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>EVS 6.0.4.0</title>
+  <link>https://www.eac.gov/voting-equipment/evs-6040</link>
+  <description><![CDATA[
+<span class="taxonomyterm20266feed">EVS 6.0.4.0</span>
+
+<span class="taxonomyterm20266feed"><span lang typeof="Person" property="schema:name" datatype class="taxonomyterm20266feed">Anonymous (not verified)</span></span>
+
+<span class="taxonomyterm20266feed">Tuesday, September 24, 2019
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/election-systems-software-inc-ess" hreflang="en">Election Systems &amp; Software, Inc (ES&amp;S)</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/sli-compliance-division-gaming-laboratories" hreflang="en">SLI Compliance, a Division of Gaming Laboratories International, LLC</a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        05/03/2019
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        10/15/2018
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        10/15/2018
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_G_-_ESS_EVS6040_As_Run_Test_Plan.pdf" type="application/pdf">Attachment_G_-_ESS_EVS6040_As_Run_Test_Plan.pdf</a></span>
+  <span>(1.06 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ESS_EVS_6040_EAC_Certification_Test_Report_v1.1.pdf" type="application/pdf">ESS_EVS_6040_EAC_Certification_Test_Report_v1.1.pdf</a></span>
+  <span>(1.03 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/ESS_EVS6040_EAC_Certification_Test_Plan_v2.2.pdf" type="application/pdf">ESS_EVS6040_EAC_Certification_Test_Plan_v2.2.pdf</a></span>
+  <span>(1.11 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Application.Approval.Letter3.pdf" type="application/pdf">Application.Approval.Letter3.pdf</a></span>
+  <span>(70.83 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/EVS6040_Test-Plan_Approval_0.pdf" type="application/pdf">EVS6040_Test-Plan_Approval_0.pdf</a></span>
+  <span>(69.96 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Dec.Auth.Init.Dec.6040%28FINAL%29.pdf" type="application/pdf">Dec.Auth.Init.Dec.6040(FINAL).pdf</a></span>
+  <span>(63 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Decision.Authority.Grant.of.Cert.6040%28FINAL%29.pdf" type="application/pdf">Decision.Authority.Grant.of.Cert.6040(FINAL).pdf</a></span>
+  <span>(67.31 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266feed"><a href="https://www.eac.gov/sites/default/files/voting_system/files/EVS6040_Cert_Scope%28FINAL%29.pdf" type="application/pdf">EVS6040_Cert_Scope(FINAL).pdf</a></span>
+  <span>(1.75 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Advisory Notice Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20266"><a href="https://www.eac.gov/sites/default/files/voting_system/files/1-17-23%20Monmouth%20Co%20NJ%20Election%20Results2_3.pdf" type="application/pdf">1-17-23 Monmouth Co NJ Election Results2_3.pdf</a></span>
+  <span>(91.6 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/evs-6040" data-a2a-title="EVS 6.0.4.0"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fevs-6040&amp;title=EVS%206.0.4.0"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20266" hreflang="en">EVS</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        6.0.4.0
+                  
+]]></description>
+  <pubDate>Tue, 24 Sep 2019 13:18:28 +0000</pubDate>
+    <dc:creator>Anonymous</dc:creator>
+    <guid isPermaLink="false">56606 at https://www.eac.gov</guid>
+    </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,2956 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.eac.gov/">
+  <channel>
+    <title>Verity</title>
+    <link>https://www.eac.gov/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Verity Voting 2.7</title>
+  <link>https://www.eac.gov/voting-equipment/verity-voting-27</link>
+  <description><![CDATA[
+<span class="taxonomyterm20276feed">Verity Voting 2.7</span>
+
+<span class="taxonomyterm20276feed"><span lang about="https://www.eac.gov/user/1786" typeof="Person" property="schema:name" datatype class="taxonomyterm20276feed">Eugene.Burton</span></span>
+
+<span class="taxonomyterm20276feed">Tuesday, February 1, 2022
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/hart-intercivic-inc" hreflang="en">Hart InterCivic, Inc.</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/sli-compliance-division-gaming-laboratories" hreflang="en">SLI Compliance, a Division of Gaming Laboratories International, LLC</a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        06/07/2022
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        12/14/2021
+                  
+
+
+  
+      <h5>Testing Status</h5>
+                        Certified
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        02/02/2022
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart%20Verity%202.7%20EAC%20Electrical%20Hardware%20Test%20Plan%20v3.0.pdf" type="application/pdf">Hart Verity 2.7 EAC Electrical Hardware Test Plan v3.0.pdf</a></span>
+  <span>(819.61 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-27"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart%20Verity%202.7%20EAC%20Environmental%20Hardware%20Test%20Plan%20v2.0.pdf" type="application/pdf">Hart Verity 2.7 EAC Environmental Hardware Test Plan v2.0.pdf</a></span>
+  <span>(738.71 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-27"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart%20Verity%202.7%20EAC%20Temp%20and%20Power%20Var%20Test%20Plan%20v1.0.pdf" type="application/pdf">Hart Verity 2.7 EAC Temp and Power Var Test Plan v1.0.pdf</a></span>
+  <span>(623.81 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-27"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart%20Verity%20Voting%202.7%20Modification%20Test%20Plan%20v4.0.pdf" type="application/pdf">Hart Verity Voting 2.7 Modification Test Plan v4.0.pdf</a></span>
+  <span>(470.53 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Application%20Approval%20Letter%20HRT-Verity-2.7%202-2-2022.pdf" type="application/pdf">Application Approval Letter HRT-Verity-2.7 2-2-2022.pdf</a></span>
+  <span>(158.49 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-27"><a href="https://www.eac.gov/sites/default/files/voting_system/files/HRT-Verity-2.7%20Test%20Plan%20Approval%20Letter.pdf" type="application/pdf">HRT-Verity-2.7 Test Plan Approval Letter.pdf</a></span>
+  <span>(208.39 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-27"><a href="https://www.eac.gov/sites/default/files/2024-08/Hart%20Intercivic%20Verity%20Voting%202.7%20EAC%20Certification%20Test%20Report%20v4.0.pdf" type="application/pdf">Hart Intercivic Verity Voting 2.7 EAC Certification Test Report v4.0.pdf</a></span>
+  <span>(497.56 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-27"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20A%20-%20Warrant%20of%20Change%20Control%20for%20Verity%20Voting%202.7.pdf" type="application/pdf">Attachment A - Warrant of Change Control for Verity Voting 2.7.pdf</a></span>
+  <span>(154.82 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20B%20-%20Attestation%20of%20Durabilty%20for%20Verity%20Voting%202.7.pdf" type="application/pdf">Attachment B - Attestation of Durabilty for Verity Voting 2.7.pdf</a></span>
+  <span>(160.09 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-27"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20C%20-%20Attestation%20of%20Integrity%20for%20Verity%20Voting%202.7.pdf" type="application/pdf">Attachment C - Attestation of Integrity for Verity Voting 2.7.pdf</a></span>
+  <span>(179.55 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20D%20-%20Attestation%20of%20Production%20Hardware%20and%20Software%20for%20Verity%20Voting%202.7.pdf" type="application/pdf">Attachment D - Attestation of Production Hardware and Software for Verity Voting 2.7.pdf</a></span>
+  <span>(193.56 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20E%20-%20Trusted%20Build%20Record%20for%20Verity%20Voting%202.7.1_0.pdf" type="application/pdf">Attachment E - Trusted Build Record for Verity Voting 2.7.1_0.pdf</a></span>
+  <span>(384.71 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20F%20-%20Verity%202.7%20Source%20Code%20Review%20Summary_0.pdf" type="application/pdf">Attachment F - Verity 2.7 Source Code Review Summary_0.pdf</a></span>
+  <span>(34.11 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/2024-08/Attachment%20G%20-%20Hart%20Verity%20Voting%202.7%20Modification%20Test%20Plan%20v4.0%20ASRUN.pdf" type="application/pdf">Attachment G - Hart Verity Voting 2.7 Modification Test Plan v4.0 ASRUN.pdf</a></span>
+  <span>(453.01 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20H%20-%20Hart%20Verity%202.7%20EAC%20Electrical%20Hardware%20Test%20Plan%20v4.0_Track%20Changes_0.pdf" type="application/pdf">Attachment H - Hart Verity 2.7 EAC Electrical Hardware Test Plan v4.0_Track Changes_0.pdf</a></span>
+  <span>(817.83 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20I%20-%20Hart%20Verity%202.7%20EAC%20Environmental%20Hardware%20Test%20Plan%20v2.0_Track%20Changes_0.pdf" type="application/pdf">Attachment I - Hart Verity 2.7 EAC Environmental Hardware Test Plan v2.0_Track Changes_0.pdf</a></span>
+  <span>(738.71 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-27"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20J%20-%20Hart%20Verity%202.7%20EAC%20Temp%20and%20Power%20Var%20Test%20Plan%20v2.0_Track%20Change_0.pdf" type="application/pdf">Attachment J - Hart Verity 2.7 EAC Temp and Power Var Test Plan v2.0_Track Change_0.pdf</a></span>
+  <span>(750.48 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/2024-08/Attachment%20K1%20-%20Verity%202.7%20Controller_Touch%20Writer%20Duo_ETR-PR154302-REV0%20SLI%20Compliance.pdf" type="application/pdf">Attachment K1 - Verity 2.7 Controller_Touch Writer Duo_ETR-PR154302-REV0 SLI Compliance.pdf</a></span>
+  <span>(3.25 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/2024-08/Attachment%20K2%20-%20Verity%202.7%20Controller_Touch%20Writer%20Duo_ITR-PR154302-REV1%20SLI%20Compliance.pdf" type="application/pdf">Attachment K2 - Verity 2.7 Controller_Touch Writer Duo_ITR-PR154302-REV1 SLI Compliance.pdf</a></span>
+  <span>(10.16 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/2024-08/Attachment%20K3%20-%20Verity%202.7%20Scan_ETR-PR154263-REV2%20SLI%20Compliance.pdf" type="application/pdf">Attachment K3 - Verity 2.7 Scan_ETR-PR154263-REV2 SLI Compliance.pdf</a></span>
+  <span>(5.99 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/2024-08/Attachment%20K4%20-%20Verity%202.7%20Scan_ITR-PR154263-REV1%20SLI%20Compliance.pdf" type="application/pdf">Attachment K4 - Verity 2.7 Scan_ITR-PR154263-REV1 SLI Compliance.pdf</a></span>
+  <span>(6.56 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-27"><a href="https://www.eac.gov/sites/default/files/2024-08/Attachment%20K5%20-%20Verity%202.7%20Touch%20Writer%20with%20Brother%20Printer_ETR-PR154296-REV2%20SLI%20Compliance.pdf" type="application/pdf">Attachment K5 - Verity 2.7 Touch Writer with Brother Printer_ETR-PR154296-REV2 SLI Compliance.pdf</a></span>
+  <span>(4.01 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/2024-08/Attachment%20K6%20-%20Verity%202.7%20Touch%20Writer%20with%20Brother%20Printer_ITR-PR154296-REV1%20SLI%20Compliance.pdf" type="application/pdf">Attachment K6 - Verity 2.7 Touch Writer with Brother Printer_ITR-PR154296-REV1 SLI Compliance.pdf</a></span>
+  <span>(5.51 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-27"><a href="https://www.eac.gov/sites/default/files/2024-08/Attachment%20L%20-%20Verity%202.7_Environmental%20and%20TempPower_TR-PR154625-REV3%20SLI%20Compliance.pdf" type="application/pdf">Attachment L - Verity 2.7_Environmental and TempPower_TR-PR154625-REV3 SLI Compliance.pdf</a></span>
+  <span>(5.19 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/2024-08/Attachment%20M%20%E2%80%93%20Verity%20Voting%202.7%20Discrepancy%20Report.pdf" type="application/pdf">Attachment M – Verity Voting 2.7 Discrepancy Report.pdf</a></span>
+  <span>(95.95 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Cert.%20and%20Scope%20of%20Conformance%20Verity%20Voting%202.7%20FINAL.pdf" type="application/pdf">Cert. and Scope of Conformance Verity Voting 2.7 FINAL.pdf</a></span>
+  <span>(1.18 MB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/verity-voting-27" data-a2a-title="Verity Voting 2.7"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fverity-voting-27&amp;title=Verity%20Voting%202.7"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20276" hreflang="en">Verity</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        2.7
+                  
+]]></description>
+  <pubDate>Tue, 01 Feb 2022 16:07:59 +0000</pubDate>
+    <dc:creator>Eugene.Burton</dc:creator>
+    <guid isPermaLink="false">56726 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>Verity Voting 2.6</title>
+  <link>https://www.eac.gov/voting-equipment/verity-voting-26</link>
+  <description><![CDATA[
+<span class="taxonomyterm20276feed">Verity Voting 2.6</span>
+
+<span class="taxonomyterm20276feed"><a title="View user profile." href="https://www.eac.gov/user/1771" lang about="https://www.eac.gov/user/1771" typeof="Person" property="schema:name" datatype class="taxonomyterm20276feed">Paul.Aumayr</a></span>
+
+<span class="taxonomyterm20276feed">Friday, January 8, 2021
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/hart-intercivic-inc" hreflang="en">Hart InterCivic, Inc.</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/sli-compliance-division-gaming-laboratories" hreflang="en">SLI Compliance, a Division of Gaming Laboratories International, LLC</a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        04/20/2021
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        12/14/2020
+                  
+
+
+  
+      <h5>Testing Status</h5>
+                        Certified
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        01/07/2021
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart%20Verity%20Voting%202.6%20Modification%20Test%20Plan%20v1.1.pdf" type="application/pdf">Hart Verity Voting 2.6 Modification Test Plan v1.1.pdf</a></span>
+  <span>(556.35 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Application%20Approval%20Letter%20HRT-Verity-2.6%2001-07-2021.pdf" type="application/pdf">Application Approval Letter HRT-Verity-2.6 01-07-2021.pdf</a></span>
+  <span>(75.95 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Verity%20Voting%202.6%20Test%20Plan%20Approval%2003-05-2021.pdf" type="application/pdf">Verity Voting 2.6 Test Plan Approval 03-05-2021.pdf</a></span>
+  <span>(159.52 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart%20Intercivic%20Verity%20Voting%202.6%20EAC%20Certification%20Test%20Report%20v1.1.pdf" type="application/pdf">Hart Intercivic Verity Voting 2.6 EAC Certification Test Report v1.1.pdf</a></span>
+  <span>(524.3 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20A%20-%20Warrant%20of%20Change%20Control_0.pdf" type="application/pdf">Attachment A - Warrant of Change Control_0.pdf</a></span>
+  <span>(143.73 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20B%20-%20Attestation%20of%20Durabilty%20for%20Verity%20Voting_0.pdf" type="application/pdf">Attachment B - Attestation of Durabilty for Verity Voting_0.pdf</a></span>
+  <span>(147.86 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-26"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20C%20-%20Attestation%20of%20Integrity%20for%20Verity%20Voting_0.pdf" type="application/pdf">Attachment C - Attestation of Integrity for Verity Voting_0.pdf</a></span>
+  <span>(167.8 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-26"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20D%20-%20Attestation%20of%20Production%20Hardware%20and%20Software%20for%20Verity%20Voting_0.pdf" type="application/pdf">Attachment D - Attestation of Production Hardware and Software for Verity Voting_0.pdf</a></span>
+  <span>(185.13 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-26"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20E%20-%20Record%20of%20Verity%202.6%20Trusted%20Build.pdf" type="application/pdf">Attachment E - Record of Verity 2.6 Trusted Build.pdf</a></span>
+  <span>(95.84 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-26"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20F%20-%20Final_TDP_Document_List_Verity%202.6.pdf" type="application/pdf">Attachment F - Final_TDP_Document_List_Verity 2.6.pdf</a></span>
+  <span>(141.6 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20G%20-%20Verity%20Voting%202.6%20Discrepancy%20Report.pdf" type="application/pdf">Attachment G - Verity Voting 2.6 Discrepancy Report.pdf</a></span>
+  <span>(106.52 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-26"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20H%20-%20Verity%202.6%20Source%20Code%20Review%20Summary.pdf" type="application/pdf">Attachment H - Verity 2.6 Source Code Review Summary.pdf</a></span>
+  <span>(90.21 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20I%20-%20Hart%20Verity%20Voting%202.6%20Modification%20Test%20Plan%20v1.2.pdf" type="application/pdf">Attachment I - Hart Verity Voting 2.6 Modification Test Plan v1.2.pdf</a></span>
+  <span>(520.93 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Cert.%20and%20Scope%20of%20Conformance%20Verity%20Voting%202.6%20SIGNED.pdf" type="application/pdf">Cert. and Scope of Conformance Verity Voting 2.6 SIGNED.pdf</a></span>
+  <span>(737.92 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/verity-voting-26" data-a2a-title="Verity Voting 2.6"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fverity-voting-26&amp;title=Verity%20Voting%202.6"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20276" hreflang="en">Verity</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        2.6
+                  
+]]></description>
+  <pubDate>Fri, 08 Jan 2021 19:45:40 +0000</pubDate>
+    <dc:creator>Paul.Aumayr</dc:creator>
+    <guid isPermaLink="false">56706 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>Verity Voting 2.5</title>
+  <link>https://www.eac.gov/voting-equipment/verity-voting-25</link>
+  <description><![CDATA[
+<span class="taxonomyterm20276feed">Verity Voting 2.5</span>
+
+<span class="taxonomyterm20276feed"><a title="View user profile." href="https://www.eac.gov/user/1771" lang about="https://www.eac.gov/user/1771" typeof="Person" property="schema:name" datatype class="taxonomyterm20276feed">Paul.Aumayr</a></span>
+
+<span class="taxonomyterm20276feed">Friday, July 17, 2020
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/hart-intercivic-inc" hreflang="en">Hart InterCivic, Inc.</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/sli-compliance-division-gaming-laboratories" hreflang="en">SLI Compliance, a Division of Gaming Laboratories International, LLC</a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        09/09/2020
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        05/11/2020
+                  
+
+
+  
+      <h5>Testing Status</h5>
+                        Certified
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        06/23/2020
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-25"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart%20Verity%20Voting%202.5%20Modification%20Test%20Plan%20v1.0.pdf" type="application/pdf">Hart Verity Voting 2.5 Modification Test Plan v1.0.pdf</a></span>
+  <span>(587.01 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-25"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Application%20Approval%20Letter%20HRT-Verity-2.5%2006-23-2020.pdf" type="application/pdf">Application Approval Letter HRT-Verity-2.5 06-23-2020.pdf</a></span>
+  <span>(72.5 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Verity%20Voting%202.5%20Test%20Plan%20Approval%2007-10-2020.pdf" type="application/pdf">Verity Voting 2.5 Test Plan Approval 07-10-2020.pdf</a></span>
+  <span>(75.83 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Initial%20Decision%20Verity%20Voting%202.5%2008-28-2020.pdf" type="application/pdf">Initial Decision Verity Voting 2.5 08-28-2020.pdf</a></span>
+  <span>(73.15 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart%20Intercivic%20Verity%20Voting%202.5%20EAC%20Certification%20Test%20Report%20v1.0.pdf" type="application/pdf">Hart Intercivic Verity Voting 2.5 EAC Certification Test Report v1.0.pdf</a></span>
+  <span>(582.51 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/HRT-VERITY-2.5%20Certificate%20and%20Scope%2009-09-20_1.pdf" type="application/pdf">HRT-VERITY-2.5 Certificate and Scope 09-09-20_1.pdf</a></span>
+  <span>(703.03 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/verity-voting-25" data-a2a-title="Verity Voting 2.5"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fverity-voting-25&amp;title=Verity%20Voting%202.5"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20276" hreflang="en">Verity</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        2.5
+                  
+]]></description>
+  <pubDate>Fri, 17 Jul 2020 15:20:43 +0000</pubDate>
+    <dc:creator>Paul.Aumayr</dc:creator>
+    <guid isPermaLink="false">56691 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>Verity Voting 2.4</title>
+  <link>https://www.eac.gov/voting-equipment/verity-voting-24</link>
+  <description><![CDATA[
+<span class="taxonomyterm20276feed">Verity Voting 2.4</span>
+
+<span class="taxonomyterm20276feed"><span lang typeof="Person" property="schema:name" datatype class="taxonomyterm20276feed">Anonymous (not verified)</span></span>
+
+<span class="taxonomyterm20276feed">Tuesday, September 24, 2019
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/hart-intercivic-inc" hreflang="en">Hart InterCivic, Inc.</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/sli-compliance-division-gaming-laboratories" hreflang="en">SLI Compliance, a Division of Gaming Laboratories International, LLC</a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        02/21/2020
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        08/12/2019
+                  
+
+
+  
+      <h5>Testing Status</h5>
+                        Certified
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        08/15/2019
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart%20Verity%20Voting%202.4%20Modification%20Test%20Plan%20v1.0.pdf" type="application/pdf">Hart Verity Voting 2.4 Modification Test Plan v1.0.pdf</a></span>
+  <span>(516.77 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20A%20-%20Hart%20Verity%20Voting%202.4%20Electrical%20Hardware%20Test%20Plan%20v1.0.pdf" type="application/pdf">Attachment A - Hart Verity Voting 2.4 Electrical Hardware Test Plan v1.0.pdf</a></span>
+  <span>(401.61 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20B%20-%20Hart%20Verity%20Voting%202.4%20Environmental%20Hardware%20Test%20Plan%20v1.0.pdf" type="application/pdf">Attachment B - Hart Verity Voting 2.4 Environmental Hardware Test Plan v1.0.pdf</a></span>
+  <span>(354.92 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20F1%20-%20Hart%20Verity%20Voting%202.4%20Modification%20Test%20Plan%20As%20Run%20v1.2.pdf" type="application/pdf">Attachment F1 - Hart Verity Voting 2.4 Modification Test Plan As Run v1.2.pdf</a></span>
+  <span>(573.01 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-24"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20F2%20-%20Hart%20Verity%202.4%20EAC%20Electrical%20Hardware%20Test%20Plan%20v1.1.pdf" type="application/pdf">Attachment F2 - Hart Verity 2.4 EAC Electrical Hardware Test Plan v1.1.pdf</a></span>
+  <span>(305.99 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-24"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20F3%20-%20Hart%20Verity%202.4%20EAC%20Temp%20Power%20Var.%20Hardware%20Test%20Plan%20v1.2.pdf" type="application/pdf">Attachment F3 - Hart Verity 2.4 EAC Temp Power Var. Hardware Test Plan v1.2.pdf</a></span>
+  <span>(242.73 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/HRT-Verity-2.4_Application_Approval_Letter.pdf" type="application/pdf">HRT-Verity-2.4_Application_Approval_Letter.pdf</a></span>
+  <span>(321.41 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Verity%20Voting%202.4%20Test%20Plan%20Approval%20Memo.pdf" type="application/pdf">Verity Voting 2.4 Test Plan Approval Memo.pdf</a></span>
+  <span>(67.62 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart%20Intercivic%20Verity%20Voting%202.4%20EAC%20Certification%20Test%20Report%20v1.1.pdf" type="application/pdf">Hart Intercivic Verity Voting 2.4 EAC Certification Test Report v1.1.pdf</a></span>
+  <span>(554.2 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-24"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20A%20-%20Warrant%20of%20Change%20Control.pdf" type="application/pdf">Attachment A - Warrant of Change Control.pdf</a></span>
+  <span>(161.66 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20B%20-%20Attestation%20of%20Durabilty%20for%20Verity%20Voting.pdf" type="application/pdf">Attachment B - Attestation of Durabilty for Verity Voting.pdf</a></span>
+  <span>(149.9 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20C%20-%20Attestation%20of%20Integrity%20for%20Verity%20Voting.pdf" type="application/pdf">Attachment C - Attestation of Integrity for Verity Voting.pdf</a></span>
+  <span>(169.91 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-24"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20D%20-%20Attestation%20of%20Production%20Hardware%20and%20Software%20for%20Verity%20Voting.pdf" type="application/pdf">Attachment D - Attestation of Production Hardware and Software for Verity Voting.pdf</a></span>
+  <span>(187.37 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20E%20-%20Verity%202.4.2%20Record%20of%20Trusted%20Build.pdf" type="application/pdf">Attachment E - Verity 2.4.2 Record of Trusted Build.pdf</a></span>
+  <span>(162.58 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-24"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20G%20-%20Verity%20Voting%202.4%20Discrepancy%20Report.pdf" type="application/pdf">Attachment G - Verity Voting 2.4 Discrepancy Report.pdf</a></span>
+  <span>(108.37 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20H1%20%E2%80%93%20Immunity%20Test%20Report%20for%20Verity%20Touch%20%26%20Touch%20with%20Access.pdf" type="application/pdf">Attachment H1 – Immunity Test Report for Verity Touch &amp; Touch with Access.pdf</a></span>
+  <span>(7.51 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-24"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20H3%20%E2%80%93%20Immunity%20Test%20Report%20for%20Verity%20Touch%20Writer.pdf" type="application/pdf">Attachment H3 – Immunity Test Report for Verity Touch Writer.pdf</a></span>
+  <span>(4.39 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment%20H5%20%E2%80%93%20Environmental%20Hardware%20Test%20Report%20for%20Verity%20Central.pdf" type="application/pdf">Attachment H5 – Environmental Hardware Test Report for Verity Central.pdf</a></span>
+  <span>(1.09 MB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-24"><a href="https://www.eac.gov/sites/default/files/voting_system/files/HRT-VERITY-2.4%20Certificate%20and%20Scope%2002-21-2020.pdf" type="application/pdf">HRT-VERITY-2.4 Certificate and Scope 02-21-2020.pdf</a></span>
+  <span>(1.09 MB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/verity-voting-24" data-a2a-title="Verity Voting 2.4"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fverity-voting-24&amp;title=Verity%20Voting%202.4"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20276" hreflang="en">Verity</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        2.4
+                  
+]]></description>
+  <pubDate>Tue, 24 Sep 2019 13:18:28 +0000</pubDate>
+    <dc:creator>Anonymous</dc:creator>
+    <guid isPermaLink="false">56656 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>Verity Voting 2.3.4</title>
+  <link>https://www.eac.gov/voting-equipment/verity-voting-234</link>
+  <description><![CDATA[
+<span class="taxonomyterm20276feed">Verity Voting 2.3.4</span>
+
+<span class="taxonomyterm20276feed"><span lang typeof="Person" property="schema:name" datatype class="taxonomyterm20276feed">Anonymous (not verified)</span></span>
+
+<span class="taxonomyterm20276feed">Tuesday, September 24, 2019
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/hart-intercivic-inc" hreflang="en">Hart InterCivic, Inc.</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/sli-compliance-division-gaming-laboratories" hreflang="en">SLI Compliance, a Division of Gaming Laboratories International, LLC</a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        05/29/2019
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        04/29/2019
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        05/07/2019
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-234"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_A_-_Warrant_of_Change_Control_for_Verity_Voting_2.3.4.pdf" type="application/pdf">Attachment_A_-_Warrant_of_Change_Control_for_Verity_Voting_2.3.4.pdf</a></span>
+  <span>(142.15 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_B_-_Attestation_of_Durability_for_Verity_Voting_2.3.4.pdf" type="application/pdf">Attachment_B_-_Attestation_of_Durability_for_Verity_Voting_2.3.4.pdf</a></span>
+  <span>(145.17 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-234"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_C_-_Attestation_of_Integrity_for_Verity_Voting_2.3.4.pdf" type="application/pdf">Attachment_C_-_Attestation_of_Integrity_for_Verity_Voting_2.3.4.pdf</a></span>
+  <span>(165.22 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-234"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_D_-_Attestation_of_Production_Hardware_and_Software_for_Verity_Voting_2.3.4.pdf" type="application/pdf">Attachment_D_-_Attestation_of_Production_Hardware_and_Software_for_Verity_Voting_2.3.4.pdf</a></span>
+  <span>(183.05 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-234"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_E_-_Record_of_Trusted_Build_for_Verity_Voting_2.3.4.pdf" type="application/pdf">Attachment_E_-_Record_of_Trusted_Build_for_Verity_Voting_2.3.4.pdf</a></span>
+  <span>(177.14 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-234"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_F_-_Modification_of_Certified_System_Analysis_Summary_Verity_2.3.4.pdf" type="application/pdf">Attachment_F_-_Modification_of_Certified_System_Analysis_Summary_Verity_2.3.4.pdf</a></span>
+  <span>(85.06 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart_Verity_Voting_2.3.4_Test_Plan_Approval_5.13.19.pdf" type="application/pdf">Hart_Verity_Voting_2.3.4_Test_Plan_Approval_5.13.19.pdf</a></span>
+  <span>(136.98 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/HRT-Verity-2.3.4_Application_Approval_Letter_5.7.19%28FINAL%291.pdf" type="application/pdf">HRT-Verity-2.3.4_Application_Approval_Letter_5.7.19(FINAL)1.pdf</a></span>
+  <span>(145.2 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-234"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_G_-_As_Run_Hart_Verity_2.3.4_EAC_Modification_Test_Plan_v1.0.pdf" type="application/pdf">Attachment_G_-_As_Run_Hart_Verity_2.3.4_EAC_Modification_Test_Plan_v1.0.pdf</a></span>
+  <span>(936 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-234"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart_Verity_Voting_2.3.4_Certification_Modification_Test_Report_v1.01.pdf" type="application/pdf">Hart_Verity_Voting_2.3.4_Certification_Modification_Test_Report_v1.01.pdf</a></span>
+  <span>(435.66 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-234"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Cert._of_Conformance_and_Scope_of_Cert._5.29.19.pdf" type="application/pdf">Cert._of_Conformance_and_Scope_of_Cert._5.29.19.pdf</a></span>
+  <span>(1.6 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-234"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Final_Decision_Verity_Voting_2.3.4_5.29.2019.pdf" type="application/pdf">Final_Decision_Verity_Voting_2.3.4_5.29.2019.pdf</a></span>
+  <span>(125.84 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-234"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Initial_Decision_Verity_Voting_2.3.4_5.22.19.pdf" type="application/pdf">Initial_Decision_Verity_Voting_2.3.4_5.22.19.pdf</a></span>
+  <span>(141.33 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/verity-voting-234" data-a2a-title="Verity Voting 2.3.4"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fverity-voting-234&amp;title=Verity%20Voting%202.3.4"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20276" hreflang="en">Verity</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        2.3.4
+                  
+]]></description>
+  <pubDate>Tue, 24 Sep 2019 13:18:28 +0000</pubDate>
+    <dc:creator>Anonymous</dc:creator>
+    <guid isPermaLink="false">56641 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>Verity Voting 2.3.3</title>
+  <link>https://www.eac.gov/voting-equipment/verity-voting-233</link>
+  <description><![CDATA[
+<span class="taxonomyterm20276feed">Verity Voting 2.3.3</span>
+
+<span class="taxonomyterm20276feed"><span lang typeof="Person" property="schema:name" datatype class="taxonomyterm20276feed">Anonymous (not verified)</span></span>
+
+<span class="taxonomyterm20276feed">Tuesday, September 24, 2019
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/hart-intercivic-inc" hreflang="en">Hart InterCivic, Inc.</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/sli-compliance-division-gaming-laboratories" hreflang="en">SLI Compliance, a Division of Gaming Laboratories International, LLC</a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        05/03/2019
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        03/15/2019
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        03/19/2019
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_A_-_Warrant_of_Change_Control_for_Verity_Voting_2.3.3.pdf" type="application/pdf">Attachment_A_-_Warrant_of_Change_Control_for_Verity_Voting_2.3.3.pdf</a></span>
+  <span>(141.99 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_B_-__Attestation_of_Durabilty_for_Verity_Voting_2.3.3.pdf" type="application/pdf">Attachment_B_-__Attestation_of_Durabilty_for_Verity_Voting_2.3.3.pdf</a></span>
+  <span>(145.3 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_C_-_Attestation_of_Integrity_for_Verity_Voting_2.3.3.pdf" type="application/pdf">Attachment_C_-_Attestation_of_Integrity_for_Verity_Voting_2.3.3.pdf</a></span>
+  <span>(165.21 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_D_-_Attestation_of_Production_Hardware_and_Software_for_Verity_Voting_2.3.3.pdf" type="application/pdf">Attachment_D_-_Attestation_of_Production_Hardware_and_Software_for_Verity_Voting_2.3.3.pdf</a></span>
+  <span>(70.13 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_E_-_Record_of_Trusted_Build_for_Verity_Voting_2.3.3.pdf" type="application/pdf">Attachment_E_-_Record_of_Trusted_Build_for_Verity_Voting_2.3.3.pdf</a></span>
+  <span>(176.29 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_F_-_Modification_of_Certified_System_Analysis_Summary_Verity_2.3.pdf" type="application/pdf">Attachment_F_-_Modification_of_Certified_System_Analysis_Summary_Verity_2.3.pdf</a></span>
+  <span>(69.58 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart_Verity_Voting_2.3.3_Modification_Test_Plan_v1.0.pdf" type="application/pdf">Hart_Verity_Voting_2.3.3_Modification_Test_Plan_v1.0.pdf</a></span>
+  <span>(434.42 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart_Verity_Voting_2.3.3_Modification_Test_Plan_v1.1.pdf" type="application/pdf">Hart_Verity_Voting_2.3.3_Modification_Test_Plan_v1.1.pdf</a></span>
+  <span>(719.71 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/HRT-Verity-2.3.3_Application_Approval_Letter_03.19.19.pdf" type="application/pdf">HRT-Verity-2.3.3_Application_Approval_Letter_03.19.19.pdf</a></span>
+  <span>(301.36 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_G_-_As_Run_Hart_Verity_Voting_2.3.3_Modification_Test_Plan_v1.31.pdf" type="application/pdf">Attachment_G_-_As_Run_Hart_Verity_Voting_2.3.3_Modification_Test_Plan_v1.31.pdf</a></span>
+  <span>(665.49 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart_Verity_Voting_2.3.3_Certification_Modification_Test_Report_v1.31.pdf" type="application/pdf">Hart_Verity_Voting_2.3.3_Certification_Modification_Test_Report_v1.31.pdf</a></span>
+  <span>(351.74 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Cert._of_Conformance_and_Scope_Verity_Voting_2.3.3_5.3.19.pdf" type="application/pdf">Cert._of_Conformance_and_Scope_Verity_Voting_2.3.3_5.3.19.pdf</a></span>
+  <span>(1.58 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Final_Decision_Verity_Voting_2.3.3_5.3.2019.pdf" type="application/pdf">Final_Decision_Verity_Voting_2.3.3_5.3.2019.pdf</a></span>
+  <span>(140.87 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Initial_Decision_Verity_Voting_2.3.3_4.24.19_FINAL.pdf" type="application/pdf">Initial_Decision_Verity_Voting_2.3.3_4.24.19_FINAL.pdf</a></span>
+  <span>(62.42 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/verity-voting-233" data-a2a-title="Verity Voting 2.3.3"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fverity-voting-233&amp;title=Verity%20Voting%202.3.3"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20276" hreflang="en">Verity</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        2.3.3
+                  
+]]></description>
+  <pubDate>Tue, 24 Sep 2019 13:18:28 +0000</pubDate>
+    <dc:creator>Anonymous</dc:creator>
+    <guid isPermaLink="false">56636 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>Verity Voting 2.3</title>
+  <link>https://www.eac.gov/voting-equipment/verity-voting-23</link>
+  <description><![CDATA[
+<span class="taxonomyterm20276feed">Verity Voting 2.3</span>
+
+<span class="taxonomyterm20276feed"><span lang typeof="Person" property="schema:name" datatype class="taxonomyterm20276feed">Anonymous (not verified)</span></span>
+
+<span class="taxonomyterm20276feed">Tuesday, September 24, 2019
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/hart-intercivic-inc" hreflang="en">Hart InterCivic, Inc.</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/sli-compliance-division-gaming-laboratories" hreflang="en">SLI Compliance, a Division of Gaming Laboratories International, LLC</a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        03/15/2019
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        09/21/2018
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        09/21/2018
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_A_-_Warrant_of_Change_Control_for_Verity_Voting_2.3.pdf" type="application/pdf">Attachment_A_-_Warrant_of_Change_Control_for_Verity_Voting_2.3.pdf</a></span>
+  <span>(142.03 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_B_-__Attestation_of_Durabilty_fior_Verity_Voting_2.3.pdf" type="application/pdf">Attachment_B_-__Attestation_of_Durabilty_fior_Verity_Voting_2.3.pdf</a></span>
+  <span>(144.99 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/AttachmentA_HartVerityVoting2_3EACElectricalHardwareTestPlan_v1_0.pdf" type="application/pdf">AttachmentA_HartVerityVoting2_3EACElectricalHardwareTestPlan_v1_0.pdf</a></span>
+  <span>(728.14 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/AttachmentB_HartVerityVoting2_3EACEnvironmentalHardwareTestPlanv1_0.pdf" type="application/pdf">AttachmentB_HartVerityVoting2_3EACEnvironmentalHardwareTestPlanv1_0.pdf</a></span>
+  <span>(649.08 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/AttachmentC_AttestationOfIntegrityForVerityVoting2_3.pdf" type="application/pdf">AttachmentC_AttestationOfIntegrityForVerityVoting2_3.pdf</a></span>
+  <span>(165.04 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/AttachmentE1_RecordOfTrustedBuildForVerityVoting2_3_1.pdf" type="application/pdf">AttachmentE1_RecordOfTrustedBuildForVerityVoting2_3_1.pdf</a></span>
+  <span>(404.33 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/AttachmentE2_RecordOfTrustedBuildforVerityVoting2_3_2.pdf" type="application/pdf">AttachmentE2_RecordOfTrustedBuildforVerityVoting2_3_2.pdf</a></span>
+  <span>(169.26 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/AttachmentF_ModificationOfCertifiedSystemAnalysisSummaryVerity2_3.pdf" type="application/pdf">AttachmentF_ModificationOfCertifiedSystemAnalysisSummaryVerity2_3.pdf</a></span>
+  <span>(69.3 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/AttachmentG_AsRunHartVerityVoting2_3_Modification_TestPlanv1_0.pdf" type="application/pdf">AttachmentG_AsRunHartVerityVoting2_3_Modification_TestPlanv1_0.pdf</a></span>
+  <span>(646.79 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/AttachmentG1_As_RunHartVerity2_3_EAC_ElectricalHardwareTestPlanv2_0.pdf" type="application/pdf">AttachmentG1_As_RunHartVerity2_3_EAC_ElectricalHardwareTestPlanv2_0.pdf</a></span>
+  <span>(728.97 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/AttachmentG2_AsRunHartVerity2.3EACEnvironmentalHardwareTestPlanv2.0.pdf" type="application/pdf">AttachmentG2_AsRunHartVerity2.3EACEnvironmentalHardwareTestPlanv2.0.pdf</a></span>
+  <span>(650.88 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/AttachmentJ_VerityVoting2_0to2_3SystemModifications.pdf" type="application/pdf">AttachmentJ_VerityVoting2_0to2_3SystemModifications.pdf</a></span>
+  <span>(127.14 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/HartVerityVoting2_3Modification_TestPlan_v1_1.pdf" type="application/pdf">HartVerityVoting2_3Modification_TestPlan_v1_1.pdf</a></span>
+  <span>(645.88 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/HartVerityVoting2_3ModificationTestPlanv1_0.pdf" type="application/pdf">HartVerityVoting2_3ModificationTestPlanv1_0.pdf</a></span>
+  <span>(642.52 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/HRT_Verity_2_3_TestPlanApprovalmemo120618.pdf" type="application/pdf">HRT_Verity_2_3_TestPlanApprovalmemo120618.pdf</a></span>
+  <span>(150.66 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_G_-_As_Run_Hart_Verity_Voting_2.3_Modification_Test_Plan_v1.01.pdf" type="application/pdf">Attachment_G_-_As_Run_Hart_Verity_Voting_2.3_Modification_Test_Plan_v1.01.pdf</a></span>
+  <span>(646.79 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart_Intercivic_Verity_Voting_2.3_Certification_Modification_Test_Report_v1.3_-_FINAL2.pdf" type="application/pdf">Hart_Intercivic_Verity_Voting_2.3_Certification_Modification_Test_Report_v1.3_-_FINAL2.pdf</a></span>
+  <span>(447.78 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Cert_of_Conformace_and_Scope_Verity_Voting_2.3_3.15.193.pdf" type="application/pdf">Cert_of_Conformace_and_Scope_Verity_Voting_2.3_3.15.193.pdf</a></span>
+  <span>(1.24 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Final_Decision_Verity_Voting_2.3_3.15.20192.pdf" type="application/pdf">Final_Decision_Verity_Voting_2.3_3.15.20192.pdf</a></span>
+  <span>(63.27 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/InitialDecision_VerityVoting2_3_3_1_19_FINAL1.pdf" type="application/pdf">InitialDecision_VerityVoting2_3_3_1_19_FINAL1.pdf</a></span>
+  <span>(140.9 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/verity-voting-23" data-a2a-title="Verity Voting 2.3"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fverity-voting-23&amp;title=Verity%20Voting%202.3"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20276" hreflang="en">Verity</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        2.3
+                  
+]]></description>
+  <pubDate>Tue, 24 Sep 2019 13:18:28 +0000</pubDate>
+    <dc:creator>Anonymous</dc:creator>
+    <guid isPermaLink="false">56601 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>Verity Voting 3.1.0</title>
+  <link>https://www.eac.gov/voting-equipment/verity-voting-310</link>
+  <description><![CDATA[
+<span class="taxonomyterm20276feed">Verity Voting 3.1.0</span>
+
+<span class="taxonomyterm20276feed"><span lang typeof="Person" property="schema:name" datatype class="taxonomyterm20276feed">Anonymous (not verified)</span></span>
+
+<span class="taxonomyterm20276feed">Tuesday, September 24, 2019
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/hart-intercivic-inc" hreflang="en">Hart InterCivic, Inc.</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-11-1" hreflang="en">VVSG 1.1 </a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/sli-compliance-division-gaming-laboratories" hreflang="en">SLI Compliance, a Division of Gaming Laboratories International, LLC</a>
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Terminated Systems
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        04/25/2018
+                  
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/verity-voting-310" data-a2a-title="Verity Voting 3.1.0"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fverity-voting-310&amp;title=Verity%20Voting%203.1.0"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20276" hreflang="en">Verity</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        3.1.0
+                  
+]]></description>
+  <pubDate>Tue, 24 Sep 2019 13:18:28 +0000</pubDate>
+    <dc:creator>Anonymous</dc:creator>
+    <guid isPermaLink="false">56581 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>Verity Voting 2.2.2</title>
+  <link>https://www.eac.gov/voting-equipment/verity-voting-222</link>
+  <description><![CDATA[
+<span class="taxonomyterm20276feed">Verity Voting 2.2.2</span>
+
+<span class="taxonomyterm20276feed"><span lang typeof="Person" property="schema:name" datatype class="taxonomyterm20276feed">Anonymous (not verified)</span></span>
+
+<span class="taxonomyterm20276feed">Tuesday, September 24, 2019
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/hart-intercivic-inc" hreflang="en">Hart InterCivic, Inc.</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/sli-compliance-division-gaming-laboratories" hreflang="en">SLI Compliance, a Division of Gaming Laboratories International, LLC</a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        05/22/2018
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        01/28/2018
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        01/28/2018
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_A_-_Warrant_of_Change_Control_for_Verity_Voting_2.2.2.pdf" type="application/pdf">Attachment_A_-_Warrant_of_Change_Control_for_Verity_Voting_2.2.2.pdf</a></span>
+  <span>(51.65 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_B_-_Verity_Voting_2.2.2_Attestation_of_Durability.pdf" type="application/pdf">Attachment_B_-_Verity_Voting_2.2.2_Attestation_of_Durability.pdf</a></span>
+  <span>(55.38 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_C_-_Verity_Voting_2.2.2_Attestation_of_Integrity.pdf" type="application/pdf">Attachment_C_-_Verity_Voting_2.2.2_Attestation_of_Integrity.pdf</a></span>
+  <span>(66.01 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_D_-_Attestation_of_Production_Hardware_and_Software_for_Verity_Voting_2.2.2.pdf" type="application/pdf">Attachment_D_-_Attestation_of_Production_Hardware_and_Software_for_Verity_Voting_2.2.2.pdf</a></span>
+  <span>(66.77 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_E_-_Record_of_Trusted_Build_Verity_Voting_2.2.2.pdf" type="application/pdf">Attachment_E_-_Record_of_Trusted_Build_Verity_Voting_2.2.2.pdf</a></span>
+  <span>(336.31 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_F_-_Modification_of_Certified_System_Analysis_Summary_Verity_2.2.2.pdf" type="application/pdf">Attachment_F_-_Modification_of_Certified_System_Analysis_Summary_Verity_2.2.2.pdf</a></span>
+  <span>(36.28 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_G_-__As_Run_Hart_Verity_Voting_2.2.2_EAC_Modification_Test_Plan_v1.2.pdf" type="application/pdf">Attachment_G_-__As_Run_Hart_Verity_Voting_2.2.2_EAC_Modification_Test_Plan_v1.2.pdf</a></span>
+  <span>(784.02 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_I_-_List_of_Source_Code_Reviewed_and_Results.pdf" type="application/pdf">Attachment_I_-_List_of_Source_Code_Reviewed_and_Results.pdf</a></span>
+  <span>(167.04 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart_Verity_2.2.2_Modification_Test_Plan_v1.0.pdf" type="application/pdf">Hart_Verity_2.2.2_Modification_Test_Plan_v1.0.pdf</a></span>
+  <span>(771.96 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart_Verity_2.2.2_Modification_Test_Plan_v1.1.pdf" type="application/pdf">Hart_Verity_2.2.2_Modification_Test_Plan_v1.1.pdf</a></span>
+  <span>(783.63 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart_Verity_2.2.2_Modification_Test_Plan_v1.2.pdf" type="application/pdf">Hart_Verity_2.2.2_Modification_Test_Plan_v1.2.pdf</a></span>
+  <span>(784.02 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/HRT-Verity-2.2.2_Application.Approval.Letter.pdf" type="application/pdf">HRT-Verity-2.2.2_Application.Approval.Letter.pdf</a></span>
+  <span>(167.53 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/HRT-Verity-2.2.2_Test_Plan_Approval_memo_3-7-18.pdf" type="application/pdf">HRT-Verity-2.2.2_Test_Plan_Approval_memo_3-7-18.pdf</a></span>
+  <span>(110.36 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Test Report Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Attachment_G_-__As_Run_Hart_Verity_Voting_2.2.2_EAC_Modification_Test_Plan_v1.21.pdf" type="application/pdf">Attachment_G_-__As_Run_Hart_Verity_Voting_2.2.2_EAC_Modification_Test_Plan_v1.21.pdf</a></span>
+  <span>(784.02 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart_Intercivic_Verity_Voting_2.2.2_Certification_Modification_Test_Report_v1.11.pdf" type="application/pdf">Hart_Intercivic_Verity_Voting_2.2.2_Certification_Modification_Test_Report_v1.11.pdf</a></span>
+  <span>(403.12 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Cert._of_Conformace_and_Scope_Verity_Voting_2.2.2_5.22.18.pdf" type="application/pdf">Cert._of_Conformace_and_Scope_Verity_Voting_2.2.2_5.22.18.pdf</a></span>
+  <span>(1.16 MB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Final_Decision_Verity_Voting_2.2.2_5.15.18.pdf" type="application/pdf">Final_Decision_Verity_Voting_2.2.2_5.15.18.pdf</a></span>
+  <span>(93.08 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Initial_Decision_Verity_Voting_2.2.2_4.25.18.pdf" type="application/pdf">Initial_Decision_Verity_Voting_2.2.2_4.25.18.pdf</a></span>
+  <span>(102.94 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/verity-voting-222" data-a2a-title="Verity Voting 2.2.2"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fverity-voting-222&amp;title=Verity%20Voting%202.2.2"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20276" hreflang="en">Verity</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        2.2.2
+                  
+]]></description>
+  <pubDate>Tue, 24 Sep 2019 13:18:28 +0000</pubDate>
+    <dc:creator>Anonymous</dc:creator>
+    <guid isPermaLink="false">56561 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>Verity Voting 2.2 Modification</title>
+  <link>https://www.eac.gov/voting-equipment/verity-voting-22-modification</link>
+  <description><![CDATA[
+<span class="taxonomyterm20276feed">Verity Voting 2.2 Modification</span>
+
+<span class="taxonomyterm20276feed"><span lang typeof="Person" property="schema:name" datatype class="taxonomyterm20276feed">Anonymous (not verified)</span></span>
+
+<span class="taxonomyterm20276feed">Tuesday, September 24, 2019
+</span>
+
+
+  
+      <h5>Manufacturer</h5>
+                        <a href="https://www.eac.gov/voting-equipment/registered-manufacturers/hart-intercivic-inc" hreflang="en">Hart InterCivic, Inc.</a>
+                  
+
+
+  
+      <h5>Testing standard</h5>
+                        <a href="https://www.eac.gov/vvsg-10-2005" hreflang="en">VVSG 1.0 (2005)</a>
+                  
+
+
+  
+      <h5>Testing Lab</h5>
+                        <a href="https://www.eac.gov/voting-equipment/voting-system-test-laboratories-vstl/sli-global-solutions-formerly-systest-labs" hreflang="en">SLI Global Solutions (formerly SysTest Labs)</a>
+                  
+
+
+  
+      <h5>Certification Date</h5>
+                        12/12/2016
+                  
+
+
+  
+      <h5>Certification Status</h5>
+                        Certified System
+                  
+
+
+  
+      <h5>Testing Application Date</h5>
+                        09/07/2016
+                  
+
+
+  
+      <h5>Application Accepted Date</h5>
+                        09/07/2016
+                  
+
+
+  
+      <h5>Testing Documents Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart%20Intercivic%20Verity%202%202%20Certification%20Modification%20Test%20Report%20v1%200.pdf" type="application/pdf">Hart Intercivic Verity 2 2 Certification Modification Test Report v1 0.pdf</a></span>
+  <span>(392.19 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart%20Verity%202%202%20Modification%20Test%20Plan%20v1%201.pdf" type="application/pdf">Hart Verity 2 2 Modification Test Plan v1 1.pdf</a></span>
+  <span>(825.24 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart%20Verity%202.2%20Modification%20Test%20Plan%20v1.0.pdf" type="application/pdf">Hart Verity 2.2 Modification Test Plan v1.0.pdf</a></span>
+  <span>(379.33 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart_Intercivic_Verity_2_2_Certification_Modification_Test_Report_v1_1.pdf" type="application/pdf">Hart_Intercivic_Verity_2_2_Certification_Modification_Test_Report_v1_1.pdf</a></span>
+  <span>(414.83 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Correspondence Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/HRT1601_approval.pdf" type="application/pdf">HRT1601_approval.pdf</a></span>
+  <span>(88.6 KB)</span>
+
+      
+
+
+                      
+        
+
+
+  
+      <h5>Certification Media</h5>
+            
+                          
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Cert.and.Scope.FINAL.pdf" type="application/pdf">Cert.and.Scope.FINAL.pdf</a></span>
+  <span>(776 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Decision.Authority.Grant.of.Cert.FINAL.12.12.16.pdf" type="application/pdf">Decision.Authority.Grant.of.Cert.FINAL.12.12.16.pdf</a></span>
+  <span>(64.63 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Decision.Authority.Initial.Decision.FINAL.12.7.16.pdf" type="application/pdf">Decision.Authority.Initial.Decision.FINAL.12.7.16.pdf</a></span>
+  <span>(62.95 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart%20Verity%202.2%20Modification%20Test%20Plan%20v1.2.pdf" type="application/pdf">Hart Verity 2.2 Modification Test Plan v1.2.pdf</a></span>
+  <span>(446.46 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart%20Verity%202.2%20Modification%20Test%20Plan%20v1.2-highlights%20removed.pdf" type="application/pdf">Hart Verity 2.2 Modification Test Plan v1.2-highlights removed.pdf</a></span>
+  <span>(446.39 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf taxonomyterm20276"><a href="https://www.eac.gov/sites/default/files/voting_system/files/Hart_Intercivic_Verity_2_2_Certification_Modification_Test_Report_v1_1_-_Final.pdf" type="application/pdf">Hart_Intercivic_Verity_2_2_Certification_Modification_Test_Report_v1_1_-_Final.pdf</a></span>
+  <span>(413.69 KB)</span>
+
+      
+
+
+                  
+
+
+
+
+  
+  
+
+            <span class="file file--mime-application-pdf file--application-pdf voting-equipmentverity-voting-22-modification"><a href="https://www.eac.gov/sites/default/files/voting_system/files/TP.Approval.Hart.pdf" type="application/pdf">TP.Approval.Hart.pdf</a></span>
+  <span>(70.17 KB)</span>
+
+      
+
+
+                      
+        
+<span class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://www.eac.gov/voting-equipment/verity-voting-22-modification" data-a2a-title="Verity Voting 2.2 Modification"><a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.eac.gov%2Fvoting-equipment%2Fverity-voting-22-modification&amp;title=Verity%20Voting%202.2%20Modification"></a></span>
+
+
+  
+      <h5>Product</h5>
+                        <a href="https://www.eac.gov/taxonomy/term/20276" hreflang="en">Verity</a>
+                  
+
+
+  
+      <h5>Version</h5>
+                        2.2
+                  
+]]></description>
+  <pubDate>Tue, 24 Sep 2019 13:18:28 +0000</pubDate>
+    <dc:creator>Anonymous</dc:creator>
+    <guid isPermaLink="false">56401 at https://www.eac.gov</guid>
+    </item>
+
+  </channel>
+</rss>

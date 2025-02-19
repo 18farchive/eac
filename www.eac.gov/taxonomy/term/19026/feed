@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.eac.gov/">
+  <channel>
+    <title>North Dakota</title>
+    <link>https://www.eac.gov/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>NVRA instructions North Dakota Spanish</title>
+  <link>https://www.eac.gov/nvra-instructions-north-dakota-spanish</link>
+  <description><![CDATA[
+<span class="taxonomyterm19026feed">NVRA instructions North Dakota Spanish</span>
+
+
+            
+<p><strong>Instrucciones de los Estados — DAKOTA DEL NORTE</strong></p>
+
+
+<p><strong>Revisado: 01-03-2006</strong>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Dakota del Norte no tiene inscripción de votantes.&nbsp;</p>
+
+      
+<span class="taxonomyterm19026feed"><a title="View user profile." href="https://www.eac.gov/user/1" lang about="https://www.eac.gov/user/1" typeof="Person" property="schema:name" datatype class="taxonomyterm19026feed">bluewater</a></span>
+
+<span class="taxonomyterm19026feed">Tuesday, October 15, 2019
+</span>
+
+
+  
+    <h5>Supported Language</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/19511" hreflang="en">En Español</a>
+              
+
+
+  
+    <h5>State</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/19026" hreflang="en">North Dakota</a>
+              
+]]></description>
+  <pubDate>Tue, 15 Oct 2019 10:31:45 +0000</pubDate>
+    <dc:creator>bluewater</dc:creator>
+    <guid isPermaLink="false">59746 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>NVRA instructions North Dakota Chinese</title>
+  <link>https://www.eac.gov/nvra-instructions-north-dakota-chinese</link>
+  <description><![CDATA[
+<span class="taxonomyterm19026feed">NVRA instructions North Dakota Chinese</span>
+
+
+            
+<p><strong>北达科他州（ NORTH DAKOTA ）</strong></p>
+
+<p><strong>更新日期：03-01-2006</strong></p>
+
+<p>&nbsp;</p>
+
+<p>北达科他州没有选民登记。</p>
+
+
+      
+<span class="taxonomyterm19026feed"><a title="View user profile." href="https://www.eac.gov/user/1" lang about="https://www.eac.gov/user/1" typeof="Person" property="schema:name" datatype class="taxonomyterm19026feed">bluewater</a></span>
+
+<span class="taxonomyterm19026feed">Tuesday, October 15, 2019
+</span>
+
+
+  
+    <h5>Supported Language</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/19506" hreflang="en">中文</a>
+              
+
+
+  
+    <h5>State</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/19026" hreflang="en">North Dakota</a>
+              
+]]></description>
+  <pubDate>Tue, 15 Oct 2019 10:31:45 +0000</pubDate>
+    <dc:creator>bluewater</dc:creator>
+    <guid isPermaLink="false">59501 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>NVRA instructions North Dakota English</title>
+  <link>https://www.eac.gov/nvra-instructions-north-dakota-english</link>
+  <description><![CDATA[
+<span class="taxonomyterm19026feed">NVRA instructions North Dakota English</span>
+
+
+            <p>State Instructions —&nbsp;<strong>NORTH DAKOTA</strong></p>
+
+<p><strong>Updated: 03-01-2006 </strong></p>
+
+<p>&nbsp;</p>
+
+<p>North Dakota does not have voter registration.</p>
+
+      
+<span class="taxonomyterm19026feed"><a title="View user profile." href="https://www.eac.gov/user/1" lang about="https://www.eac.gov/user/1" typeof="Person" property="schema:name" datatype class="taxonomyterm19026feed">bluewater</a></span>
+
+<span class="taxonomyterm19026feed">Tuesday, October 15, 2019
+</span>
+
+
+  
+    <h5>Supported Language</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/18846" hreflang="en">English</a>
+              
+
+
+  
+    <h5>State</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/19026" hreflang="en">North Dakota</a>
+              
+]]></description>
+  <pubDate>Tue, 15 Oct 2019 10:31:45 +0000</pubDate>
+    <dc:creator>bluewater</dc:creator>
+    <guid isPermaLink="false">59241 at https://www.eac.gov</guid>
+    </item>
+
+  </channel>
+</rss>

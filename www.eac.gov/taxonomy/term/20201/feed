@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.eac.gov/">
+  <channel>
+    <title>Election Night + Beyond</title>
+    <link>https://www.eac.gov/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>List Maintenance</title>
+  <link>https://www.eac.gov/node/69736</link>
+  <description><![CDATA[
+<span class="taxonomyterm20201feed">List Maintenance</span>
+
+<span class="taxonomyterm20201feed"><a title="View user profile." href="https://www.eac.gov/user/1" lang about="https://www.eac.gov/user/1" typeof="Person" property="schema:name" datatype class="taxonomyterm20201feed">bluewater</a></span>
+
+<span class="taxonomyterm20201feed">Friday, March 31, 2023
+</span>
+
+
+  
+    <h5>Title Override</h5>
+                  List<br>Maintenance
+              
+
+
+  
+    <h5>Category</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/20201" hreflang="en">Election Night + Beyond</a>
+              
+]]></description>
+  <pubDate>Fri, 31 Mar 2023 04:24:03 +0000</pubDate>
+    <dc:creator>bluewater</dc:creator>
+    <guid isPermaLink="false">69736 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>Auditing + Recounts</title>
+  <link>https://www.eac.gov/node/69731</link>
+  <description><![CDATA[
+<span class="taxonomyterm20201feed">Auditing + Recounts</span>
+
+<span class="taxonomyterm20201feed"><a title="View user profile." href="https://www.eac.gov/user/1" lang about="https://www.eac.gov/user/1" typeof="Person" property="schema:name" datatype class="taxonomyterm20201feed">bluewater</a></span>
+
+<span class="taxonomyterm20201feed">Friday, March 31, 2023
+</span>
+
+
+  
+    <h5>Title Override</h5>
+                  Auditing +<br>Recounts
+              
+
+
+  
+    <h5>Category</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/20201" hreflang="en">Election Night + Beyond</a>
+              
+]]></description>
+  <pubDate>Fri, 31 Mar 2023 04:23:31 +0000</pubDate>
+    <dc:creator>bluewater</dc:creator>
+    <guid isPermaLink="false">69731 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>Canvassing</title>
+  <link>https://www.eac.gov/node/69726</link>
+  <description><![CDATA[
+<span class="taxonomyterm20201feed">Canvassing</span>
+
+<span class="taxonomyterm20201feed"><a title="View user profile." href="https://www.eac.gov/user/1" lang about="https://www.eac.gov/user/1" typeof="Person" property="schema:name" datatype class="taxonomyterm20201feed">bluewater</a></span>
+
+<span class="taxonomyterm20201feed">Friday, March 31, 2023
+</span>
+
+
+  
+    <h5>Title Override</h5>
+                  Canvassing
+              
+
+
+  
+    <h5>Category</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/20201" hreflang="en">Election Night + Beyond</a>
+              
+]]></description>
+  <pubDate>Fri, 31 Mar 2023 04:23:08 +0000</pubDate>
+    <dc:creator>bluewater</dc:creator>
+    <guid isPermaLink="false">69726 at https://www.eac.gov</guid>
+    </item>
+<item>
+  <title>Voting + Tabulation</title>
+  <link>https://www.eac.gov/node/69721</link>
+  <description><![CDATA[
+<span class="taxonomyterm20201feed">Voting + Tabulation</span>
+
+<span class="taxonomyterm20201feed"><a title="View user profile." href="https://www.eac.gov/user/1" lang about="https://www.eac.gov/user/1" typeof="Person" property="schema:name" datatype class="taxonomyterm20201feed">bluewater</a></span>
+
+<span class="taxonomyterm20201feed">Friday, March 31, 2023
+</span>
+
+
+  
+    <h5>Title Override</h5>
+                  Voting +<br>Tabulation
+              
+
+
+  
+    <h5>Category</h5>
+                  <a href="https://www.eac.gov/taxonomy/term/20201" hreflang="en">Election Night + Beyond</a>
+              
+]]></description>
+  <pubDate>Fri, 31 Mar 2023 04:22:28 +0000</pubDate>
+    <dc:creator>bluewater</dc:creator>
+    <guid isPermaLink="false">69721 at https://www.eac.gov</guid>
+    </item>
+
+  </channel>
+</rss>
